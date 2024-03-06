@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="039" Year="32" PromulgateMonth="03" PromulgateDay="04"><LawNum>明治三十二年法律第三十九号</LawNum>
+  <LawBody>
+    <LawTitle Kana="ちょさくけんほう" Abbrev="" AbbrevKana="">著作权法</LawTitle>
+    <TOC>
+      <TOCChapter Num="1">
+        <ChapterTitle>第一章　作者的权利</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="2">
+        <ChapterTitle>第二章　出版权</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="3">
+        <ChapterTitle>第三章　伪作</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="4">
+        <ChapterTitle>第四章　罚则</ChapterTitle>
+      </TOCChapter>
+      <TOCChapter Num="5">
+        <ChapterTitle>第五章　附则</ChapterTitle>
+      </TOCChapter>
+    </TOC>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　作者的权利</ChapterTitle>
+        <Article Num="1">
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>文书、演讲、图画、建筑、雕刻、模型、照片、演奏、歌唱等文艺、学术或美术（包括音乐。下同）范围内的作品的作者专有复制其作品的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>文艺、学术的作品的著作权，包括翻译权；各种剧本及乐谱的著作权包括兴行权。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>可以让渡全部或部分著作权。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">发行或兴行的作品的著作权，持续到作者生存期间及其死后三十年。</Sentence>
+              <Sentence Num="2">数人共同著作的作品的著作权，持续到最后死亡的人死后三十年。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>作者死后发行或兴行的作品的著作权，持续到发行或兴行后的三十年。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">无名或假名作品的著作权，持续到发行或兴行后的三十年。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，该期间内作者以其真名注册时，从第三条之规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>以官公厅、学校、神社、寺院、协会、会社等团体著作名义发行或兴行的作品的著作权，持续到发行或兴行后的三十年。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>著作权人在原作品发行后十年内未发行其翻译物时，其翻译权消灭。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在前项的期间内，著作权人发行其欲受保护的语言的翻译物时，该语言的翻译权不消灭。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对于按册号顺次发行的作品，前四条的期间自每册或每号发行之时起算。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">对于每次发行一部分的全部完成的作品，前四条的期间自最终部分发行之时起算。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，经过三年后仍未发行剩余部分时，已经发行的部分视为最终部分。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="9">
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在前六条的情况下计算著作权的期间时，自作者死亡之年或作品发行、兴行之年的第二年起算。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="10">
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>没有继承人时，著作权消灭。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>左列不得作为著作权的对象物。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>法律、命令及官公文书</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>报纸或杂志上刊载的杂报及报道时事的文章</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>裁判所、议会及政治讨论集会中作出的公开演讲</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">无名或假名作品的发行人或兴行人可以保全属于著作权人的权利。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，作者以其真名注册时，不在此限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>数人共同著作的作品的著作权属于各作者共有。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">各作者分担的部分不明的情况下，作者中有拒绝发行或兴行的人时，其他作者可以向其赔偿并取得其份额。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，有相反的契约时，不在此限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">各作者分担的部分明确的情况下，作者中有拒绝发行或兴行的人时，其他作者可以将自己的部分分离出来作为单独的作品发行或兴行。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，有相反的契约时，不在此限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在本条第二项的情况下，不得违反反对发行或兴行的作者的意愿将其姓名列在该作品上。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">将大量作品合法汇编的人视为作者，仅就其汇编物全体拥有著作权。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，各部分的著作权属于其作者。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>著作权的继承、让渡、出质，非经注册不得以之对抗第三人。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>无名或假名作品的作者，无论其现在是否拥有著作权，可以以其真名进行注册。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>无论无论其现在是否拥有著作权，作者可以注册其作品的著作年月日。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>著作权人首次发行其作品时，著作权人或作品的发行人限在一年内可以注册首次发行年月日。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>注册由行政厅进行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>有关注册的规定以命令确定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">尚未发行或兴行的作品的原件及其著作权不受债权人的扣押。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，著作权人同意时，不在此限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>发行或兴行他人的作品的情况下，作者尚在生存中的，无论作者现在是否拥有著作权，未经其同意，不得更改、隐匿作者的姓名、称号，或篡改其作品，或对其作品进行其他变更、修改标题。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>发行或兴行他人的作品的情况下，在作者死后，即使著作权已消灭，不得篡改其作品或对其作品进行其他变更而妨害作者意思，或是修改其标题、变更或隐匿作者的姓名、称号。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前二项的规定也适用于第二十条，第二十条之二，第二十二条之五第二项，第二十七条第一项、第二项，第三十条第一项第二号至第九号的情况。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">不因在原作品上加上训点、读音、句读、批评、注解、附录、图画或进行其他修正、增减或改编而新产生著作权。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，应被视为新作品的不在此限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>报纸或杂志上刊载的讨论政治上时事问题的文章（学术上的作品除外），没有特别声明禁止转载时，可以注明出处后将其转载到其他报纸或杂志上。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20_2">
+          <ArticleTitle>第二十条之二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">对时事问题的公开演讲，可以在注明作者姓名、演讲时间及地点后刊载到报纸或杂志上。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，搜集同一作者的演讲的情况下，须得到该作者许可。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">翻译人视为作者，享有本法的保护。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，原作者的权利并不因此受妨害。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>按与原作品不同的技术合法复制美术上的作品的人视为作者，享有本法的保护。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_2">
+          <ArticleTitle>第二十二条之二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>文艺、学术或美术范围内的作品的著作权包括将其作品以动态照片术或与之类似的方法复制（包括制作剧本将其改为电影的情况）及兴行的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_3">
+          <ArticleTitle>第二十二条之三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">以动态照片术或与之类似的方法制作的作品的作者为文艺、学术或美术范围内的作品的作者，享有本法的保护。</Sentence>
+              <Sentence Num="2">其保护期间，有独创性的，适用第三条至第六条及第九条的规定；没有独创性的，适用第二十三条的规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_4">
+          <ArticleTitle>第二十二条之四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">将他人的作品以动态照片术或与之类似的方法复制（包括制作剧本将其改为电影的情况）的人视为作者，享有本法的保护。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，原作者的权利并不因此受妨害。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_5">
+          <ArticleTitle>第二十二条之五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>文艺、学术或美术范围内的作品的著作权包括许可将该作品以无线电话广播的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">广播业者欲广播已经发行或兴行的他人的作品时，须与著作权人协议。</Sentence>
+              <Sentence Num="2">无法达成协议时，可以依命令的规定支付主务大臣确定的相当的补偿金后广播该作品。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对前项补偿金额度有异议的，可以通过诉讼请求增减。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前项之诉中，著作权人或广播业者为被告。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_6">
+          <ArticleTitle>第二十二条之六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>文艺、学术或美术范围内的作品的著作权包括将其作品以声音写入供机械复制使用的机器中及以该机器兴行的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22_7">
+          <ArticleTitle>第二十二条之七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>合法将他人的作品以声音写入供机械复制使用的机器中的人视为作者，就该机器拥有著作权。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>照片著作权持续十年。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">前项的期间自该作品首次发行年份的第二年起算。</Sentence>
+              <Sentence Num="2">如未发行的，以制作底片年份的第二年起算。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">以照片术合法复制美术上的作品的人，在与原作品的著作权相同的期间内享有本法的保护。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，当事人间存在契约时，从其契约的限制。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在文艺、学术的作品中插入的照片，如该照片专门为该作品创作或使他人创作时，其著作权属于文艺、学术的作品的作者，在与其著作权相同的期间内存续。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>受他人嘱托创作的肖像照片的著作权属于该嘱托人。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>有关照片的规定准用于以与照片术类似的方法制作的作品。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>尚未发行或兴行的著作权人不明的作品，可以依命令的规定发行或兴行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>因著作权人的居所不明或其他命令规定的事由而不能与著作权人协议时，可以依命令的规定，提存主务大臣确定的相当的补偿金后，发行或兴行该作品。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对前项补偿金额度有异议的，可以通过诉讼请求增减。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前项之诉中，著作权人或发行、兴行作品的人为被告。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">对于外国人的著作权，适用本法的规定，条约有不同规定的除外。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，就著作权保护条约没有规定的情况下，限于在帝国首先发行其作品的人享有本法的保护。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　出版权</ChapterTitle>
+        <Article Num="28_2">
+          <ArticleTitle>第二十八条之二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>著作权人对接受其作品作为文书或图画出版的人，可以设定出版权。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_3">
+          <ArticleTitle>第二十八条之三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">出版权人依设定行为所约定的事项，专有将作为出版权对象的作品作为文书或图画按原作本来样态以印刷术等机械或化学方法复制并发售、分发的权利。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，作为著作权人的作者死亡时，或是设定行为有不同约定的情况下，出版权设定后经过三年时，不妨碍著作权人将作品汇编为全集或进行其他向汇编物中辑录的行为后，或是从全集等汇编物中分离一部分，另行出版。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_4">
+          <ArticleTitle>第二十八条之四</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>出版权的设定行为中没有不同约定时，自其设定起持续三年。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_5">
+          <ArticleTitle>第二十八条之五</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">出版权人承担在出版权设定起三个月以内出版作品的义务。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，设定行为中有不同约定时，不在此限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>出版权人违反前项的义务时，著作权人可以请求出版权消灭。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_6">
+          <ArticleTitle>第二十八条之六</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">出版权人承担连续出版作品的义务。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，设定行为中有不同约定时，不在此限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>出版权人违反前项的义务时，著作权人可以确定三个月以上的期间，催告其履行；在该期间内没有履行的，可以请求出版权消灭。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_7">
+          <ArticleTitle>第二十八条之七</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>作者可以在出版权人复制作品各版终了之前，在其作品中进行正当范围内的修正增减。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>出版权人在作品再版的情况下，须每次预先通知作者。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_8">
+          <ArticleTitle>第二十八条之八</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>著作权人为停止其作品的出版，无论何时，都可以在赔偿损害后请求出版权消灭。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_9">
+          <ArticleTitle>第二十八条之九</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>出版权在经著作权人同意后可以让渡或出质。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_10">
+          <ArticleTitle>第二十八条之十</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>出版权的得失、变更及出质，非经注册不得以之对抗第三人。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第十六条的规定准用于出版权的注册。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28_11">
+          <ArticleTitle>第二十八条之十一</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对于对出版权的侵害，除本法第三十四条及第三十六条之二的规定外，准用有关伪作的规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　伪作</ChapterTitle>
+        <Article Num="29">
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>侵害著作权的人是伪作者；除本法规定的外，按民法第三编第五章的规程承担由此产生的损害的赔偿责任。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>依左列方法复制已发行的作品，不视为伪作。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>第一</ItemTitle>
+              <ItemSentence>
+                <Sentence>没有发行的意思，且不以器械或化学方法复制的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>第二</ItemTitle>
+              <ItemSentence>
+                <Sentence>在自己的作品中在正当的范围内节录、引用的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>第三</ItemTitle>
+              <ItemSentence>
+                <Sentence>以供普通教育上的修身书籍及读本使用为目的在正当的范围内拔萃搜集的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>第四</ItemTitle>
+              <ItemSentence>
+                <Sentence>将文艺、学术的作品的文句插入自己创作的剧本或补充供乐谱使用的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>第五</ItemTitle>
+              <ItemSentence>
+                <Sentence>将文艺、学术的作品作为说明的材料插入美术上的作品中或将美术上的作品作为说明的材料插入文艺、学术的作品中的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>第六</ItemTitle>
+              <ItemSentence>
+                <Sentence>制作图画的雕刻物、模型或制作雕刻物、模型的图画的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>第七</ItemTitle>
+              <ItemSentence>
+                <Sentence>不以营利为目的，且出演者不收受报酬，将剧本或乐谱供兴行使用或将其兴行广播的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>第八</ItemTitle>
+              <ItemSentence>
+                <Sentence>合法地将作品以声音写入供机械复制使用的机器中，将其供兴行或广播使用的</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>第九</ItemTitle>
+              <ItemSentence>
+                <Sentence>专供官厅使用复制的</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>本条的情况下，须明示其出处。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>以在帝国内发售、分发为目的进口伪作物的，视为伪作者。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>为练习使用，发行已创作的问题的解答书籍的，视为伪作者。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>善意且无过失地作出伪作，得到利益，因此给他人造成损失的，在其得到利益的限度内负返还的义务。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>数人共同著作的作品的著作权人对于伪作，可以在没有其他著作权人同意的情况下自行告诉及对自己持有的份额请求损害的赔偿或应自己持有的份额请求返还前条的利益。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对伪作提起民事诉讼的情况下，在已经发行的作品上作为其作者署名的，推定其为作者。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对于无名或假名作品，在其作品上以发行人署名的，推定其为发行人。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>就尚未发行的剧本、乐谱及以动态照片术或与之类似的方法制作的作品的兴行，在兴行时作为作者表示姓名的，推定其为作者。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>没有表示作者的姓名时，其兴行人推定为作者。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>按第十五条第三项的规定注册著作年月日的作品，以该年月日推定为创作的年月日。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>按第十五条第四项的规定注册首次发行年月日的作品，以该年月日推定为首次发行的年月日。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>就伪作提起民事或刑事起诉时，裁判所可以依原告或告诉人的申请，使其提供或不提供保证，临时停止或扣押有伪作嫌疑的作品的发售、分发，或是停止其兴行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在前项的情况下，并非伪作的判决确定时，申请者承担由停止或扣押产生的损害的赔偿责任。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36_2">
+          <ArticleTitle>第三十六条之二</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对有违反第十八条的规定的行为的人，作者可以请求确保其作者身份，或是请求订正等对恢复其声望、名誉适当的处分，以及可以按民法第三编第五章的规程请求损害的赔偿。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对有违反第十八条的规定的行为的人，在作者死后，作者的亲属可以请求确保作者身份，或是请求订正等对恢复其声望、名誉适当的处分。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对按前二项的规定提起的民事诉讼准用前二条的规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36_3">
+          <ArticleTitle>第三十六条之三</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>主务大臣在确定第二十二条之五第二项或第二十七条第二项的规定的补偿金额度时，应咨询著作权制度审议会。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　罚则</ChapterTitle>
+        <Article Num="37">
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>作出伪作的，及知情发售或分发伪作物的，处二年以下的惩役或五万日元以下的罚金。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>违反第十八条的规定的，处五万日元以下的罚金。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>违反第二十条、第二十条之二及第三十条第二项的规定，不明示出处进行复制的，以及违反第十三条第四项的规定的，处一万日元以下的罚金。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>附上并非作者的人的姓名、称号，发行作品的，处一年以下的惩役或三万日元以下的罚金。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="41">
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>删除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>进行虚假的注册的，处一万日元以下的罚金。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>伪作物及专供伪作使用的器械、器具，限于为伪作者、印刷者、发售者及分发者所有的情况下，予以没收。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="44">
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">本章规定的犯罪，非经被害人告诉，不论其罪。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，在第三十八条的情况下，作者已死亡时；以及第四十条至第四十二条的情况，不在此限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="45">
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>删除</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　附则</ChapterTitle>
+        <Article Num="46">
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>本法施行的期日以敕令规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>明治二十六年法律第十六号版权法、明治二十年敕令第七十八号剧本乐谱条例、明治二十年敕令第七十九号照片版权条例，自本法施行之日起废止。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47">
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>本法施行前著作权未消灭的作品，自本法施行之日起享有本法的保护。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="48">
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>已复制的、本法施行前不被认为是伪作的复制物可以发售、分发；已着手复制的，可以在完成复制后发售、分发。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>供前项复制使用的器械、器具现存时，仍可以在本法施行后五年内仍使用其进行复制。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="49">
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">在本法施行前翻译或着手翻译，当时不认为是伪作的，可以在完成后发售、分发。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，翻译物须在本法施行后七年内发行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前项翻译物发行后五年内仍可以复制。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="50">
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在本法施行前已兴行或着手兴行，当时不认为是伪作的，仍可以在本法施行后五年内兴行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="51">
+          <ArticleTitle>第五十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在第四十八条至第五条的情况下，非经履行命令规定的手续，不得发售、分发或兴行该复制物。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="52">
+          <ArticleTitle>第五十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第三条至第五条中，除演奏、歌唱的著作权及第二十二条之七规定的著作权外，在当前一段时间，“三十年”替换为“三十七年”。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第六条中，除演奏、歌唱的著作权及第二十二条之七规定的著作权外，在当前一段时间，“三十年”替换为“三十二年”。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>第二十三条第一项中，在当前一段时间，“十年”替换为“十二年”。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision AmendLawNum="昭和六年六月一日法律第六十四号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法施行的期日以敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和九年五月二日法律第四十八号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法施行的期日以敕令对各规定进行规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二十五年五月二日法律第一百三十一号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>本法自公布之日起算经过三十日后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二十七年六月六日法律第一百六十八号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>本法自公布之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三十一年四月二十八日法律第八十六号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>本法自世界公约在日本国生效之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三十三年五月十五日法律第一百五十五号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法自公布之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三十七年三月二十九日法律第三十五号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法自昭和三十七年四月一日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三十七年四月五日法律第七十四号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1">本法自公布之日起施行。</Sentence>
+          <Sentence Num="2" Function="proviso">但是，本法不适用于本法施行前著作权已消灭的作品。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三十七年五月十六日法律第一百四十号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>本法自昭和三十七年十月一日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1">依本法修改后的规定，除本附则有特别规定的情况外，也适用于本法施行前发生的事项。</Sentence>
+          <Sentence Num="2" Function="proviso">但是，这不妨碍按依本法修改前的规定产生的效力。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>对本法施行之际当前正处系属中的诉讼，作为依本法修改后不得提起该诉讼的规定的例外，仍依照此前的规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>对本法施行之际当前正处系属中的诉讼的管辖，作为依本法修改后该管辖为专属管辖的规定的例外，仍依照此前的规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="5">
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1">对本法施行之际当前正按依本法修改前的规定的有关提起诉讼期间正在进行的处分或裁决的诉讼的提起诉讼期间，仍依照此前的规定。</Sentence>
+          <Sentence Num="2" Function="proviso">但是，这限于按依本法修改后的规定的提起诉讼期间比依本法修改前的规定的提起诉讼期间更短的情况。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="6">
+        <ParagraphNum>６</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence>本法施行前作出的、因本法修改确定了提起诉讼期间的有关处分或裁决的当事人诉讼的提起诉讼期间，自本法施行之日起算。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="7">
+        <ParagraphNum>７</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1">对本法施行之际当前正处系属中的处分或裁决的撤销之诉，作为依本法修改后将该法律关系的当事人一方作为被告的规定的例外，仍依照此前的规定。</Sentence>
+          <Sentence Num="2" Function="proviso">但是，裁判所可以依原告申请，以决定许可将该诉讼变更为当事人诉讼。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="8">
+        <ParagraphNum>８</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1">在前项但书的情况下，准用行政事件诉讼法第十八条后段及第二十一条第二项至第五项的规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四十年五月十八日法律第六十七号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1">本法自公布之日起施行。</Sentence>
+          <Sentence Num="2" Function="proviso">但是，本法不适用于本法施行前著作权已消灭的作品。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四十二年七月二十七日法律第八十七号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1">本法自公布之日起施行。</Sentence>
+          <Sentence Num="2" Function="proviso">但是，本法不适用于本法施行前著作权已消灭的作品。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

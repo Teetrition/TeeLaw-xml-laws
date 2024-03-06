@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="029" Year="41" PromulgateMonth="03" PromulgateDay="28"><LawNum>明治四十一年法律第二十九号</LawNum><LawBody><LawTitle Kana="けいほうせこうほう　しょう" Abbrev="旧刑法施行法　抄" AbbrevKana="き">刑法施行法　抄</LawTitle>
+    <MainProvision Extract="true">
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法所称旧刑法，是指明治十三年第三十六号布告刑法；所称其他法律，是指刑法施行前公布的法律及与法律有相同效力的敕令、布告。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前犯旧刑法的犯罪或其他法律的犯罪的，从左之例对照刑法的主刑与旧刑法的主刑，依刑法第十条的规定确定其轻重。</Sentence>
+          </ParagraphSentence>
+          <TableStruct>
+            <Table WritingMode="vertical">
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">刑法的刑罚</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">旧刑法的刑罚</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　死刑</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　死刑</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　无期惩役</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　无期徒刑</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　无期禁锢</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　无期流刑</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　有期惩役</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　有期徒刑、重惩役、轻惩役、重禁锢</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　有期禁锢</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　有期流刑、重禁狱、轻禁狱、轻禁锢</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　罚金</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　罚金</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　拘留</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　拘留</Sentence>
+                </TableColumn>
+              </TableRow>
+              <TableRow>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　科料</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　</Sentence>
+                </TableColumn>
+                <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none">
+                  <Sentence Num="1" WritingMode="vertical">　科料</Sentence>
+                </TableColumn>
+              </TableRow>
+            </Table>
+          </TableStruct>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">依法律应加重减轻刑罚时，或应酌量减轻刑罚时，应依加重或减轻后的刑罚进行对照。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯数罪的，应依适用并合罪或有关数罪俱发的规定后的刑罚进行对照。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">就一罪应并科两个以上的主刑时，或应科以两个以上的主刑的其中一个时，应仅对照其中较重的刑罚。依并合罪或有关数罪俱发的规定应并科数罪的主刑时，亦同。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯依刑法施行前的旧刑法或其他法律的规定中没有告诉则不论其罪的犯罪的，即使依刑法的规定不需要告诉，非经告诉，不论其罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">依刑法第六条而适用旧刑法或其他法律时，应附加剥夺公权、停止公权、监视或罚金的，不附加。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前所犯的罪，在刑法施行前后有确定裁判后，对于刑法施行前的余罪进行裁判时，依左之例。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">即使有确定裁判的犯罪适用旧刑法或其他法律，在刑法或依刑法的刑名确定刑罚的法令中，对该罪与余罪准用有关并合罪的规定。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">即使有确定裁判的犯罪适用刑法或依刑法的刑名确定刑罚的法令，在旧刑法或其他法律中，对该罪与余罪依有关数罪俱发的规定。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">左列在刑法施行前又犯相当于刑法有期惩役的刑罚的犯罪的，对于刑法施行后的其罪进行裁判时，在刑法或依刑法的刑名确定刑罚的法令中，准用有关累犯的规定。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">依旧刑法或其他法律被处相当于刑法的惩役的刑罚的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">依旧刑法或其他法律因与相当于刑法的惩役的刑罚的犯罪同质的犯罪被处死刑，但因执行的免除或因减刑被减轻到与惩役相当的刑罚的</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法第五十六条第三项的规定准用于依有关数罪俱发的规定处断的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前所犯一罪与刑法施行后所犯一罪或数罪同时进行裁判时，即使刑法施行前的犯罪应适用旧刑法或其他法律，对该罪与刑法施行后的一罪或数罪准用有关并合罪的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前所犯数罪与刑法施行后所犯一罪或数罪同时进行裁判，刑法施行前的犯罪应适用旧刑法或其他法律时，对依有关数罪俱发的规定确定的一个更重的犯罪与刑法施行后的一罪或数罪准用有关并合罪的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">在前项的情况下，对刑法施行前的犯罪应适用刑法或依刑法的刑名确定刑罚的法令时，对该数罪与刑法施行后的一罪或数罪适用有关并合罪的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行后所犯的罪有确定裁判后，对刑法施行前所犯余罪进行裁判时，即使对该罪适用旧刑法或其他法律，对有确定裁判的犯罪与该罪准用有关并合罪的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前所犯的罪，在刑法施行前后有确定裁判后，对于刑法施行后所犯的余罪进行裁判时，虽然对有确定裁判的犯罪适用旧刑法或其他法律，对该罪与余罪准用有关并合罪的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第七条第一项各号所列的人犯刑法施行后犯当处有期惩役的犯罪时，准用有关累犯的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第七条第二项的规定准用于前项的情况。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="13">
+        <ArticleTitle>第十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行后，即使被判处的是旧刑法或旧刑法施行前的法令的刑罚的，就刑罚的执行、假释及时效准用刑法的规定。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但是，留置不能完整缴纳罚金或科料的人于劳役场的情况下，应依检察官的请求以裁判所决定的方式宣告。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">在前项的情况下，应依第二条及明治十四年第八十一号布告第一条之例对照主刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">被判处旧刑法的刑罚的人在刑法施行前就时效期间的起算及时效的中断适用有关期满免除的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行后，即使应当判处旧刑法的刑罚的，就缓刑准用刑法的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">在前项的情况下，应依第二条之例对照主刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="15">
+        <ArticleTitle>第十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前被许可假释的人及被免除幽闭的人，自刑法施行之日起准用有关刑法假释的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法施行前因不能完整缴纳罚金或科料改为轻禁锢或拘留的，自刑法施行之日起准用刑法第十八条及第三十条的规定。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但是，留置天数不得超过自其执行之日起算的刑法第十八条的期间。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="16">
+        <ArticleTitle>第十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">惩役场留置的执行即使在刑法施行后，仍适用之前的规定。但是，司法大臣随时可以解除留置或使其进入感化院。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="17">
+        <ArticleTitle>第十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以缺席判决宣告的刑罚的时效期间自其宣告之日起算。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="18">
+        <ArticleTitle>第十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">剥夺公权、停止公权、监视及附加的罚金的宣告自刑法施行之日起失去其效力。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但是，已经征收的附加的罚金不予返还。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">因不能完整缴纳附加的罚金而改为禁锢的，同前项规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="19">
+        <ArticleTitle>第十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">其他法律规定的主刑准第二条之例，对照刑法的刑罚，变更为刑法的刑名。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但是，单为禁锢的，变更为有期惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">废止其他法律的规定中的应处剥夺公权、停止公权、监视及附加的罚金的内容。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="20">
+        <ArticleTitle>第二十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">不变更其他法律中规定的刑罚期间。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但是，其他法律中没有特别规定期间的刑罚仍按旧刑法总则中有关期间的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="21">
+        <ArticleTitle>第二十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">应加重或减轻其他法律中规定的刑罚的情况下，除第二十三条的情况外，依旧刑法有关加减例的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="22">
+        <ArticleTitle>第二十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">其他法律中列举旧刑法的规定的，或是规定依照或不依照旧刑法的规定的情况下，刑法中有与该规定相当的规定的，变更为刑法的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">废止爆炸物管制罚则第十条。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="23">
+        <ArticleTitle>第二十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">依前条的规定应适用刑法的刑罚的情况下，不适用其他法律中有关加重刑罚的特别规定；刑罚的减轻的方法按刑法有关加减例的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="24">
+        <ArticleTitle>第二十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">废止明治二十二年法律第二十八号及明治二十三年法律第九十九号。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="25">
+        <ArticleTitle>第二十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">左列旧刑法的规定在当前一段时间内与刑法施行前具有相同效力。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二编第四章第九节</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">第二编第五章第三节</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">刑法第八条的规定及本法中有关其他法律的规定准用于前项规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="26">
+        <ArticleTitle>第二十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">左列之罪从刑法第二条之例。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">删除</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">删除</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">明治三十八年法律第六十六号所列犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">通货及证券仿造管制法所列犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">船舶法所列犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">船员法所列犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">船舶职员法所列犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">船舶检查法所列犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">户籍法所列犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="27">
+        <ArticleTitle>第二十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">左列之罪从刑法第三条之例。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">著作权法所列犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">删除</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">移民保护法所列犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="28">
+        <ArticleTitle>第二十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">就人的资格等事项，列举旧刑法的刑名或犯罪的其他法律的规定不因刑法施行而变更。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="29">
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">当处死刑、无期或法定期限的下限为一年以上的惩役或禁锢的犯罪在其他法律的适用上视为旧刑法的重罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="30">
+        <ArticleTitle>第三十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">不符合前条规定的当处惩役、禁锢或罚金的犯罪在其他法律的适用上视为旧刑法的轻罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">不符合前条规定的当处惩役或禁锢的犯罪在其他法律的适用上视为当处旧刑法的禁锢的犯罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">不符合前条规定的当处惩役的犯罪在其他法律的适用上视为当处旧刑法的重禁锢的犯罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">不符合前条规定的当处禁锢的犯罪在其他法律的适用上视为当处旧刑法的轻禁锢的犯罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="31">
+        <ArticleTitle>第三十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">当处拘留或科料的犯罪在其他法律的适用上视为旧刑法的违警罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="32">
+        <ArticleTitle>第三十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">处罚其他法律中规定的当处死刑、无期或法定期限的下限为六年以上的惩役、禁锢的犯罪的未遂罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="33">
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">被判处死刑、无期或六年以上的惩役、禁锢的人在其他法律的适用上视为被判处旧刑法的重罪的刑罚的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="34">
+        <ArticleTitle>第三十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前条所列的人及被判处旧刑法的重罪的刑罚的人在其他法律的适用上视为被剥夺公权的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前项的规定不适用于得以复权的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="35">
+        <ArticleTitle>第三十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">被判处不满六年的惩役、禁锢或罚金的人在其他法律的适用上视为被判处旧刑法的轻罪的刑罚的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">被判处不满六年的惩役的人在其他法律的适用上视为被判处旧刑法的重禁锢的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">被判处不满六年的禁锢的人在其他法律的适用上视为被判处旧刑法的轻禁锢的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="36">
+        <ArticleTitle>第三十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">被判处不满六年的惩役或禁锢的人及被判处旧刑法的禁锢的刑罚的人，在其他法律的适用上，在刑罚的执行终了前或不再受执行前，视为被停止公权的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="37">
+        <ArticleTitle>第三十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">其他法律中因旧刑法第三十一条或第三十三条的规定而没有就人的资格设置特别规定的情况下，旧刑法第三十一条及第三十三条的规定就人的资格与刑法施行前具有相同效力。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="38:52">
+        <ArticleTitle>第三十八条至第五十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">略</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="53">
+        <ArticleTitle>第五十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">依刑法第五十二条或第五十八条的规定应确定刑罚的情况下，作出其犯罪事实的最终判决的裁判所的检察官应向该裁判所作出请求。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">有前项的请求时，裁判所应听取被告人或其代理人的意见后作出决定；对此决定，可以抗告。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="54">
+        <ArticleTitle>第五十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">缓刑应在裁判所因检察官的请求或以职权在宣告刑罚的同时以判决宣告。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="55">
+        <ArticleTitle>第五十五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">缓刑的宣告不因上诉而失去其效力。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但是，原判决被撤销或废弃的情况，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">上诉裁判所可以重新宣告缓刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="56">
+        <ArticleTitle>第五十六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">应撤销缓刑宣告的情况下，管辖接受刑罚宣告的人的所在地或最后的住所地的地方裁判所的检察官应向该裁判所作出请求。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">有前项的请求时，裁判所应听取被告人或其代理人的意见后作出决定；对此决定，可以抗告。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="57">
+        <ArticleTitle>第五十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第五十三条、前条的裁判及抗告准用刑事诉讼法的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="58">
+        <ArticleTitle>第五十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">依明治三十八年法律第七十号接受缓刑宣告，缓刑期间仍未届满的，视为依刑法接受缓刑宣告的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="59">
+        <ArticleTitle>第五十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">废止明治三十九年法律第五十四号。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="60">
+        <ArticleTitle>第六十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">公诉附带自诉时，不依照民事诉讼的方式，可以以书面或口头的方式进行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="61">
+        <ArticleTitle>第六十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">赃物在犯人手中时，即使没有被害者的请求，也应作出返还的宣告。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自刑法施行之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">废止刑法附则及其他为旧刑法施行公布的法令。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="明治四十二年三月八日法律第四号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行期日由敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="明治四十三年四月十三日法律第五十三号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行期日由敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="大正五年三月七日法律第十五号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行期日由敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="大正五年三月七日法律第十七号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行期日由敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="大正十年四月十二日法律第六十八号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行期日由敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="大正十一年四月二十五日法律第七十一号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="383">
+        <ArticleTitle>第三百八十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法施行期日由敕令规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二年四月一日法律第四十七号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自昭和二年十二月一日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和十二年八月十四日法律第七十二号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行期日由敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二十二年四月十六日法律第六十一号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="33">
+        <ArticleTitle>第三十三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法自日本国宪法施行之日起施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三年四月十七日法律第三十一号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自公布之日起算经过二十日后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

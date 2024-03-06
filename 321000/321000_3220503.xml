@@ -1,0 +1,1477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Era="Showa" Year="21" Num="000" LawType="Constitution" Lang="ja" PromulgateMonth="11" PromulgateDay="03">
+  <LawNum>昭和二十一年宪法</LawNum>
+  <LawBody>
+    <LawTitle Kana="にほんこくけんぽう" Abbrev="" AbbrevKana="">日本国宪法</LawTitle>
+    <Preamble>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>日本国民通过正当选举出的国会的代表进行行动，为我们及我们的子孙，保卫与各国民协调后的成果与我国全国范围内自由所带来的惠泽，决心不再因政府的行为再起战争惨剧，兹宣言主权在于国民，确定本宪法。国政，本源于国民庄严的信托，其权威来自国民，其权力由国民的代表行使，国民享受其福利。此乃人类普遍的原理。本宪法正基于此原理。我们排除掉与之相悖的一切宪法、法令及诏敕。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>日本国民希冀恒久的和平，深深自觉于支配人类相互关系的崇高理想，信赖热爱和平的各国民的公正与信义，决心维持我们的安全与生存。我们在努力维护和平，将专制与隶属、压迫与偏狭从这片土地上永远消灭的国际社会中欲占有拥有名誉的一席之地。我们确认，全世界的国民都平等地拥有免于恐惧与匮乏、和平地生存的权利。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>我们相信，任何国家都不能专念于本国而无视他国，政治道德的法则是普遍的法则，遵从该法则是维持本国主权并欲与他国建立对等关系的各国的责任与义务。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="4">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>日本国民赌上国家的名誉，誓尽全力达成本崇高理想与目的。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </Preamble>
+    <MainProvision>
+      <Chapter Num="1">
+        <ChapterTitle>第一章　天皇</ChapterTitle>
+        <Article Num="1">
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>天皇是日本国的象征，是日本国民整体的象征。其地位基于主权所在的全体日本国民的意志。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="2">
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>皇位世袭，根据国会议决的皇室典范的规定继承。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="3">
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>天皇有关国事的所有行为都需要内阁的建议和承认，由内阁负其责任。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="4">
+          <ArticleTitle>第四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>天皇仅进行本宪法规定的有关国事的行为，不具有有关国政的权能。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>天皇可以根据法律的规定就其有关国事的行为进行委任。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="5">
+          <ArticleTitle>第五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">根据皇室典范的规定设置摄政时，摄政以天皇之名进行该有关国事的行为。</Sentence>
+              <Sentence Num="2">在这种情况下，准用前条第一项的规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="6">
+          <ArticleTitle>第六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>天皇根据国会的提名任命内阁总理大臣。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>天皇根据内阁的提名任命作为最高裁判所长官的裁判官。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="7">
+          <ArticleTitle>第七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>天皇根据内阁的建议和承认，为了国民，进行左列有关国事的行为。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>公布宪法修改、法律、政令及条约。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>召集国会。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence>解散众议院。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>公示国会议员总选举的施行。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>认证国务大臣及法律规定的其他官吏的任免以及全权证书、大使及公使的国书。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence>认证大赦、特赦、减刑、刑罚执行的免除及复权。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>授予荣典。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="8">
+              <ItemTitle>八</ItemTitle>
+              <ItemSentence>
+                <Sentence>认证批准书及法律规定的其他外交文书。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="9">
+              <ItemTitle>九</ItemTitle>
+              <ItemSentence>
+                <Sentence>接受外国的大使及公使。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="10">
+              <ItemTitle>十</ItemTitle>
+              <ItemSentence>
+                <Sentence>举行仪式。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="8">
+          <ArticleTitle>第八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>向皇室让渡财产，或是皇室接受财产让渡、赐予财产，应当基于国会的议决。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="2">
+        <ChapterTitle>第二章　战争的放弃</ChapterTitle>
+        <Article Num="9">
+          <ArticleTitle>第九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>日本国民衷心希求以正义与秩序为基调的国际和平，永久放弃以国家权力发动的战争、以武力威吓或武力行使，来作为解决国际纷争的手段。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">为达到前项目的，不维持陆海空军及其他战力。</Sentence>
+              <Sentence Num="2">不承认国家交战权。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="3">
+        <ChapterTitle>第三章　国民的权利及义务</ChapterTitle>
+        <Article Num="10">
+          <ArticleTitle>第十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>成为日本国民的要件由法律规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="11">
+          <ArticleTitle>第十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">国民不被妨碍享有所有基本人权。</Sentence>
+              <Sentence Num="2">本宪法保障的国民的基本人权是不可侵犯的永久权利，赋予现在及将来的国民。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="12">
+          <ArticleTitle>第十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">本宪法保障的国民的自由及权利应当通过国民不断的努力维持。</Sentence>
+              <Sentence Num="2">此外，国民不得滥用该自由及权利，并负有常为公共福祉而使用的责任。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="13">
+          <ArticleTitle>第十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">所有国民都作为个体而被尊重。</Sentence>
+              <Sentence Num="2">国民的生命、自由及追求幸福的权利，只要不与公共福祉相悖，须在立法等国政上给予最大的尊重。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="14">
+          <ArticleTitle>第十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>所有国民在法面前平等，不因人种、信仰、性别、社会身份或门地而在政治、经济或社会关系上受到差别对待。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>不承认华族及其他贵族制度。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">荣誉、勋章及其他荣典的授予不伴随任何特权。</Sentence>
+              <Sentence Num="2">荣典的授予仅对当前拥有或将来接受的一代有效。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="15">
+          <ArticleTitle>第十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>选定及罢免公务员是国民固有的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>所有公务员为全体服务，而非为一部分服务。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>公务员的选举通过成年人的普通选举保障。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">不得侵犯所有选举中的投票秘密。</Sentence>
+              <Sentence Num="2">选举人不得因其选择而被追究于公或于私的责任。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="16">
+          <ArticleTitle>第十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人都拥有就损害救济，公务员的罢免，法律、命令或规则的制定、废止或修改等事项进行平稳请愿的权利；任何人都不因前述请愿而受到任何差别待遇。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="17">
+          <ArticleTitle>第十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人都可以在因公务员的不法行为而受到损害时，根据法律的规定，向国家或公共团体请求赔偿。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="18">
+          <ArticleTitle>第十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">任何人都不受任何奴隶性质的约束。</Sentence>
+              <Sentence Num="2">此外，除因犯罪而受到处罚的情况外，不被迫服与其意志相反的苦役。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="19">
+          <ArticleTitle>第十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>不得侵犯思想及良心的自由。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="20">
+          <ArticleTitle>第二十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">对任何人都保障信教的自由。</Sentence>
+              <Sentence Num="2">任何宗教团体都不得从国家得到特权，或行使政治上的权力。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人都不被强制参加宗教上的行为、庆祝典礼、仪式或活动。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国家及其机关不得进行宗教教育及其他任何宗教活动。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="21">
+          <ArticleTitle>第二十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>保障集会、结社及言论、出版和其他一切表达的自由。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">不得进行审查。</Sentence>
+              <Sentence Num="2">不得侵犯通信秘密。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="22">
+          <ArticleTitle>第二十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人，只要不违反公共福祉，都有居住、移居及选择职业的自由。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人移居外国或脱离国籍的自由都不受侵犯。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="23">
+          <ArticleTitle>第二十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>保障学术自由。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="24">
+          <ArticleTitle>第二十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>婚姻仅基于两性的合意而成立，以夫妻拥有同等的权利为基础，相互帮助而维持。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>就配偶者的选择、财产权、继承、住所的选定、离婚以及婚姻及有关家族的其他事项，法律应当立足于个人的尊严与两性的实质平等而制定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="25">
+          <ArticleTitle>第二十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>所有国民都有享受健康且文化的最低限度的生活的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国家应当在所有生活方面努力提高和增进社会福祉、社会保障及公众卫生。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="26">
+          <ArticleTitle>第二十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>所有国民都平等拥有根据法律规定受到符合其能力的教育的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">所有国民都负有根据法律规定使其保护的子女接受普通教育的义务。</Sentence>
+              <Sentence Num="2">义务教育无偿进行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="27">
+          <ArticleTitle>第二十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>所有国民都有劳动的权利、负有劳动的义务。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>有关工资、工作时间、休息及其他劳动条件的基准由法律规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>不得虐待儿童。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="28">
+          <ArticleTitle>第二十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>保障劳动者团结的权利及团体交涉等团体行动的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="29">
+          <ArticleTitle>第二十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>不得侵犯财产权。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>财产权的内容由法律符合公共福祉地规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在正当的补偿下，可以为公共目的使用私有财产。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="30">
+          <ArticleTitle>第三十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国民有根据法律规定纳税的义务。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="31">
+          <ArticleTitle>第三十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人非经法律规定的程序，不被剥夺生命或自由，或是被科以其他刑罚。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="32">
+          <ArticleTitle>第三十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人都不被剥夺在裁判所接受裁判的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="33">
+          <ArticleTitle>第三十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>除作为现行犯被逮捕的情况外，任何人非经有权限的司法官宪发出且明示逮捕原因的犯罪的令状，不受逮捕。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="34">
+          <ArticleTitle>第三十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">任何人非经直接告知理由且被赋予直接委托辩护人的权利，不受拘留或拘禁。</Sentence>
+              <Sentence Num="2">此外，任何人如无正当理由不受拘禁；在有要求时，该理由应当直接向本人及其辩护人出席的公开法庭出示。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="35">
+          <ArticleTitle>第三十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>所有人就其住所、文书及所持有的物品不受搜查或扣押的权利，除第三十三条的情况外，非经基于正当理由发出且明示搜查场所及扣押物品的令状，不受侵犯。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>搜查或扣押根据有权限的司法官宪单独发出的令状进行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="36">
+          <ArticleTitle>第三十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>绝对禁止公务员的拷问及残虐的刑罚。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="37">
+          <ArticleTitle>第三十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在所有刑事事件中，被告人都有接受公平的裁判所迅速的公开裁判的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>刑事被告人有被充分给予对所有证人审问的机会，此外，有使用公费为自己通过强制程序寻求证人的权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">刑事被告人在任何情况下都可以委托有资格的辩护人。</Sentence>
+              <Sentence Num="2">被告人自己不能委托时，由国家提供。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="38">
+          <ArticleTitle>第三十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人都不被强迫作出对自己不利的供述。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>通过强制、拷问或胁迫得到的自白或长时间不当拘留或拘禁后的自白不得作为证据。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人都不在对自己不利的唯一证据是本人自白的情况下被认定有罪或被科以刑罚。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="39">
+          <ArticleTitle>第三十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">任何人都不因实行时合法的行为或已经被认定无罪的行为而被追究刑事上的责任。</Sentence>
+              <Sentence Num="2">此外，就同一犯罪，不被重复追究刑事上的责任。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="40">
+          <ArticleTitle>第四十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人都可以在被拘留或拘禁后受到无罪裁判时，根据法律规定向国家要求补偿。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="4">
+        <ChapterTitle>第四章　国会</ChapterTitle>
+        <Article Num="41">
+          <ArticleTitle>第四十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国会是国家权力的最高机关，是国家唯一的立法机关。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="42">
+          <ArticleTitle>第四十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国会由众议院及参议院两议院构成。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="43">
+          <ArticleTitle>第四十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院由代表全国民而被选举出的议员组织而成。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院的议员定额由法律规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="44">
+          <ArticleTitle>第四十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">两议院的议员及其选举人的资格由法律规定。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，不得因人种、信仰、性别、社会身份、门地、教育、财产或收入而差别对待。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="45">
+          <ArticleTitle>第四十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">众议院议员的任期为四年。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，众议院解散的情况下，于该期间届满前终止。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="46">
+          <ArticleTitle>第四十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>参议院议员的任期为六年；每三年改选议员的半数。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="47">
+          <ArticleTitle>第四十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>有关选区、投票方法及其他有关两议院议员选举的事项由法律规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="48">
+          <ArticleTitle>第四十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>任何人都不得同时担任两议院的议员。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="49">
+          <ArticleTitle>第四十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院的议员根据法律规定从国库获得足够金额的年薪。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="50">
+          <ArticleTitle>第五十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院的议员除法律规定的情形外，在国会会期中不受逮捕；会期前被逮捕的议员经该议院要求，应当在会期中释放。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="51">
+          <ArticleTitle>第五十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院的议员在议院内进行的演说、讨论或表决，不在院外被追究责任。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="52">
+          <ArticleTitle>第五十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国会常会每年召集一次。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="53">
+          <ArticleTitle>第五十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">内阁可以决定召集国会的临时会议。</Sentence>
+              <Sentence Num="2">任一议院总议员的四分之一以上有要求时，内阁应当决定该召集。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="54">
+          <ArticleTitle>第五十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>众议院被解散时，应当在解散之日起四十日以内举行众议院议员的总选举，并于该选举日起三十日以内召集国会。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">众议院被解散时，参议院同时闭会。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，内阁在国家紧急需要时，可以要求参议院紧急集会。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前项但书的紧急集会所采取的措施为临时措施；在下次国会开会后十日以内没有得到众议院同意时，失去其效力。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="55">
+          <ArticleTitle>第五十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">两议院分别就有关其议员资格的争讼进行裁判。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，撤销议员议席须出席议员的三分之二以上多数的议决。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="56">
+          <ArticleTitle>第五十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院非分别有其总议员三分之一以上的出席，不得进行议事议决。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院的议事除本宪法特别规定的情况外，由出席议员的过半数表决；赞成与反对同票时，由议长决定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="57">
+          <ArticleTitle>第五十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">两议院的会议公开进行。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，出席议员的三分之二以上多数议决时，可以召开秘密会议。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院分别保存其会议记录，除秘密会议记录中认为需要特别保密的外，应当发表且向公众颁布。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>出席议员的五分之一以上有要求时，各议员的表决应当记载在会议记录上。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="58">
+          <ArticleTitle>第五十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院分别选任其议长及其他干部。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">两议院可以分别确定有关其会议和其他程序及内部纪律的规则；此外，可以对扰乱院内秩序的议员进行惩罚。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，除名议员须出席议员的三分之二以上多数的议决。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="59">
+          <ArticleTitle>第五十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法律案除本宪法特别规定的情况外，在两议院可决后成为法律。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>众议院可决但参议院作出不同议决的法律案，由众议院出席议员的三分之二以上多数再次可决后成为法律。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前项规定不妨碍众议院根据法律规定要求召开两议院协议会。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>参议院在接收众议院可决的法律案后，除去国会休会期间在六十日以内没有议决的，众议院可以视为参议院否决了该法律案。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="60">
+          <ArticleTitle>第六十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>预算应当先向众议院提出。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>参议院对预算作出与众议院不同议决的情况下，根据法律规定召开两议院协议会意见仍不一致的；或是参议院接收众议院可决的预算后，除去国会休会期间在三十日以内没有议决的，众议院的议决为国会的议决。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="61">
+          <ArticleTitle>第六十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>缔结条约所需的国会的承认准用前条第二项的规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="62">
+          <ArticleTitle>第六十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>两议院可以分别进行有关国政的调查，就此可以要求证人出面、提供证言及提出记录。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="63">
+          <ArticleTitle>第六十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">内阁总理大臣及其他国务大臣不论其是否在两议院之一保有议席，无论何时都可以为议案发言而在议院出席。</Sentence>
+              <Sentence Num="2">此外，因答辩或说明被要求出席时，应当出席。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="64">
+          <ArticleTitle>第六十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国会为裁判受到罢免控告的裁判官设置由两议院议员组织而成的弹劾裁判所。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>有关弹劾的事项由法律规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="5">
+        <ChapterTitle>第五章　内阁</ChapterTitle>
+        <Article Num="65">
+          <ArticleTitle>第六十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>行政权属于内阁。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="66">
+          <ArticleTitle>第六十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内阁根据法律规定由其首长内阁总理大臣及其他国务大臣组织。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内阁总理大臣及其他国务大臣应当是非军人。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内阁就行政权的行使对国会共同负责。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="67">
+          <ArticleTitle>第六十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">内阁总理大臣在国会议员中由国会议决提名。</Sentence>
+              <Sentence Num="2">该提名先于其他所有案件进行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>众议院与参议院作出不同提名的议决的情况下，根据法律规定两议院召开协议会意见仍不一致的；或是众议院作出提名的议决后，除去国会休会期间在十日以内，参议院没有作出提名的议决的，众议院的议决为国会的议决。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="68">
+          <ArticleTitle>第六十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">内阁总理大臣任命国务大臣。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，其过半数应当从国会议员中选取。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内阁总理大臣可以任意罢免国务大臣。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="69">
+          <ArticleTitle>第六十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>在众议院可决不信任的决议案或否决信任的决议案时，如十日以内众议院没有被解散，内阁应当全体辞职。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="70">
+          <ArticleTitle>第七十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内阁总理大臣缺位时，或是众议院议员总选举后首次召集国会时，内阁应当全体辞职。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="71">
+          <ArticleTitle>第七十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前二条的情况下，内阁在新任命内阁总理大臣之前继续行使职务。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="72">
+          <ArticleTitle>第七十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内阁总理大臣代表内阁向国会提出议案，就一般国务及外交关系向国会报告，并指挥、监督行政各部门。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="73">
+          <ArticleTitle>第七十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内阁除进行其他一般行政事务外，还进行左列事务。</Sentence>
+            </ParagraphSentence>
+            <Item Num="1">
+              <ItemTitle>一</ItemTitle>
+              <ItemSentence>
+                <Sentence>诚实地执行法律，总理国务。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="2">
+              <ItemTitle>二</ItemTitle>
+              <ItemSentence>
+                <Sentence>处理外交关系。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="3">
+              <ItemTitle>三</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" Function="main">缔结条约。</Sentence>
+                <Sentence Num="2" Function="proviso">但是，须在事前或依时宜在事后经国会承认。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="4">
+              <ItemTitle>四</ItemTitle>
+              <ItemSentence>
+                <Sentence>遵从法律确定的基准掌理有关官吏的事务。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="5">
+              <ItemTitle>五</ItemTitle>
+              <ItemSentence>
+                <Sentence>编制预算并向国会提出。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="6">
+              <ItemTitle>六</ItemTitle>
+              <ItemSentence>
+                <Sentence Num="1" Function="main">为实施本宪法及法律的规定而制定政令。</Sentence>
+                <Sentence Num="2" Function="proviso">但是，除该法律特别委任的情况外，政令中不得设置罚则。</Sentence>
+              </ItemSentence>
+            </Item>
+            <Item Num="7">
+              <ItemTitle>七</ItemTitle>
+              <ItemSentence>
+                <Sentence>决定大赦、特赦、减刑、刑罚执行的免除及复权。</Sentence>
+              </ItemSentence>
+            </Item>
+          </Paragraph>
+        </Article>
+        <Article Num="74">
+          <ArticleTitle>第七十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>法律及政令须所有主管的国务大臣署名及内阁总理大臣的联署。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="75">
+          <ArticleTitle>第七十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">国务大臣在其任上非经内阁总理大臣的同意，不受追诉。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，追诉的权利不为此受妨害。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="6">
+        <ChapterTitle>第六章　司法</ChapterTitle>
+        <Article Num="76">
+          <ArticleTitle>第七十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>所有司法权属于最高裁判所及根据法律规定设置的下级裁判所。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">不得设置特别裁判所。</Sentence>
+              <Sentence Num="2">行政机关不得进行作为终审的裁判。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>所有裁判官都遵从其良心独立行使其职权，仅受本宪法及法律的约束。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="77">
+          <ArticleTitle>第七十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>最高裁判所有就有关诉讼的程序，有关律师、裁判所的内部纪律及司法事务处理的事项制定规则的权限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>检察官应当遵从最高裁判所确定的规则。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>最高裁判所可以将确定有关下级裁判所的规则的权限委任下级裁判所。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="78">
+          <ArticleTitle>第七十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">除因身心损害而被决定无法担任职务的情况外，裁判官因裁判非经官方弹劾不受罢免。</Sentence>
+              <Sentence Num="2">行政机关不得进行对裁判官的惩戒处分。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="79">
+          <ArticleTitle>第七十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>最高裁判所由作为其长官的裁判官及法律规定的员额的其他裁判官构成；作为其长官的裁判官以外的裁判官由内阁任命。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>最高裁判所的裁判官任命后首次举行众议院议员总选举之际，将该任命交付国民审查；其后经过十年后首次举行众议院议员总选举之际再次交付审查，其后亦同。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="3" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>前项的情况下，投票者多数同意罢免裁判官的，该裁判官即被罢免。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="4" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>有关审查的事项由法律规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="5" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>最高裁判所的裁判官在达到法律规定的年龄时退官。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="6" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">最高裁判所的裁判官均定期获得足够金额的报酬。</Sentence>
+              <Sentence Num="2">此项报酬在任期中不得减额。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="80">
+          <ArticleTitle>第八十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">下级裁判所的裁判官从最高裁判所的提名人名簿中由内阁任命。</Sentence>
+              <Sentence Num="2" Function="main">该裁判官的任期为十年，可以再任。</Sentence>
+              <Sentence Num="3" Function="proviso">但是，达到法律规定的年龄时退官。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">下级裁判所的裁判官均定期获得足够金额的报酬。</Sentence>
+              <Sentence Num="2">此项报酬在任期中不得减额。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="81">
+          <ArticleTitle>第八十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>最高裁判所是有决定一切的法律、命令、规则或处分是否符合宪法的权限的终审裁判所。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="82">
+          <ArticleTitle>第八十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>裁判的对审及判决在公开的法庭进行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">裁判所在裁判官全员一致决定有危害公共秩序或善良风俗之虞的情况下，对审可以不公开进行。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，政治犯罪、有关出版的犯罪或本宪法第三章保障的国民权利成为问题的事件的对审，应当时常公开进行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="7">
+        <ChapterTitle>第七章　财政</ChapterTitle>
+        <Article Num="83">
+          <ArticleTitle>第八十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>处理国家财政的权限应当基于国会的议决行使。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="84">
+          <ArticleTitle>第八十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>新课租税或变更现行租税须根据法律或法律规定的条件进行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="85">
+          <ArticleTitle>第八十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>支出国费或国家负担债务须基于国会的议决。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="86">
+          <ArticleTitle>第八十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内阁应当编制每个会计年度的预算，向国会提出，并接受其审议，经过议决。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="87">
+          <ArticleTitle>第八十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>为补充难以预见的预算不足，可以基于国会的议决设置预备费，在内阁承担责任的情况下进行支出。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>对于所有预备费的支出，内阁应当事后取得国会同意。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="88">
+          <ArticleTitle>第八十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">所有的皇室财产都属于国家。</Sentence>
+              <Sentence Num="2">所有皇室的费用应当列入预算并经国会的议决。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="89">
+          <ArticleTitle>第八十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>公款及其他公共财产不得对宗教上的组织或团体的使用、提供便利或维持活动；或是对不属于官方支配的慈善、教育或博爱事业支出或利用。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="90">
+          <ArticleTitle>第九十条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>国家收入支出的决算均每年由会计检查院检查；内阁应当在下一年度将其检查报告与决算一并向国会提出。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>会计检查院的组织及权限由法律规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="91">
+          <ArticleTitle>第九十一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>内阁应当定期且至少每年一次，对国会及国民报告国家的财政状况。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="8">
+        <ChapterTitle>第八章　地方自治</ChapterTitle>
+        <Article Num="92">
+          <ArticleTitle>第九十二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>有关地方公共团体的组织及运营的事项由法律基于地方自治的宗旨规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="93">
+          <ArticleTitle>第九十三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>地方公共团体根据法律规定设置作为其议事机关的议会。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>地方公共团体的长官、其议会的议员及法律规定的其他官员，由该地方公共团体的居民直接选举。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="94">
+          <ArticleTitle>第九十四条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>地方公共团体有管理其财产、处理事务及执行行政的权能，可以在法律的范围内制定条例。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="95">
+          <ArticleTitle>第九十五条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>非经法律规定的该地方公共团体的居民的投票的过半数的同意，国会不得制定仅适用于一个地方公共团体的特别法。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="9">
+        <ChapterTitle>第九章　修改</ChapterTitle>
+        <Article Num="96">
+          <ArticleTitle>第九十六条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">修改本宪法应当经各议院的总议员三分之二以上的赞成后，国会创议并向国民提案，并得到国民同意。</Sentence>
+              <Sentence Num="2">该同意须在特别国民投票或国会确定的选举之际进行的投票中，获得过半数的赞成。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>就宪法修改经前项同意时，天皇以国民之名，将其作为本宪法的内在部分，立即将其公布。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="10">
+        <ChapterTitle>第十章　最高法规</ChapterTitle>
+        <Article Num="97">
+          <ArticleTitle>第九十七条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>本宪法所保障的日本国民的基本人权是人类多年来为获得自由而努力的成果；这些权益过去几经试炼，对现在及将来的国民可堪为不可侵犯的永久权利。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="98">
+          <ArticleTitle>第九十八条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>本宪法是国家的最高法规，与其规定相反的法律、命令、诏敕及有关国务的其他行为的全部或部分，不具有效力。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>日本国缔结的条约及已确立的国际法规须诚实地遵守。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="99">
+          <ArticleTitle>第九十九条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>天皇或摄政及国务大臣、国会议员、裁判官及其他公务员负有尊重并拥护本宪法的义务。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Num="11">
+        <ChapterTitle>第十一章　补则</ChapterTitle>
+        <Article Num="100">
+          <ArticleTitle>第一百条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>本宪法自公布之日起算经过六个月后施行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+          <Paragraph Num="2" OldNum="true">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>本宪法施行所必要的法律的制定、参议院议员的选举及国会召集的程序，以及施行本宪法所必要的准备手续可以在前项期日前进行。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="101">
+          <ArticleTitle>第一百零一条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence>本宪法施行之际参议院尚未成立时，其成立前由众议院作为国会行使权限。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="102">
+          <ArticleTitle>第一百零二条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1">依本宪法产生的第一期参议院议员中的半数人员的任期为三年。</Sentence>
+              <Sentence Num="2">前述议员根据法律规定确定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Num="103">
+          <ArticleTitle>第一百零三条</ArticleTitle>
+          <Paragraph Num="1">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Num="1" Function="main">本宪法施行之际当前在职的国务大臣、众议院议员及裁判官，以及其他公务员，与其地位相对应的地位在本宪法得到承认的，除法律特别规定的情况外，不因本宪法的施行而当然失去其地位。</Sentence>
+              <Sentence Num="2" Function="proviso">但是，根据本宪法选举或任命后任者时，当然失去其地位。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+    </MainProvision>
+  </LawBody>
+</Law>

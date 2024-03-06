@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Year="35" Num="050" LawType="Act" Lang="ja" PromulgateMonth="12" PromulgateDay="02">
+  <LawNum>明治三十五年法律第五十号</LawNum>
+  <LawBody>
+    <LawTitle Kana="ねんれいけいさんにかんするほうりつ" Abbrev="" AbbrevKana="">有关年龄计算的法律</LawTitle>
+    <MainProvision>
+      <Paragraph Num="1" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>年龄自出生之日起算。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>准用民法第一百四十三条的规定计算年龄。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>废止明治六年第三十六号布告。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </MainProvision>
+  </LawBody>
+</Law>

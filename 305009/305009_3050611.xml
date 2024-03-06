@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="009" Year="05" PromulgateMonth="05" PromulgateDay="22"><LawNum>昭和五年法律第九号</LawNum><LawBody><LawTitle Kana="とうはんとうのぼうしおよびしょぶんにかんするほうりつ" Abbrev="" AbbrevKana="">有关窃强盗犯等的防止及处分的法律</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">在左列各号的情况下，为排除对自己或他人的生命、身体或贞操的现实的危险，杀伤犯人时，为刑法第三十六条第一项的防卫行为。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">防止窃强盗犯或欲取回盗赃时</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">欲防止携带凶器或是跨越、损坏门户、墙壁等，或开锁，侵入他人住居或有人看守的宅邸、建筑物或船舶的人时</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">欲驱赶无故侵入他人住居或有人看守的宅邸、建筑物或船舶的人或是在要求下不从前述场所中离去的人时</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">在前项各号的情况下，即使对自己或他人的生命、身体或贞操没有现实的危险，行为人因恐怖、惊愕、兴奋或狼狈而在现场杀伤犯人时，不处罚。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">常习依左列各号的方法犯刑法第二百三十五条、第二百三十六条、第二百三十八条或第二百三十九条的犯罪或是其未遂罪的，应以窃盗论的，处三年以上；应以强盗论的处七年以上的有期惩役。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">携带凶器犯罪时</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">二人以上在现场共同犯罪时</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">跨越、损坏门户、墙壁等或是开锁，侵入他人住居或有人看守的宅邸、建筑物或舰船犯罪时</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">夜间侵入他人住居或有人看守的宅邸、建筑物或舰船犯罪时</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">对常习犯前条所列刑法各条的犯罪或其未遂罪的人在其行为前十年内因前述犯罪或前述犯罪与其他犯罪的并合罪受到三次以上六个月的惩役以上的刑罚的执行，或是得到执行的免除的，应科以刑罚时，依照前条的规定处理。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">常习犯刑法第二百四十条前段的犯罪、第二百四十一条前段的犯罪或前述犯罪的未遂罪的，处无期或十年以上的惩役。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+  </LawBody>
+</Law>

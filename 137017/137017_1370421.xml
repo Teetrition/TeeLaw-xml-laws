@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="017" Year="37" PromulgateMonth="04" PromulgateDay="01">
+  <LawNum>明治三十七年法律第十七号</LawNum>
+  <LawBody>
+    <LawTitle Kana="きめいのこくさいをもくてきとするしちけんのせっていにかんするほうりつ" Abbrev="" AbbrevKana="">有关以记名国债为标的设定质权的法律</LawTitle>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">民法第三百六十四条第一项的规定不适用于记名国债。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </MainProvision>
+  </LawBody>
+</Law>

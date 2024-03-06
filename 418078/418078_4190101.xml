@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="078" Year="18" PromulgateMonth="06" PromulgateDay="21">
+  <LawNum>平成十八年法律第七十八号</LawNum>
+  <LawBody>
+    <LawTitle Kana="ほうのてきようにかんするつうそくほう" Abbrev="法適用通則法" AbbrevKana="ほ">有关法的适用的通则法</LawTitle>
+    <EnactStatement>修改法例（明治三十一年法律第十号）的全部。</EnactStatement>
+    <TOC>
+      <TOCLabel>目录</TOCLabel>
+      <TOCChapter Delete="false" Num="1">
+        <ChapterTitle>第一章　总则</ChapterTitle>
+        <ArticleRange>（第一条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="2">
+        <ChapterTitle>第二章　有关法律的通则</ChapterTitle>
+        <ArticleRange>（第二条、第三条）</ArticleRange>
+      </TOCChapter>
+      <TOCChapter Delete="false" Num="3">
+        <ChapterTitle>第三章　有关准据法的通则</ChapterTitle>
+        <TOCSection Delete="false" Num="1">
+          <SectionTitle>第一节　人</SectionTitle>
+          <ArticleRange>（第四条―第六条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="2">
+          <SectionTitle>第二节　法律行为</SectionTitle>
+          <ArticleRange>（第七条―第十二条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="3">
+          <SectionTitle>第三节　物权等</SectionTitle>
+          <ArticleRange>（第十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="4">
+          <SectionTitle>第四节　债权</SectionTitle>
+          <ArticleRange>（第十四条―第二十三条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="5">
+          <SectionTitle>第五节　亲属</SectionTitle>
+          <ArticleRange>（第二十四条―第三十五条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="6">
+          <SectionTitle>第六节　继承</SectionTitle>
+          <ArticleRange>（第三十六条、第三十七条）</ArticleRange>
+        </TOCSection>
+        <TOCSection Delete="false" Num="7">
+          <SectionTitle>第七节　补则</SectionTitle>
+          <ArticleRange>（第三十八条―第四十三条）</ArticleRange>
+        </TOCSection>
+      </TOCChapter>
+      <TOCSupplProvision>
+        <SupplProvisionLabel>附则</SupplProvisionLabel>
+      </TOCSupplProvision>
+    </TOC>
+    <MainProvision>
+      <Chapter Delete="false" Hide="false" Num="1">
+        <ChapterTitle>第一章　总则</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="1">
+          <ArticleCaption>（趣旨）</ArticleCaption>
+          <ArticleTitle>第一条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">本法规定有关法的适用的通则。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="2">
+        <ChapterTitle>第二章　有关法律的通则</ChapterTitle>
+        <Article Delete="false" Hide="false" Num="2">
+          <ArticleCaption>（法律的施行期日）</ArticleCaption>
+          <ArticleTitle>第二条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence Function="main" Num="1" WritingMode="vertical">法律自公布之日起算经过二十日后施行。</Sentence>
+              <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，通过法律规定与之不同的施行期日时，依其规定。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+        <Article Delete="false" Hide="false" Num="3">
+          <ArticleCaption>（与法律有相同的效力的习惯）</ArticleCaption>
+          <ArticleTitle>第三条</ArticleTitle>
+          <Paragraph Hide="false" Num="1" OldStyle="false">
+            <ParagraphNum/>
+            <ParagraphSentence>
+              <Sentence WritingMode="vertical">不违反公共秩序或善良风俗的习惯，限于根据法令规定所承认的习惯或有关法令没有规定的事项的习惯，与法律有相同的效力。</Sentence>
+            </ParagraphSentence>
+          </Paragraph>
+        </Article>
+      </Chapter>
+      <Chapter Delete="false" Hide="false" Num="3">
+        <ChapterTitle>第三章　有关准据法的通则</ChapterTitle>
+        <Section Delete="false" Hide="false" Num="1">
+          <SectionTitle>第一节　人</SectionTitle>
+          <Article Delete="false" Hide="false" Num="4">
+            <ArticleCaption>（人的行为能力）</ArticleCaption>
+            <ArticleTitle>第四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">人的行为能力，依照其本国法确定。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">作出法律行为的人即使依照其本国法为行为能力受到限制的人，依照行为地法为行为能力人时，限于该法律行为的当时，所有当事人在具有相同法之地的情况下，作为前项规定的例外，该作出法律行为的人视为行为能力人。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前项的规定不适用于应依照亲属法或继承法的规定的法律行为及行为地法与不动产所在地法不同的有关不动产的法律行为。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="5">
+            <ArticleCaption>（保护开始的审判等）</ArticleCaption>
+            <ArticleTitle>第五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">裁判所可以在应成为成年被保护人、被保佐人或被辅助人的人在日本有住所或居所时，或是具有日本国籍时，依照日本法进行保护开始、保佐开始或辅助开始的审判（以下总称“保护开始的审判等”）。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="6">
+            <ArticleCaption>（失踪的宣告）</ArticleCaption>
+            <ArticleTitle>第六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">裁判所可以在不在者被认为尚生存的最后时点在日本有住所或具有日本国籍时，依照日本法进行失踪的宣告。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">即使不符合前项规定的情况，裁判所也可以对不在者的财产在日本时仅就该财产；有关不在者的法律关系应依照日本法时，或比照法律关系的性质、当事人的住所或国籍等情况与日本有关时仅就该法律关系，依照日本法进行失踪的宣告。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="2">
+          <SectionTitle>第二节　法律行为</SectionTitle>
+          <Article Delete="false" Hide="false" Num="7">
+            <ArticleCaption>（当事人选择准据法）</ArticleCaption>
+            <ArticleTitle>第七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法律行为的成立及效力，依照当事人在该法律行为的当时选择之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="8">
+            <ArticleCaption>（当事人没有选择准据法的情况）</ArticleCaption>
+            <ArticleTitle>第八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">没有根据前条的规定作出选择时，法律行为的成立及效力，依照该法律行为的当时与该法律行为有最密切联系之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">在前项的情况下，法律行为中，仅当事人的一方作出特征性给付时，将作出该给付的当事人的经常居所地法（该当事人有与该法律行为相关的事务所的情况下为该事务所的所在地的法；该当事人有与该法律行为相关的两个以上的事务所且在法不同之地的情况下为其主要事务所的所在地的法）推定为与该法律行为有最密切联系之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">在第一项的情况下，作为前项规定的例外，以不动产为标的物的法律行为，将该不动产的所在地法推定为与该法律行为有最密切联系之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="9">
+            <ArticleCaption>（当事人对准据法的变更）</ArticleCaption>
+            <ArticleTitle>第九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">当事人可以变更法律行为的成立及效力应适用的法。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，损害第三人的权利时，该变更不得对抗该第三人。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="10">
+            <ArticleCaption>（法律行为的方式）</ArticleCaption>
+            <ArticleTitle>第十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">法律行为的方式，依照该法律行为的成立应适用的法（该法律行为后根据前条的规定有变更的情况下，依照该变更前的法）。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">作为前项规定的例外，符合行为地法的方式有效。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">对在有不同法之地的人作出的意思表示，在适用前项的规定上，发出通知之地视为行为地。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">对在有不同法之地的人之间缔结的契约的方式，不适用前二项的规定。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">在该情况下，作为第一项规定的例外，符合发出要约通知之地的法或发出承诺通知之地的法中任意一项的契约的方式有效。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前三项的规定不适用于有关动产或不动产的物权及其他应登记的权利的设定或处分的法律行为的方式。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="11">
+            <ArticleCaption>（消费者契约的特例）</ArticleCaption>
+            <ArticleTitle>第十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">消费者（指个人（作为事业或为事业而作为契约的当事人的情况除外）。以下本条同）与经营者（指法人等社团或财团及作为事业或为事业而作为契约的当事人的情况下的个人。以下本条同）之间缔结的契约（劳动契约除外。以下本条称“消费者契约”）的成立及效力，即使根据第七条或第九条的规定因选择或变更而应适用的法是消费者经常居所地法以外的法，在消费者对经营者表示了应适用其经常居所地法中特定的强制性规定的意思时，就该强制性规定所规定的事项中该消费者契约的成立及效力，也适用该强制性规定。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">就消费者契约的成立及效力没有根据第七条的规定作出选择时，作为第八条规定的例外，该消费者契约的成立及效力，依照消费者的经常居所地法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">就消费者契约的成立即使根据第七条的规定选择了消费者经常居所地法以外的法，就该消费者契约的方式，在消费者对经营者表示了应适用其经常居所地法中特定的强制性规定的意思时，作为前条第一项、第二项及第四项规定的例外，就该强制性规定所规定的事项中该消费者契约的方式，专门适用该强制性规定。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">就消费者契约的成立根据第七条的规定选择了消费者的经常居所地法的情况下，就该消费者契约的方式，在消费者对经营者表示了应专门依照其经常居所地法的意思时，作为前条第二项及第四项规定的例外，该消费者契约的方式，专门依照消费者的经常居所地法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="5" OldStyle="false">
+              <ParagraphNum>５</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">就消费者契约的成立没有根据第七条的规定作出选择时，作为前条第一项、第二项及第四项规定的例外，该消费者契约的方式，依照消费者的经常居所地法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="6" OldStyle="false">
+              <ParagraphNum>６</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前各项的规定在符合下列任一情况时，不适用。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">经营者与消费者契约相关的事务所在与消费者的经常居所地的法不同之地的情况下，消费者前往与该事务所所在地相同法之地缔结该消费者契约时。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，消费者就在与该事务所的所在地相同法之地缔结消费者契约上于其经常居所地受到该经营者劝诱时除外。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">经营者与消费者契约相关的事务所在与消费者的经常居所地的法不同之地的情况下，消费者在与该事务所所在地相同法之地基于该消费者契约接受了债务的全部履行时，或是被认为接受了债务的全部履行时。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，消费者就在与该事务所的所在地相同法之地接受债务的全部履行上于其经常居所地受到该经营者劝诱时除外。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">消费者契约缔结当时，经营者不知道消费者的经常居所，且对不知道有相当的理由时。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="4">
+                <ItemTitle>四</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">消费者契约缔结当时，经营者误认为其相对人不是消费者，且对误认有相当的理由时。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="12">
+            <ArticleCaption>（劳动契约的特例）</ArticleCaption>
+            <ArticleTitle>第十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">劳动契约的成立及效力，即使根据第七条或第九条的规定因选择或变更而应适用的法是与该劳动契约有最密切联系之地的法以外的法，在劳动者对用人者表示了应适用与该劳动契约有最密切联系之地的法中特定的强制性规定的意思时，就该强制性规定所规定的事项中该劳动契约的成立及效力，也适用该强制性规定。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">在适用前项的规定上，将该劳动契约中应提供劳务之地的法（无法确定应提供劳务之地的情况下，为雇佣该劳动者的事务所所在地的法。次项同）推定为与该劳动契约有最密切联系之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">就劳动契约的成立及效力没有根据第七条的规定作出选择时，作为第八条第二项规定的例外，该劳动契约的成立及效力，将该劳动契约中应提供劳务之地的法推定为与该劳动契约有最密切联系之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="3">
+          <SectionTitle>第三节　物权等</SectionTitle>
+          <Article Delete="false" Hide="false" Num="13">
+            <ArticleCaption>（物权及其他应登记的权利）</ArticleCaption>
+            <ArticleTitle>第十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">有关动产或不动产的物权及其他应登记的权利，依照该标的物的所在地法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">作为前项规定的例外，同项所规定的权利的取得与丧失，依照作为其原因的事实完成当时该标的物的所在地法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="4">
+          <SectionTitle>第四节　债权</SectionTitle>
+          <Article Delete="false" Hide="false" Num="14">
+            <ArticleCaption>（事务管理及不当得利）</ArticleCaption>
+            <ArticleTitle>第十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">因事务管理或不当得利产生的债权的成立及效力，依照作为其原因的事实发生之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="15">
+            <ArticleCaption>（显然有更密切联系之地的情况的例外）</ArticleCaption>
+            <ArticleTitle>第十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">作为前条规定的例外，因事务管理或不当得利产生的债权的成立及效力，比照作为其原因的事实发生当时当事人在相同法之地有经常居所的情况、产生了与当事人之间的契约相关的事务管理或不当得利等情况，显然相较根据同条规定应适用的法所属之地有更密切联系之其他地时，依照该其他地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="16">
+            <ArticleCaption>（当事人对准据法的变更）</ArticleCaption>
+            <ArticleTitle>第十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">事务管理或不当得利的当事人在作为其原因的事实发生后，可以就因事务管理或不当得利产生的债权的成立及效力变更应适用的法。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，损害第三人的权利时，该变更不得对抗该第三人。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="17">
+            <ArticleCaption>（不法行为）</ArticleCaption>
+            <ArticleTitle>第十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">因不法行为产生的债权的成立及效力，依照加害行为的结果发生之地的法。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，在该地发生结果是通常无法预见的时，依照作出加害行为之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="18">
+            <ArticleCaption>（生产物责任的特例）</ArticleCaption>
+            <ArticleTitle>第十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">作为前条规定的例外，因已交付的生产物（指生产或加工的物。以下本条同）的瑕疵而侵害他人生命、身体或财产的不法行为产生的对生产业者（指以生产物为业生产、加工、进口、出口、流通或贩卖的人。以下本条同）或该生产物上标示可认为其为生产业者的人（以下本条总称“生产业者等”）的债权的成立及效力，依照被害人接受生产物的交付之地的法。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，在该地交付生产物是通常无法预见的时，依照生产业者等的主要事务所的所在地的法（生产业者等没有事务所的情况下，为其经常居所地法）。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="19">
+            <ArticleCaption>（名誉或信用毁损的特例）</ArticleCaption>
+            <ArticleTitle>第十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">作为第十七条规定的例外，因毁损他人名誉或信用的不法行为产生的债权的成立及效力，依照被害人的经常居所地法（被害人是法人等社团或财团的情况下，为其主要事务所的所在地的法）。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="20">
+            <ArticleCaption>（显然有更密切联系之地的情况的例外）</ArticleCaption>
+            <ArticleTitle>第二十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">作为前三条规定的例外，因不法行为产生的债权的成立及效力，比照不法行为当时当事人在相同法之地有经常居所的情况、作出了违反当事人之间的契约义务的不法行为等情况，显然相较根据前三条规定应适用的法所属之地有更密切联系之其他地时，依照该其他地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="21">
+            <ArticleCaption>（当事人对准据法的变更）</ArticleCaption>
+            <ArticleTitle>第二十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">不法行为的当事人在不法行为后，可以就不法行为产生的债权的成立及效力变更应适用的法。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，损害第三人的权利时，该变更不得对抗该第三人。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="22">
+            <ArticleCaption>（关于不法行为的公序限制）</ArticleCaption>
+            <ArticleTitle>第二十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">就不法行为应依照外国法的情况下，应适用该外国法的事实依照日本法并非不法时，不得基于该外国法请求损害赔偿等处分。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">就不法行为应依照外国法的情况下，即使应适用该外国法的事实依照该外国法及日本法均为不法，被害人也不得请求日本法认可的损害赔偿等处分之外的内容。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="23">
+            <ArticleCaption>（债权的让渡）</ArticleCaption>
+            <ArticleTitle>第二十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">债权让渡对债务人及其他第三人的效力，依照涉及让渡的债权应适用的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="5">
+          <SectionTitle>第五节　亲属</SectionTitle>
+          <Article Delete="false" Hide="false" Num="24">
+            <ArticleCaption>（婚姻的成立及方式）</ArticleCaption>
+            <ArticleTitle>第二十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">婚姻的成立，分别依照各当事人的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">婚姻的方式，依照婚姻举行地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">作为前项规定的例外，符合当事人一方的本国法的方式有效。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，在日本举行婚姻的情况下，当事人一方是日本人时，不在此限。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="25">
+            <ArticleCaption>（婚姻的效力）</ArticleCaption>
+            <ArticleTitle>第二十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">婚姻的效力，夫妻本国法相同时依照该法；没有该法的情况下，夫妻的经常居所地法相同时依照该法；没有前述任一法时，依照与夫妻有最密切联系之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="26">
+            <ArticleCaption>（夫妻财产制）</ArticleCaption>
+            <ArticleTitle>第二十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前条的规定准用于夫妻财产制。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">作为前项规定的例外，夫妻在其署名且记载了日期的文书上选定了依照下列法中的任一法时，夫妻财产制，依照该法。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">在该情况下，该选定仅对将来产生效力。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">夫妻一方具有国籍的国家的法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">夫妻一方的经常居所地法</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="3">
+                <ItemTitle>三</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">对于有关不动产的夫妻财产制，该不动产所在地法</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">根据前二项的规定应适用外国法的夫妻财产制对在日本作出的法律行为及在日本的财产，不得对抗善意第三人。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">在该情形下，对与该第三人之间的关系，夫妻财产制，依照日本法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="4" OldStyle="false">
+              <ParagraphNum>４</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">作为前项规定的例外，基于依照第一项或第二项的规定应适用的外国法作出的夫妻财产契约在日本登记时，可以对抗第三人。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="27">
+            <ArticleCaption>（离婚）</ArticleCaption>
+            <ArticleTitle>第二十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">第二十五条的规定准用于离婚。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，夫妻一方是在日本有经常居所的日本人时，离婚，依照日本法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="28">
+            <ArticleCaption>（嫡出子女的亲子关系的成立）</ArticleCaption>
+            <ArticleTitle>第二十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">依照子女出生当时的夫妻一方的本国法子女应为嫡出时，该子女为嫡出子女。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">丈夫在子女出生前死亡时，其死亡当时丈夫的本国法视为前项中丈夫的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="29">
+            <ArticleCaption>（非嫡出子女的亲子关系的成立）</ArticleCaption>
+            <ArticleTitle>第二十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">非嫡出子女的亲子关系的成立，与父亲的亲子关系，依照子女出生当时的父亲的本国法；与母亲的亲子关系，依照当时母亲的本国法。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">在该情况下，通过承认子女方式的亲子关系的成立，在承认当时，依照子女的本国法，有该子女或第三人的承诺或同意为承认的要件时，也应当具备该要件。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">承认子女，除依照根据前项前段的规定应适用的法外，依照承认当时承认人或子女的本国法。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">在该情况下，依照承认人的本国法时，准用同项后段的规定。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">父亲在子女出生前死亡时，其死亡当时父亲的本国法视为第一项中父亲的本国法。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">前项规定的人在承认前死亡时，其死亡当时的本国法视为同项中他的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="30">
+            <ArticleCaption>（准正）</ArticleCaption>
+            <ArticleTitle>第三十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">依照准正要件的事实完成当时的父、母或子女的本国法准正成立时，子女取得嫡出子女的身份。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前项规定的人在准正要件的事实完成前死亡时，其死亡当时的本国法视为同项中他的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="31">
+            <ArticleCaption>（收养）</ArticleCaption>
+            <ArticleTitle>第三十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Num="1" WritingMode="vertical">收养，依照收养当时收养人的本国法。</Sentence>
+                <Sentence Num="2" WritingMode="vertical">在该情况下，依照被收养人的本国法，有其或第三人的承诺或同意，或是公共机关的许可等处分为收养成立的要件时，也应当具备该要件。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">养子女与其实际血亲的亲属关系的终了及收养的解除，依照根据前项前段的规定应适用的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="32">
+            <ArticleCaption>（亲子间的法律关系）</ArticleCaption>
+            <ArticleTitle>第三十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">亲子间的法律关系，子女的本国法与父亲或母亲的本国法（父母一方死亡或无法得知父母一方身份的情况下，为另一方的本国法）相同的情况下依照子女的本国法，其他情况依照子女的经常居所地法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="33">
+            <ArticleCaption>（其他亲属关系等）</ArticleCaption>
+            <ArticleTitle>第三十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">除第二十四条至前条规定的外，亲属关系及由此产生的权利义务，依照当事人的本国法确定。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="34">
+            <ArticleCaption>（亲属关系的法律行为的方式）</ArticleCaption>
+            <ArticleTitle>第三十四条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">第二十五条至前条规定的亲属关系的法律行为的方式，依照该法律行为的成立应适用的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">作为前项规定的例外，符合行为地法的方式有效。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="35">
+            <ArticleCaption>（保护等）</ArticleCaption>
+            <ArticleTitle>第三十五条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">保护、保佐或辅助（以下总称“保护等”），依照被保护人、被保佐人或被辅助人（次项总称“被保护人等”）的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">作为前项规定的例外，外国人作为被保护人等的情况下，在下列情形中，保护人、保佐人或辅助人的选任的审判等有关保护等的审判，依照日本法。</Sentence>
+              </ParagraphSentence>
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">依照该外国人的本国法其有保护等开始的原因，但在日本没有进行保护等事务的人时。</Sentence>
+                </ItemSentence>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">在日本有该外国人的保护开始的审判等时。</Sentence>
+                </ItemSentence>
+              </Item>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="6">
+          <SectionTitle>第六节　继承</SectionTitle>
+          <Article Delete="false" Hide="false" Num="36">
+            <ArticleCaption>（继承）</ArticleCaption>
+            <ArticleTitle>第三十六条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">继承，依照被继承人的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="37">
+            <ArticleCaption>（遗嘱）</ArticleCaption>
+            <ArticleTitle>第三十七条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">遗嘱的成立及效力，依照其成立当时遗嘱人的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">遗嘱的撤销，依照其当时遗嘱人的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+        <Section Delete="false" Hide="false" Num="7">
+          <SectionTitle>第七节　补则</SectionTitle>
+          <Article Delete="false" Hide="false" Num="38">
+            <ArticleCaption>（本国法）</ArticleCaption>
+            <ArticleTitle>第三十八条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">当事人具有两个以上的国籍的情况下，在具有国籍的国家中当事人有经常居所的国家时，该国的法；在具有国籍的国家中没有当事人有经常居所的国家时，与当事人有最密切联系的国家的法，为当事人的本国法。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，具有的国籍中有日本国籍时，日本法是当事人的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">应依照当事人的本国法的情况下，当事人没有国籍时，依照其经常居所地法。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，第二十五条（包括第二十六条第一项及第二十七条准用的情况）及第三十二条的规定的适用不在此限。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="3" OldStyle="false">
+              <ParagraphNum>３</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">当事人具有不同地域法不同的国家的国籍时，以按该国规则指定的法（无该种规则的情况下，为与当事人有最密切联系的地域的法）为当事人的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="39">
+            <ArticleCaption>（经常居所地法）</ArticleCaption>
+            <ArticleTitle>第三十九条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">应依照当事人的经常居所地法的情况下，无法得知其经常居所时，依照其居所地法。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，第二十五条（包括第二十六条第一项及第二十七条准用的情况）的规定的适用不在此限。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="40">
+            <ArticleCaption>（因人不同而法不同的国家或地域的法）</ArticleCaption>
+            <ArticleTitle>第四十条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">当事人具有因人不同而法不同的国家的国籍时，以按该国规则指定的法（无该种规则的情况下，为与当事人有最密切联系的地域的法）为当事人的本国法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">前项的规定准用于当事人的经常居所地因人不同而法不同的情况下根据第二十五条（包括第二十六条第一项及第二十七条准用的情况）、第二十六条第二项第二号、第三十二条或第三十八条第二项的规定适用的当事人的经常居所地法，以及与夫妻有最密切联系之地因人不同而法不同的情况下与夫妻有最密切联系之地的法。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="41">
+            <ArticleCaption>（反致）</ArticleCaption>
+            <ArticleTitle>第四十一条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">应依照当事人的本国法的情况下，按该国法应依照日本法时，依照日本法。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，根据第二十五条（包括第二十六条第一项及第二十七条准用的情况）或第三十二条的规定应依照当事人的本国法的情况下，不在此限。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="42">
+            <ArticleCaption>（公序）</ArticleCaption>
+            <ArticleTitle>第四十二条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence WritingMode="vertical">应依照外国法的情况下，该规定的适用与公共秩序或善良风俗相悖时，不适用该规定。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+          <Article Delete="false" Hide="false" Num="43">
+            <ArticleCaption>（适用除外）</ArticleCaption>
+            <ArticleTitle>第四十三条</ArticleTitle>
+            <Paragraph Hide="false" Num="1" OldStyle="false">
+              <ParagraphNum/>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">本章规定不适用于夫妻、亲子等亲属关系产生的扶养义务。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，第三十九条本文的规定的适用，不在此限。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+            <Paragraph Hide="false" Num="2" OldStyle="false">
+              <ParagraphNum>２</ParagraphNum>
+              <ParagraphSentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">本章规定不适用于遗嘱的方式。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，第三十八条第二项本文、第三十九条本文及第四十条的规定的适用，不在此限。</Sentence>
+              </ParagraphSentence>
+            </Paragraph>
+          </Article>
+        </Section>
+      </Chapter>
+    </MainProvision>
+    <SupplProvision Extract="true" Type="New">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">本法自政令于公布之日起算不超过一年的范围内指定的期日起施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（过渡措施）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">修改后的有关法的适用的通则法（下称“新法”）的规定，除次条规定的情况外，对本法施行期日（下称“施行日”）前发生的事项也适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前作出的法律行为的当事人的能力，作为新法第四条规定的例外，仍依照此前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前作出的保护开始的审判等及失踪的宣告的申请，作为新法第五条及第六条规定的例外，仍依照此前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前作出的法律行为的成立、效力以及方式，作为新法第八条至第十二条规定的例外，仍依照此前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前其作为原因的事实发生的事务管理及不当得利，以及施行日前加害行为的结果发生的不法行为产生的债权的成立及效力，作为新法第十五条至第二十一条规定的例外，仍依照此前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="5" OldStyle="false">
+          <ParagraphNum>５</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前作出的债权的让渡对债务人及其他第三人的效力，作为新法第二十三条规定的例外，仍依照此前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="6" OldStyle="false">
+          <ParagraphNum>６</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前作出的关于亲属关系（修改前的法例第十四条至第二十一条规定的亲属关系除外）的法律行为的方式，作为新法第三十四条规定的例外，仍依照此前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="7" OldStyle="false">
+          <ParagraphNum>７</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">施行日前作出的保护人、保佐人或辅助人的选任的审判等有关保护等的审判的申请，作为新法第三十五条第二项规定的例外，仍依照此前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="066" Year="38" PromulgateMonth="03" PromulgateDay="20"><LawNum>明治三十八年法律第六十六号</LawNum><LawBody><LawTitle Kana="がいこくにおいてりゅうつうするかへいしへいぎんこうけんしょうけんぎぞうへんぞうおよびもぞうにかんするほうりつ" Abbrev="" AbbrevKana="">有关伪造、变造及仿造在外国流通的货币、纸币、银行券、证券的法律</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以流通为目的伪造或变造仅在外国流通的金银币、纸币、银行券、帝国官府发行的证券的，处重惩役或轻惩役。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">伪造或变造金银币以外的硬币的，处轻惩役或二年以上五年以下的重禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以流通为目的向帝国或外国进口前条记载的伪造或变造物的，同前条之例。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">明知是第一条记载的伪造或变造物仍以使用或流通为目的授受的，处轻惩役或六个月以上五年以下的重禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">取得后方知其属伪造或变造仍以使用或流通为目的交付的，处其面值三倍以下的罚金。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但是，不得低于二日元。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">供第一条的伪造或变造使用或是以供该目的使用为目的制造、授受、准备或向帝国、外国进口器械或原料的，处六个月以上五年以下的重禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以贩卖为目的，制造或向帝国、外国进口与第一条记载的物外观产生混淆的物的，处二年以下的重禁锢或二百日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">贩卖前项记载的物的，同前项之例。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯前数条规定的轻罪但未得逞的，比照未遂犯罪之例处断。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯本法规定之罪被处禁锢之刑的，附加六个月以上二年以下的监视。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯本法规定犯罪的，在伪造或变造的第一条记载的物被使用之前，或是在第五条记载的物被交付之前向官府自首的，可以免除主刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯本法规定之罪，即使在外国接受了确定裁判，也不妨碍再次对其处罚。</Sentence>
+            <Sentence Num="2" WritingMode="vertical">但是，犯人已经在外国被执行了全部或部分宣告的刑罚时，可以减免刑罚的执行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">伪造或变造的第一条记载的物及第五条记载的物，除通过裁判没收以外，不问是何人所有，均通过行政处分没收。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">有关没收的程序另以命令规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">伪造或变造的第一条记载的物及第五条记载的物准用明治九年布告第五十七号的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自发布之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">废止明治三十七年敕令第一百七十七号。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

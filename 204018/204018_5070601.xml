@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="018" Year="04" PromulgateMonth="06" PromulgateDay="21"><LawNum>大正四年法律第十八号</LawNum><LawBody><LawTitle Kana="ほうじんのやくいんしょばつにかんするほうりつ" Abbrev="" AbbrevKana="">有关处罚法人干事的法律</LawTitle>
+    <MainProvision>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">执行法人业务的社员、董事、会计参与人、执行人、理事、监查人或监事为免除刑事追诉或刑罚执行，采取合并等方法使法人消灭的，处五年以下的拘禁刑。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自大正四年七月一日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成十四年五月二十九日法律第四十五号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自政令于公布之日起算不超过一年的范围内指定的期日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成十七年七月二十六日法律第八十七号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自会社法施行之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月十七日法律第六十八号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">本法自部分修改刑法等的法律的施行日起施行。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，下列各号中的规定在对应各号规定的日期起施行。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百零九条的规定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布之日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

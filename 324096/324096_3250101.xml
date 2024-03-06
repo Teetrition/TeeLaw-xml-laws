@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="096" Year="24" PromulgateMonth="05" PromulgateDay="24">
+  <LawNum>昭和二十四年法律第九十六号</LawNum>
+  <LawBody>
+    <LawTitle Kana="ねんれいのとなえかたにかんするほうりつ" Abbrev="" AbbrevKana="">有关年龄称呼方式的法律</LawTitle>
+    <MainProvision>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法施行日以后，国民应当时常留心修改既往出生时为一岁的年龄表示方法，按照有关年龄计算的法律（明治三十五年法律第五十号）的规定算出的年数（不足一年时，按月数）表示年龄。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">本法施行日以后，国家或地方公共团体的机关在表示年龄时，该机关应当按前项规定的年数或月数表示。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，特因不得已的事由需要使用出生时为一岁的年龄表示方法时，应特别明示其主旨。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自昭和二十五年一月一日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">政府应当特积极指导国民大众理解本法的趣旨并励行本法。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">前项事务可以在附则第一项规定的期日前进行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

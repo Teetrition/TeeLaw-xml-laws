@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="111" Year="39" PromulgateMonth="06" PromulgateDay="22"><LawNum>昭和三十九年法律第一百一十一号</LawNum><LawBody><LawTitle Kana="しんかんせんてつどうにおけるれっしゃうんこうのあんぜんをさまたげるこういのしょばつにかんするとくれいほう" Abbrev="新幹線安全特例法,新幹線妨害特例法" AbbrevKana="し,し">有关处罚妨害东海道新干线铁路上的列车运行安全的行为的特例法</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法鉴于东海道新干线铁路（指连接东京都和大阪府的日本国有铁道的干线铁路，其轨距为1.435米。下同）的列车在其主要区间以二百千米每小时的高速度行驶，就处罚妨害其列车运行安全的行为，规定铁路营业法（明治三十三年法律第六十五号）的特例等事项。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（运行保安设备损坏等的犯罪）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">损坏供东海道新干线铁路使用的自动列车控制设备、列车集中控制设备等运输省令规定的确保列车运行安全的设备，或是作出其他有损前述设备机能行为的，处五年以下的惩役或五万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">擅自操作前项设备的，处一年以下的惩役或五万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">对第一项的设备造成损伤，或是作出有损同项设备机能之虞的行为的，处五万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（在线路上放置物件等的犯罪）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">符合下列各号之一的，处一年以下的惩役或五万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">以可能妨害列车运行的方法，擅自将物件置于东海道新干线铁路的线路（指轨道中心线两侧三米以内的轨道及其附属线路保安通道等设施。次号同）上，或是作出类似行为的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">擅自进入东海道新干线铁路的线路内的</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（向列车投掷物件等的犯罪）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">向东海道新干线铁路上行驶中的列车投掷或发射物件的，处五万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自政令于公布之日起算不超过六个月的范围内指定的期日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

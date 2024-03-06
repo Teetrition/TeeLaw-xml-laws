@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="127" Year="11" PromulgateMonth="08" PromulgateDay="13">
+  <LawNum>平成十一年法律第一百二十七号</LawNum>
+  <LawBody>
+    <LawTitle Kana="こっきおよびこっかにかんするほうりつ" Abbrev="国旗国歌法,日の丸君が代法,国旗・国歌法" AbbrevKana="こ,ひ,こ">有关国旗及国歌的法律</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（国旗）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">国旗是日章旗。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">日章旗的制式如附记第一所示。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（国歌）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">国歌是君之代。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">君之代的词曲如附记第二所示。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自公布之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphCaption>（商船规则的废止）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">废止商船规则（明治三年太政官布告第五十七号）。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphCaption>（日章旗制式的特例）</ParagraphCaption>
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">就日章旗的制式，在当前一段时间，可以不按附记第一的规定，将长度比例按纵是横的十分之七确定，且日章的中心位置可以按旗帜中心向旗杆一侧偏离长边的百分之一的位置确定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <AppdxNote>
+      <AppdxNoteTitle WritingMode="vertical">附记第一</AppdxNoteTitle>
+      <RelatedArticleNum>（与第一条相关）</RelatedArticleNum>
+      <TableStruct>
+        <TableStructTitle WritingMode="vertical">日章旗的制式</TableStructTitle>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <FigStruct>
+                <Fig src="/pict/H11HO127-001.jpg"/>
+              </FigStruct>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">长度比例及日章位置</Sentence>
+                </ItemSentence>
+                <List>
+                  <ListSentence>
+                    <Column LineBreak="false" Num="1">
+                      <Sentence WritingMode="vertical">纵</Sentence>
+                    </Column>
+                    <Column LineBreak="false" Num="2">
+                      <Sentence WritingMode="vertical">横的三分之二</Sentence>
+                    </Column>
+                  </ListSentence>
+                </List>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical">日章</Sentence>
+                  </ListSentence>
+                  <Sublist1>
+                    <Sublist1Sentence>
+                      <Column LineBreak="false" Num="1">
+                        <Sentence WritingMode="vertical">直径</Sentence>
+                      </Column>
+                      <Column LineBreak="false" Num="2">
+                        <Sentence WritingMode="vertical">纵的五分之三</Sentence>
+                      </Column>
+                    </Sublist1Sentence>
+                  </Sublist1>
+                  <Sublist1>
+                    <Sublist1Sentence>
+                      <Column LineBreak="false" Num="1">
+                        <Sentence WritingMode="vertical">中心</Sentence>
+                      </Column>
+                      <Column LineBreak="false" Num="2">
+                        <Sentence WritingMode="vertical">旗帜的中心</Sentence>
+                      </Column>
+                    </Sublist1Sentence>
+                  </Sublist1>
+                </List>
+              </Item>
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">上色</Sentence>
+                </ItemSentence>
+                <List>
+                  <ListSentence>
+                    <Column LineBreak="false" Num="1">
+                      <Sentence WritingMode="vertical">地</Sentence>
+                    </Column>
+                    <Column LineBreak="false" Num="2">
+                      <Sentence WritingMode="vertical">白色</Sentence>
+                    </Column>
+                  </ListSentence>
+                </List>
+                <List>
+                  <ListSentence>
+                    <Column LineBreak="false" Num="1">
+                      <Sentence WritingMode="vertical">日章</Sentence>
+                    </Column>
+                    <Column LineBreak="false" Num="2">
+                      <Sentence WritingMode="vertical">红色</Sentence>
+                    </Column>
+                  </ListSentence>
+                </List>
+              </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxNote>
+    <AppdxNote>
+      <AppdxNoteTitle WritingMode="vertical">附记第二</AppdxNoteTitle>
+      <RelatedArticleNum>（与第二条相关）</RelatedArticleNum>
+      <TableStruct>
+        <TableStructTitle WritingMode="vertical">君之代的词曲</TableStructTitle>
+        <Table WritingMode="vertical">
+          <TableRow>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Item Delete="false" Hide="false" Num="1">
+                <ItemTitle>一</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">歌词</Sentence>
+                </ItemSentence>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical">君之代</Sentence>
+                  </ListSentence>
+                </List>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical">千代传至八千代</Sentence>
+                  </ListSentence>
+                </List>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical">直到细石</Sentence>
+                  </ListSentence>
+                </List>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical">变磐石</Sentence>
+                  </ListSentence>
+                </List>
+                <List>
+                  <ListSentence>
+                    <Sentence WritingMode="vertical">长青苔</Sentence>
+                  </ListSentence>
+                </List>
+              </Item>
+            </TableColumn>
+            <TableColumn BorderBottom="none" BorderLeft="none" BorderRight="none" BorderTop="none" Valign="top">
+              <Item Delete="false" Hide="false" Num="2">
+                <ItemTitle>二</ItemTitle>
+                <ItemSentence>
+                  <Sentence WritingMode="vertical">乐曲</Sentence>
+                </ItemSentence>
+                <FigStruct>
+                  <Fig src="/pict/H11HO127-002.jpg"/>
+                </FigStruct>
+              </Item>
+            </TableColumn>
+          </TableRow>
+        </Table>
+      </TableStruct>
+    </AppdxNote>
+  </LawBody>
+</Law>

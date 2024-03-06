@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="060" Year="15" PromulgateMonth="04" PromulgateDay="10"><LawNum>大正十五年法律第六十号</LawNum><LawBody><LawTitle Kana="ぼうりょくこういとうしょばつにかんするほうりつ" Abbrev="" AbbrevKana="">有关处罚暴力行为等的法律</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">展示团体或多数人的威力、假装是团体或多数人展示威力、展示凶器，或是数人共同犯刑法（明治四十年法律第四十五号）第二百零八条、第二百二十二条或第二百六十一条的犯罪的，处三年以下的惩役或三十万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="1_2">
+        <ArticleTitle>第一条之二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">用枪炮或刀剑类伤害他人身体的，处一年以上十年以下的惩役。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">处罚前项的未遂罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前二项的犯罪按刑法第三条、第三条之二及第四条之二的规定处理。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="1_3">
+        <ArticleTitle>第一条之三</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">常习犯刑法第二百零四条、第二百零八条、第二百二十二条或第二百六十一条的犯罪的人伤害他人时，处一年以上十年以下的惩役；其他情况处三个月以上五年以下的惩役。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以得到或使他人得到财产上不正当的利益为目的，按照第一条的方法强制要求会面或是作出强制要求谈判的行为的，处一年以下的惩役或十万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">常习性无故强制要求会面或是作出强制要求谈判的行为的，处罚同前项规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以按照第一条的方法使他人犯刑法第一百九十九条、第二百零四条、第二百零八条、第二百二十二条、第二百二十三条、第二百三十四条、第二百六十条或第二百六十一条的犯罪为目的，供给金钱、物品等财产上的利益或职务，或是作出该要约或约定的，以及知情接受供给或作出要求或约定的，处六个月以下的惩役或十万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以按照第一条的方法使他人犯刑法第九十五条的犯罪为目的作出前项的行为的，处六个月以下的惩役、禁锢或十万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行前犯刑法第二百零八条第一项或第二百六十一条的犯罪且符合本法的人，即使在本法施行后亦没有告诉不论其罪。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和三十九年六月二十四日法律第一百一十四号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自公布之日起算经过二十日后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（有关罚则的过渡措施）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">对于本法施行前的行为的罚则的适用仍适用修改前的规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和六十二年六月二日法律第五十二号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">本法自公布之日起算经过二十日后施行。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，第一条中，向刑法第四条后新增一条的修改规定、第二条及第三条的规定、次项规定以及附则第四项中有关确保新东京国际机场安全的紧急措施法（昭和五十三年法律第四十二号）第二条第一项第十一号的修改规定自关于防止和惩处侵害应受国际保护人员包括外交代表的罪行的公约或是反对劫持人质国际公约在日本国生效之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（过渡措施）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">刑法第四条之二的规定、有关处罚以人质相要挟行为等的法律第五条及有关暴力行为等的处罚的法律第一条之二第三项的规定（限于与刑法第四条之二关联的部分）仅限适用于根据前项但书规定的施行日以后在日本国发生效力的条约、一九四九年八月十二日改善战地武装部队伤者病者境遇之日内瓦公约、一九四九年八月十二日改善海上武装部队伤者病者及遇船难者境遇之日内瓦公约、一九四九年八月十二日关于战俘待遇之日内瓦公约及一九四九年八月十二日关于战时保护平民之日内瓦公约在日本国外犯罪之时被认为应当处罚的犯罪。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三年四月十七日法律第三十一号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自公布之日起算经过二十日后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成七年五月十二日法律第九十一号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法自公布之日起算经过二十日后施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成十五年七月十八日法律第一百二十二号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法自公布之日起算经过二十日后施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（过渡措施）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">根据本法修改后的刑法第三条之二的规定、根据附则第三条修改后的有关对暴力行为等的处罚的法律（大正十五年法律第六十号）第一条之二第三项及根据附则第四条修改后的有关处罚以人质相要挟行为等的法律（昭和五十三年法律第四十八号）第五条的规定（限于与刑法第三条之二相关的部分）不适用于本法施行前的行为。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成十六年六月十八日法律第一百一十五号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">本法自第一附加议定书在日本国生效之日起施行。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，附则第三条的规定，自公布之日起算经过二十日后施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

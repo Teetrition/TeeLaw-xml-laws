@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="050" Year="47" PromulgateMonth="06" PromulgateDay="01"><LawNum>昭和四十七年法律第五十号</LawNum><LawBody><LawTitle Kana="ゆうびんきってるいもぞうとうとりしまりほう" Abbrev="" AbbrevKana="">邮票类仿造等管制法</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">禁止制造、进口、贩卖或分发与邮便事业株式会社或外国的邮票或其他表示有关邮政费用的证票外观产生混淆的物件，或是将其使用在邮票或其他表示有关邮政费用的证票的用途上。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前项的规定不适用于制造、进口、贩卖或分发受总务大臣许可的同项规定的物件的情况。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">违反前条第一项的规定的，处一年以下的惩役或五万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自公布之日起算经过六个月后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成十一年十二月二十二日法律第一百六十号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">本法（第二条及第三条除外）自平成十三年一月六日起施行。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，下列各号中的规定在各号对应的期日起施行。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第九百九十五条（限于涉及部分修改有关规制核原料物质、核燃料物质及原子炉的法律的法律附则的修改规定的部分）、第一千三百零五条、第一千三百零六条、第一千三百二十四条第二项、第一千三百二十六条第二项及第一千三百四十四条的规定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布之日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成十四年七月三十一日法律第九十八号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">本法自公社法施行之日起施行。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，下列各号中的规定在各号对应的期日起施行。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一章第一节（包括附表第一至附表第四）以及附则第二十八条第二项、第三十三条第二项及第三项以及第三十九条的规定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">公布之日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="38">
+        <ArticleCaption>（有关罚则的过渡措施）</ArticleCaption>
+        <ArticleTitle>第三十八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">对施行日前的行为及根据本法的规定适用修改前的规定及根据本附则的规定仍具有效力的情况下，对施行日以后的行为的罚则的适用，适用修改前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="39">
+        <ArticleCaption>（其他过渡措施对政令的委任）</ArticleCaption>
+        <ArticleTitle>第三十九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">除本法规定外，有关公社法及本法施行的必要的过渡措施（包括有关罚则的过渡措施），由政令规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成十七年十月二十一日法律第一百零二号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法自邮政民营化法施行之日起施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="117">
+        <ArticleCaption>（有关罚则的过渡措施）</ArticleCaption>
+        <ArticleTitle>第一百一十七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">对本法施行前的行为、根据本附则的规定适用修改前的规定的情况下在本法施行后的行为、本法施行后根据附则第九条第一项的规定仍具有效力的旧邮便汇兑法第三十八条之八（限于涉及第二号及第三号的部分）的规定失效前的行为、本法施行后根据附则第十三条第一项的规定仍具有效力的旧邮便汇款法第七十条（限于第二号及第三号的部分）的规定失效前的行为、本法施行后根据附则第二十七条第一项的规定仍具有效力的旧邮便汇款存款捐款委托法第八条（限于涉及第二号的部分）的规定失效前的行为、本法施行后根据附则第三十九条第二项的规定仍具有效力的旧公社法第七十条（限于涉及第二号的部分）的规定失效前的行为、本法施行后根据附则第四十二条第一项的规定仍具有效力的旧公社法第七十一条及第七十二条（限于涉及第十五号的部分）的规定失效前的行为，以及在适用附则第二条第二项规定的情况下邮政民营化法第一百零四条规定的涉及邮便存款银行的特定日前的行为的罚则的适用，适用修改前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

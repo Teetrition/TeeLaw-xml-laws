@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="045" Year="10" PromulgateMonth="04" PromulgateDay="24">
+  <LawNum>平成十年法律第四十五号</LawNum>
+  <LawBody>
+    <LawTitle Kana="おうむしんりきょうにかかるはさんてつづきにおけるくにのさいけんにかんするとくれいにかんするほうりつ" Abbrev="" AbbrevKana="">有关涉及奥姆真理教的破产手续中国家债权的特例的法律</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（趣旨）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">本法基于平成七年三月二十日发生的地铁沙林事件等中不特定或多数人遭受的前所未有的惨祸，鉴于对奥姆真理教的破产申请事件中申报债权的被害人的救济的紧要性，规定该破产申请事件中有关国家债权的特例。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（有关国家债权的特例）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">对于东京地方裁判所平成七年（フ）第三六九四号、第三七一四号破产申请事件，国家申报的债权中，基于劳动者灾害补偿保险法（昭和二十二年法律第五十号）和其他法律规定，国家取得的损害赔偿请求权；以及东京地方裁判所平成七年（チ）第一一号、第一二号选任清算人申请事件中，涉及预付金的返还请求权，劣后于国家以外的人申报的债权中的因生命或身体受害而产生的损害赔偿请求权。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自公布之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

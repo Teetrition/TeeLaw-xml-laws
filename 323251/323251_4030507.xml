@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="251" Year="23" PromulgateMonth="12" PromulgateDay="18">
+  <LawNum>昭和二十三年法律第二百五十一号</LawNum>
+  <LawBody>
+    <LawTitle Kana="ばっきんとうりんじそちほう" Abbrev="" AbbrevKana="">罚金等临时措施法</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">伴随经济情势的变动，有关罚金及科料的额度等的特例，在当前一段时间，根据本法的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">刑法（明治四十年法律第四十五号）、有关处罚暴力行为等的法律（大正十五年法律第六十号）及有关经济关联罚则的整备的法律（昭和十九年法律第四号）的犯罪以外的犯罪（条例中的犯罪除外）中规定的罚金，其法定额度的上限不满二万日元时，为二万日元；其法定额度的下限不满一万日元时，为一万日元。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，罚金额度通过一定的金额乘以倍数确定时，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前项但书的情况下，其罚金额度不满一万日元时，为一万日元。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">第一项的犯罪中规定的科料特别规定了额度的，为无该规定。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，科料额度通过一定的金额乘以倍数确定时，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法律委任命令设置罚金的罚则时，基于该委任可规定的罚金额度最高限度不满二万日元的，为二万日元。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自昭和二十四年二月一日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第二条的规定对本法施行时现行有效的条例的罚则，在本法施行之日起六个月内，不适用。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">对本法施行后经过六个月前的违法行为的罚则的适用，在本法施行经过六个月后，亦同。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">第四条的规定，对第三次国会成立的法律的罚则也适用。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四十七年六月十二日法律第六十一号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自昭和四十七年七月一日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">作为修改后第二条的规定的例外，对本法施行时现行有效的条例的罚则，在本法施行之日起经过一年前，仍适用修改前的规定。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">对该期限前的行为的罚则的适用，在该期限经过后，亦同。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">修改后的第四条的规定，对修改前同条规定施行后制定的法令（包括本法施行时尚未施行的法令）中新设或修改的罚则也适用。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="4" OldStyle="false">
+        <ParagraphNum>４</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">修改后的第六条的规定，对本法施行前的行为也适用。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成三年四月十七日法律第三十一号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自公布之日起算经过二十日后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="5" OldStyle="false">
+        <ParagraphCaption>（有关罚金及科料的法定额度的上下限的过渡措施）</ParagraphCaption>
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">根据本法修改后的罚金等临时措施法第二条的规定，对修改前同法第四条的规定施行后制定的法令（包括本法施行时尚未施行的法令）中新设或修改的罚则也适用。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

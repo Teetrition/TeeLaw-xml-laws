@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="020" Year="11" PromulgateMonth="03" PromulgateDay="30">
+  <LawNum>大正十一年法律第二十号</LawNum>
+  <LawBody>
+    <LawTitle Kana="はたちみまんのもののいんしゅのきんしにかんするほうりつ" Abbrev="" AbbrevKana="">禁止未成年人饮酒法</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>不满二十岁的人禁止饮用酒类。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">对未成年人行使亲权的人或代亲权人监督的人知道未成年人饮酒时应当制止。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>其业态上贩卖或供给酒类的营业者知道将供不满二十岁的人饮用时，不得贩卖或供给酒类。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>以供不满二十岁的人饮用为目的所有或持有的酒类及其器具，可以以行政处分没收、销毁或进行其他必要处理。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">违反第一条第二项、第三项规定的，处科料。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical" Function="main">营业者是未成年人或禁治产人时，将依本法应当适用的罚则适用于其法定代理人。</Sentence>
+            <Sentence WritingMode="vertical" Function="proviso">但是，就其营业与成年人有相同能力的未成年人，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">营业者不得因其代理人、同居者、雇员或其他从业者就其业务违反本法时非出于自己指挥而免于处罚。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false" OldNum="true">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">明治三十三年法律第五十二号准用于本法犯罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自大正十一年四月一日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二十二年十二月二十二日法律第二百二十三号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Delete="false" Hide="false" Num="29">
+        <ArticleTitle>第二十九条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">本法自昭和二十三年一月一日起施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

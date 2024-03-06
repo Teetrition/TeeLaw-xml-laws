@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="189" Year="22" PromulgateMonth="12" PromulgateDay="16"><LawNum>昭和二十二年法律第百八十九号</LawNum><LawBody><LawTitle Kana="いんしとうもぞうとりしまりほう" Abbrev="" AbbrevKana="">印花税票等仿造管制法</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">不得制造、进口、贩卖、分发或使用与政府发行的印花税票外观产生混淆的物件或是与印花税法第六条但书规定的表示纳付了与印花税票税额相当的现金的税印的印影外观产生混淆的物件、产生与该印影外观产生混淆的物件的器具。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">前项的规定不适用于以后述目的制造、进口、贩卖、分发或使用指定了使用目的且得到大藏大臣的许可的同项规定的物件的情况。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">违反前条第一项的规定的，处一年以下的惩役或五万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自公布之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">废止印花税票等仿造管制规则。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，对本法施行前的行为的罚则的适用，在本法施行后仍具有效力。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="3" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">此前印花税票等仿造管制规则第一条规定的许可，视为第一条第二项规定的许可。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

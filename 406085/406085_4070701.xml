@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law AmendmentId="429AC0000000045" AmendmentNum="平成二十九年法律第四十五号" Era="Heisei" Lang="ja" LawType="Act" Num="085" Year="06" PromulgateMonth="07" PromulgateDay="01">
+  <LawNum>平成六年法律第八十五号</LawNum>
+  <LawBody>
+    <LawTitle Kana="せいぞうぶつせきにんほう" Abbrev="ＰＬ法" AbbrevKana="Ｐ">制造物责任法</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">本法的目的是，规定因制造物的缺陷而产生人的生命、身体或财产损害时制造业者等的损害赔偿责任，进而寻求对被害人的保护，以期冀国民生活安定进步与国民经济的健全发展。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleCaption>（定义）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">本法所称的“制造物”，是指制造或加工的动产。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">本法所称的“缺陷”，是指在考量该制造物的特性、通常能预见的使用形态、该制造业者等在交付该制造物的时期及其他涉及该制造物的情况后，该制造物欠缺了通常应具备的安全性。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">本法所称的“制造业者等”，是指符合下列任意一项的人。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">以该制造物为业制造、加工或进口的人（以下简称“制造业者”）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在该制造物上以制造业者身份标示姓名、商号、商标等标记（下称“姓名等标记”）的人或在该制造物上标示与该制造业者会产生误认的姓名等标记的人</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">除前号所列的人外，从该制造物的制造、加工、进口或贩卖的形态等情况判断，在该制造物上标示可认为其为实质上的制造业者的姓名等标记的人</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleCaption>（制造物责任）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">制造业者等在其制造、加工、进口或标示了前条第三项第二号、第三号的姓名等标记且交付的制造物在因缺陷侵害他人生命、身体或财产时，对由此产生的损害负赔偿责任。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，该损害仅在该制造物上发生时不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleCaption>（免责事由）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">在前条的情况下，制造业者等在证明下列各项事项时，不负同条规定的赔偿责任。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">按照制造业者交付该制造物时科学或技术的水平，无法认识到该制造物存在该缺陷。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在该制造物被作为其他制造物的部件或原材料使用的情况下，该缺陷完全由于遵循该其他制造物的制造业者作出的有关设计的指示产生，且在该缺陷的产生上无过失。</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleCaption>（期间的限制）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第三条规定的损害赔偿的请求权在被害人或其法定代理人知道损害及赔偿义务人起三年不行使时，因时效而消灭。制造业者等在交付该制造物后经过十年时，亦同。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前项后段的期间在因蓄积在身体里而对人的健康造成危害的物质造成的损害或在一定的潜伏期间经过后才表现出症状的损害的情况下，自该损害发生之时起算。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleCaption>（民法的适用）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">制造业者等的制造物的缺陷造成的损害赔偿责任除适用本法规定外，适用民法（明治二十九年法律第八十九号）的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true" Type="New">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日等）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自公布之日起算经过一年后施行，适用于本法施行后制造业者等交付的制造物。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

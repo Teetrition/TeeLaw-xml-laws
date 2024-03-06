@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law Era="Meiji" Year="42" Num="039" LawType="Act" Lang="ja" PromulgateMonth="04" PromulgateDay="28">
+  <LawNum>明治四十二年法律第三十九号</LawNum>
+  <LawBody>
+    <LawTitle Kana="いんしはんざいしょばつほう　しょう" Abbrev="" AbbrevKana="">印花税票犯罪处罚法</LawTitle>
+    <MainProvision Extract="true">
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以使用为目的，伪造或变造帝国政府发行的印花税票或表示印花税票金额的印章的，处五年以下的拘禁刑。以使用为目的去除印花税票上的注销印章的，亦同。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">使用伪造、变造的印花税票、表示印花税票金额的印章或去除注销印章的印花税票的，或是以使用为目的交付他人、进口或从国内其他地区引进的，处五年以下的拘禁刑。不正当地使用表示印花税票金额的印章的，亦同。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">处罚前项的未遂罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">重复使用帝国政府发行的印花税票或其他表示印花税票金额的证票的，处五十日元以下的罚金或科料。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">不问何人，本法对在帝国外犯第一条或第二条犯罪的人适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">伪造、变造的印花税票、表示印花税票金额的印章或去除注销印章的印花税票，除通过裁判没收以外，不问是何人所有，均通过行政处分没收。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">有关没收的程序以命令规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">删除刑法施行法第二十五条第一项第二号及第二十六条第十一号。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月十七日法律第六十八号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">本法自部分修改刑法等的法律的施行日起施行。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，下列各号中的规定在对应各号规定的日期起施行。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百零九条的规定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布之日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

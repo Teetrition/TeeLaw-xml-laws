@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="065" Year="19" PromulgateMonth="05" PromulgateDay="30">
+  <LawNum>平成十九年法律第六十五号</LawNum>
+  <LawBody>
+    <LawTitle Kana="えいがのとうさつのぼうしにかんするほうりつ" Abbrev="电影盗摄防止法" AbbrevKana="え">有关防止电影盗摄的法律</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（目的）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>鉴于在电影院等场所的因电影盗摄而被制作出电影的复制品，其大量流通导致电影产业严重受损，本法规定有关防止电影盗摄的必要事项，以期冀电影文化的振兴及电影产业的健全发展。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（定义）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>本法中，下列各号用语的含义，各依对应各号的规定。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>上映</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>指著作权法（昭和四十五年法律第四十八号）第二条第一项第十七号所规定的上映。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>电影院等</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>指电影院及其他对不特定多数人上映电影的场所，且主办该电影上映的人对该场所的入场进行管理。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>电影盗摄</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>指在电影院等场所，就向观众收取费用而上映的电影（含在电影院等场所向观众收取费用并上映前，不向观众收取费用便上映的电影；限于著作权的标的的电影。以下简称“电影”），对该电影的画面进行录制（指著作权法第二条第一项第十四号中规定的录制）或对声音进行录音（指同项第十三号中规定的录音）的行为（取得该电影的著作权人的许诺时除外）。</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleCaption>（电影产业关联事业人员的电影盗摄的防止）</ArticleCaption>
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>在电影院等场所主办该电影上映的人及其他电影产业关联事业人员应当努力探讨并实施防止电影盗摄的方案。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（有关电影盗摄的著作权法的特例）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>对于电影盗摄，不适用著作权法第三十条第一项的规定；对于进行电影盗摄的人，就同法第一百一十九条第一项的规定的适用，将“第三十条第一项（包含第一百零二条第一项中准用的情况。第三项同）中规定的以私人使用为目的自己进行著作物或表演等的复制，第一百一十三条第三项”一句替换为“第一百一十三条第三项”进行适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence>前项规定不适用于自最初在日本国内的电影院等场所向观众收取费用并上映之日起算经过八个月的电影的电影盗摄。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="false" Type="New">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法自公布之日起算经过三个月后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision Extract="true" AmendLawNum="令和二年六月十二日法律第四十八号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1">本法自令和三年一月一日起施行。</Sentence>
+            <Sentence Function="proviso" Num="2">但是，下列各号的规定，自对应各号的规定之日起施行。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第三条（限于有关程序著作物注册的特例的法律（下称“程序注册特例法”）第二十条第一号的修改规定），次条，附则第三条、第六条、第七条、第十二条及第十三条（限于在有关防止电影盗摄的法律（平成十九年法律第六十五号）第四条第一项的修改规定中“包含……”之后增加“。第三项同”的部分）的规定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>公布之日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence>第一条，附则第四条、第八条、第十一条及第十三条（前号所列的修改规定除外）的规定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence>令和二年十月一日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

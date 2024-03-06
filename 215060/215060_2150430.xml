@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="060" Year="15" PromulgateMonth="04" PromulgateDay="10"><LawNum>大正十五年法律第六十号</LawNum><LawBody><LawTitle Kana="ぼうりょくこういとうしょばつにかんするほうりつ" Abbrev="" AbbrevKana="">有关处罚暴力行为等的法律</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">展示团体或多数人的威力、假装是团体或多数人展示威力、展示凶器，或是数人共同犯刑法第二百零八条第一项、第二百二十二条或第二百六十一条的犯罪的，处三年以下的惩役或五百日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">常习犯前项所列刑法各条的犯罪的，处罚同前项规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以得到或使他人得到财产上不正当的利益为目的，按照前条第一项的方法强制要求会面或是作出强制要求谈判的行为的，处一年以下的惩役或一百日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">常习性无故强制要求会面或是作出强制要求谈判的行为的，处罚同前项规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以按照第一条第一项的方法使他人犯刑法第一百九十九条、第二百零四条、第二百零八条第一项、第二百二十二条、第二百二十三条、第二百三十四条、第二百六十条或第二百六十一条的犯罪为目的，供给金钱、物品等财产上的利益或职务，或是作出该要约或约定的，以及知情接受供给或作出要求或约定的，处六个月以下的惩役或五十日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以按照第一条第一项的方法使他人犯刑法第九十五条的犯罪为目的作出前项的行为的，处六个月以下的惩役、禁锢或五十日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法施行前犯刑法第二百零八条第一项或第二百六十一条的犯罪且符合本法的人，即使在本法施行后亦没有告诉不论其罪。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="251" Year="23" PromulgateMonth="12" PromulgateDay="18">
+  <LawNum>昭和二十三年法律第二百五十一号</LawNum>
+  <LawBody>
+    <LawTitle Kana="ばっきんとうりんじそちほう" Abbrev="" AbbrevKana="">罚金等临时措施法</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">伴随经济情势的变动，有关罚金及科料的额度等的特例，在当前一段时间，根据本法的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" Function="main" WritingMode="vertical">作为刑法（明治四十年法律第四十五号）第十五条及刑法施行法（明治四十一年法律第二十九号）第二十条规定的例外，罚金为一千日元以上。</Sentence>
+            <Sentence Num="2" Function="proviso" WritingMode="vertical">但是，减轻罚金时，可以减少到一千日元以下。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">作为刑法第十七条及刑法施行法第二十条规定的例外，科料为五日元以上不满一千日元。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">左列犯罪规定的罚金，分别以其法定额度的上限的五十倍的额度为法定额度的上限。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" Function="main" WritingMode="vertical">刑法的犯罪。</Sentence>
+              <Sentence Num="2" Function="proviso" WritingMode="vertical">但是，第一百五十二条的犯罪除外。</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">有关处罚暴力行为等的法律（大正十五年法律第六十号）的犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">有关经济关联罚则的整备的法律（昭和十九年法律第四号）的犯罪</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">刑法第一百五十二条中的“一日元以下”，替换为“五十日元以下”进行适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" Function="main" WritingMode="vertical">前条第一项各号所列犯罪之外的犯罪（条例的犯罪除外）中规定的罚金，其法定额度的上限不满二千日元时，为二千日元；其法定额度的下限不满一千日元时，为一千日元。</Sentence>
+            <Sentence Num="2" Function="proviso" WritingMode="vertical">但是，罚金额度通过一定的金额乘以倍数确定时，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">前项但书的情况下，其罚金额度不满一千日元时，为一千日元。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">第一项的犯罪中规定的科料特别规定了额度的，为无该规定。但是，科料额度通过一定的金额乘以倍数确定时，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">法律委任命令设置罚金的罚则时，基于该委任可规定的罚金额度最高限度不满二千日元的，为二千日元。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">刑法第二十五条中的“五千日元以下的罚金”，替换为“五万日元以下的罚金”进行适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">刑事诉讼法（昭和二十三年法律第百三十一号）第六十条第三项、第一百九十九条第一项及第二百十七条中的“五百日元以下的罚金”，就第三条第一项各号所列法律的犯罪，替换为“二万五千日元以下的罚金”；就其他犯罪，替换为“二千日元以下的罚金”进行适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="2" OldStyle="false">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">就第三条第一项各号所列法律的犯罪、刑事诉讼法第二百八十四条中的“五千日元以下的罚金”，替换为“五万日元以下的罚金”；同法第二百八十五条第二项中的“超过五千日元的罚金”，替换为“超过五万日元的罚金”进行适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="3" OldStyle="false">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">刑事诉讼法第四百六十一条第一项中的“五千日元以下的罚金”，替换为“五万日元以下的罚金”进行适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Hide="false" Num="4" OldStyle="false">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">刑事诉讼法第四百九十五条第三项中的“二十日元”，替换为“二百日元”进行适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自昭和二十四年二月一日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false">
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第二条的规定对本法施行时现行有效的条例的罚则，在本法施行之日起六个月内，不适用。</Sentence>
+          <Sentence Num="2" WritingMode="vertical">对本法施行后经过六个月前的违法行为的罚则的适用，在本法施行经过六个月后，亦同。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="3" OldStyle="false">
+        <ParagraphNum>３</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">第四条的规定，对第三次国会成立的法律的罚则也适用。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Meiji" Lang="ja" LawType="Act" Num="032" Year="17" PromulgateMonth="12" PromulgateDay="27"><LawNum>明治十七年太政官布告第三十二号</LawNum><LawBody><LawTitle Kana="ばくはつぶつとりしまりばっそく" Abbrev="" AbbrevKana="">爆炸物管制罚则</LawTitle>
+    <EnactStatement>爆炸物管制罚则按别册所列制定。</EnactStatement>
+    <EnactStatement>右奉　敕旨谨布告之</EnactStatement>
+    <EnactStatement>（别册）</EnactStatement>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以妨害治安或危害人的身体、财产为目的，使用爆炸物的，以及对人使用的，处死刑或无期、七年以上的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以前条的目的欲使用爆炸物之际而被发觉的，处无期或五年以上的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">以第一条的目的，制造、进口、持有爆炸物或供其使用的器具的，或是进行订购的，处三年以上十年以下的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">欲犯第一条的犯罪但止于胁迫、教唆、煽动的，以及止于共谋的，处三年以上十年以下的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">明知是第一条记载的犯罪者而为其制造、进口、贩卖、转让、窝藏爆炸物或供其使用的器具及进行前述行为的约定的，处三年以上十年以下的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">制造、进口、持有爆炸物或进行订购的人不能证明其没有第一条记载的犯罪的目的时，处六个月以上五年以下的惩役。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">发现爆炸物的，应立刻向警察官吏告知；违者处一百日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="8">
+        <ArticleTitle>第八条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">发现有第一条至第五条的犯罪时，应立刻向警察官吏或将要受害的人告知；违者处五年以下的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="9">
+        <ArticleTitle>第九条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">藏匿第一条至第五条的犯罪者或使其隐匿的，或是湮灭其罪证的，处十年以下的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="10">
+        <ArticleTitle>第十条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">第一条至第六条的犯罪从刑法（明治四十年法律第四十五号）第四条之二之例。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="11">
+        <ArticleTitle>第十一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">预备阴谋第一条记载的犯罪的人，在进行该犯罪前向官府自首，因而没有产生危害时，免除其刑罚。第五条记载的犯罪者，亦同。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="12">
+        <ArticleTitle>第十二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本则记载的犯罪与刑法进行比较，按刑罚更重的处断。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision AmendLawNum="明治四十一年三月二十八日法律第二十九号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1" OldNum="true" OldStyle="false">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自刑法施行之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成十三年十一月十六日法律第一百二十一号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法自制止恐怖主义爆炸的国际公约在日本国生效之日起施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（过渡措施）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">修改后的爆炸物管制罚则第十条的规定、有关处罚燃烧瓶的使用等的法律第四条的规定、有关禁止细菌（生物）及毒素武器的发展、生产及储存以及销毁这类武器的公约等的实施的法律第十一条的规定、有关禁止化学兵器及规制特定物质的法律第四十二条（限于涉及刑法（明治四十年法律第四十五号）第四条之二的部分）的规定及有关防止沙林等造成的人身伤害的法律第八条的规定，在本法律施行日以后，限于根据在日本国生效的条约在日本国外犯罪时也应当处罚的犯罪适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成十九年五月十一日法律第三十八号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法自制止核恐怖主义行为国际公约在日本国生效之日起施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二十九年六月二十一日法律第六十七号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">本法自公布之日起算经过二十日后施行。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，下列各号中的规定在各号对应的期日起施行。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条中的有关有组织犯罪的处罚及犯罪收益的规制等的法律（下称“组织犯罪处罚法”）第十二条的修改规定、第二条及第四条至第七条的规定，以及附则第四条及第六条的规定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">联合国打击跨国有组织犯罪公约在日本国生效之日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（过渡措施）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">新组织犯罪处罚法第十二条（限于涉及刑法第四条之二的部分）的规定、根据第二条的规定修改后的爆炸物管制罚则第十条（限于涉及爆炸物管制罚则第四条至第六条的部分）的规定、根据第四条的规定修改后的有关处罚暴力行为等的法律第一条之三第二项的规定、根据第五条的规定修改后的儿童福祉法第六十条第五项（限于涉及同条第一项的部分）的规定、根据第六条的规定修改后的有关禁止细菌（生物）及毒素武器的发展、生产及储存以及销毁这类武器的公约等的实施的法律第十一条（限于涉及同法第十条的部分）的规定及根据第七条的规定修改后的有关防止沙林等造成的人身伤害的法律第八条（限于涉及同法第五条第三项的部分）的规定，限于根据附则第一条第一号所列规定施行之日以后对日本国生效的条约在日本国外犯罪时也应当处罚的犯罪适用。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月十七日法律第六十八号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">本法自部分修改刑法等的法律的施行日起施行。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，下列各号中的规定在对应各号规定的日期起施行。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百零九条的规定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布之日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

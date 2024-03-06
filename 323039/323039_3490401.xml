@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Showa" Lang="ja" LawType="Act" Num="039" Year="23" PromulgateMonth="05" PromulgateDay="01">
+  <LawNum>昭和二十三年法律第三十九号</LawNum>
+  <LawBody>
+    <LawTitle Kana="けいはんざいほう" Abbrev="" AbbrevKana="">轻犯罪法</LawTitle>
+    <MainProvision>
+      <Article Delete="false" Hide="false" Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">符合左列各号之一的，处拘留或科料。</Sentence>
+          </ParagraphSentence>
+          <Item Delete="false" Hide="false" Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">无正当理由潜入无人居住且无人看守的宅邸、建筑物或船舶内的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">无正当理由隐藏携带刀具、铁棒或其他危害他人生命或可以对他人身体造成重大损害的器具的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">无正当理由隐藏携带备份钥匙、凿子、玻璃刀或其他可能使用在侵入他人宅邸或建筑物的器具的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">没有生计来源，虽然有劳动能力但没有就业的意思，且没有一定的居所四处游荡的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在公共的会堂、剧场、餐饮店、舞厅或其他公共娱乐场所，对入场者；或是在火车、电车、公交车、船舶、飞机或其他公共交通工具中，对乘客有显著粗鲁或粗暴的言行举止，造成他人困扰的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">无正当理由熄灭他人的标灯或在街道及其他公众通行或集合的场所设置的灯火的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">胡乱将船筏放置在水路中或进行其他妨害水路交通行为的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">发生风水灾害、地震、火灾、交通事故、犯罪等突发事件时，无正当理由，就出入现场不听从公务员或救援人员的指示，或是在公务员要求援助时不予协助的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="9">
+            <ItemTitle>九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">缺乏相当的注意，在建筑物、森林或其他可燃物附近生火或是在汽油等容易引火的物品附近使用烟火的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="10">
+            <ItemTitle>十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">缺乏相当的注意，使用或摆弄枪炮或火药类、锅炉等爆炸物的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="11">
+            <ItemTitle>十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">缺乏相当的注意，在有危害他人身体或物件之虞的场所投掷、注入或发射物件的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="12">
+            <ItemTitle>十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">无正当理由放出明显有危害人畜性格的犬只等鸟兽或怠于监守使其逃窜的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="13">
+            <ItemTitle>十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在公共场所中对多数人有显著粗鲁或粗暴的言行举止，造成他人困扰，或是威压他人，在火车、电车、公交车、船舶等公共交通工具，戏剧等活动或分发定额物资的公众队列；或是在前述交通工具、活动的购票，等待领取分发定额物资的证票的公众队列中插队或扰乱队列秩序的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="14">
+            <ItemTitle>十四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">发出异常大的人声、乐器声、收音机声等，妨害安静平稳的环境对近邻造成困扰，且公务员制止无效的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="15">
+            <ItemTitle>十五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">假冒官职、公职、位阶、勋级、学位或其他法令规定的称号或是与前述称号相似的外国的称号，或是没有资格却使用法令规定的制服、勋章、徽章等标志或仿造物的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="16">
+            <ItemTitle>十六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">向公务员报告虚构的犯罪或灾害事实的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="17">
+            <ItemTitle>十七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在有关出质、古物买卖或交换的账簿上，或是在依法令应登记的姓名、居所、职业等事项上作虚假的申请使作出不实的登记的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="18">
+            <ItemTitle>十八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在自己占有的场所内，明知有老幼伤病残等需要扶助的人或人的尸体、死胎，却不立刻向公务员报告的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="19">
+            <ItemTitle>十九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">无正当理由改变非正常死亡者或死胎现场的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="20">
+            <ItemTitle>二十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在公众能看到的场所，以使公众产生厌恶感情的方法擅自露出臀部、大腿或其他身体的一部分的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="21">
+            <ItemTitle>二十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">删除</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="22">
+            <ItemTitle>二十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">乞讨或使人乞讨的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="23">
+            <ItemTitle>二十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">无正当理由偷窥他人居所、澡堂、更衣室、厕所或其他通常人不穿着衣物的场所的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="24">
+            <ItemTitle>二十四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">进行恶作剧等行为妨害公私仪式的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="25">
+            <ItemTitle>二十五</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">妨害河沟等水路流通的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="26">
+            <ItemTitle>二十六</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在街道、公园或其他公众集合的场所吐口水、吐痰或大小便，或是使他人进行前述行为的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="27">
+            <ItemTitle>二十七</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">违反公共利益，乱扔垃圾或乱扔鸟兽尸体等污染物或废弃物的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="28">
+            <ItemTitle>二十八</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">阻挡他人前进，或聚在其身旁不退下，或是用使他人感到不安或困扰的方式纠缠他人的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="29">
+            <ItemTitle>二十九</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">共谋对他人身体造成损害的人中，有人对该共谋的行为进行预备行为时，其他参与共谋的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="30">
+            <ItemTitle>三十</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">嗾使狗等动物攻击人畜，或是使牛马受惊逃窜的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="31">
+            <ItemTitle>三十一</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">进行恶作剧等行为妨害他人业务的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="32">
+            <ItemTitle>三十二</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">无正当理由进入禁止入内的场所或他人的田地的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="33">
+            <ItemTitle>三十三</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">擅自在他人房屋等建筑物上张贴告示，或移除他人的招牌、禁止事项告示牌或其他标志物，或是污损前述建筑物或标志物的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Delete="false" Hide="false" Num="34">
+            <ItemTitle>三十四</ItemTitle>
+            <ItemSentence>
+              <Sentence WritingMode="vertical">在向公众贩卖、分发物品或提供服务时作出欺骗他人或引起他人误解的事实的广告的</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">对犯前条犯罪的人，可以根据情况免除刑罚或是并科拘留及科料。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">教唆或帮助第一条的犯罪的，以正犯论。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Delete="false" Hide="false" Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Hide="false" Num="1" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence WritingMode="vertical">适用本法时，应注意不得不当侵害国民的权利，不得偏离本来的目的而为其他目的滥用本法。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自昭和二十三年五月二日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="2" OldStyle="false" OldNum="true">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">废止警察犯处罚令（明治四十一年内务省令第十六号）。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四十八年十月一日法律第一百零五号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Hide="false" Num="1" OldStyle="false">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">本法自公布之日起算经过六个月后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Hide="false" Num="5" OldStyle="false">
+        <ParagraphCaption>（有关罚则的过渡措施）</ParagraphCaption>
+        <ParagraphNum>５</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence WritingMode="vertical">对本法施行前的行为的罚则的适用，适用修改前的规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

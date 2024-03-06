@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="086" Year="25" PromulgateMonth="11" PromulgateDay="27"><LawNum>平成二十五年法律第八十六号</LawNum><LawBody><LawTitle Kana="じどうしゃのうんてんによりひとをししょうさせるこういとうのしょばつにかんするほうりつ" Abbrev="自動車運転死傷処罰法,悪質運転厳罰法,自動車運転死傷行為処罰法" AbbrevKana="じ,あ,じ">有关处罚因驾驶机动车而致人死伤行为等的法律</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleCaption>（定义）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法所称的“机动车”是指道路交通法（昭和三十五年法律第一百零五号）第二条第一项第九号中规定的机动车和同项第十号规定的带有动力装置的自行车。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法所称的“无证驾驶”是指下列人在道路（指道路交通法第二条第一项第一号中规定的道路）上驾驶的行为：没有取得法令规定的驾驶证或是道路交通法第一百零七条之二中规定的国际驾驶证或外国驾驶证而不被视为具有对应机动车驾驶能力的人（包括因法令规定其驾驶证效力被停止的情况）；或是没有持有该国际驾驶证或是外国驾驶证的人（包括符合道路交通法第八十八条第一项第二号到第四号中规定的任意一种情况，或是从入境（不包括基于住民基本台账法（昭和四十二年法律第八十一号）在居民基本台账中被登记的人根据出入境管理及难民认定法（昭和二十六年政令第三百一十九号）第六十条第一项中的规定确认出境的、同法第二十六条第一项中的规定许可再入境（包括根据同法第二十六条之二第一项（包括准用有关基于与日本国签订的和平条约而脱离日本国籍者等的出入境管理的特例法（平成三年法律第七十一号）第二十三条第二项的情形）的规定，根据出入境管理及难民认定法第二十六条第一项的规定被视为取得了再入境许可的人的情况）或是根据出入境管理及难民认定法第六十一条之二之十五第一项的规定，因难民旅行证明书的交付而出国，在从出国之日起算未满三个月的期间内再次入境的情况）之日起算滞留时间不超过一年的情况）。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（危险驾驶致死伤）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">有以下行为，因而使人负伤的，处十五年以下的拘禁刑；造成人员死亡的，处一年以上的有期拘禁刑。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">因酒精或者药物的影响，在难以进行正常驾驶的状态下驾驶机动车的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">以难以控制机动车行驶的高速度驾驶机动车的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">没有操控机动车行驶的技能而驾驶机动车的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">以妨害他人或者车辆的通行为目的，加塞正在行驶的机动车、显著靠近通行中的人员或车辆，且以可能发生重大交通危险的速度驾驶机动车的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">以妨害车辆的通行为目的，在正在行驶的车辆（限于以可能产生重大交通危险的速度行驶中的车辆）前方停止，或以其他显著接近该车的方法驾驶机动车的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">在高速机动车国道（指高速机动车国道法（昭和三十二年法律第七十九号）第四条第一项所规定的道路）或机动车专用道路（指道路法（昭和二十七年法律第一百八十号）第四十八条之四所规定的机动车专用道路）上，以妨害机动车的通行为目的，在正在行驶的机动车前方停止，或以其他显著接近该车的方法驾驶机动车，因而使得行驶中的机动车停止或缓慢前行（指以机动车可立刻停止的速度前进）的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="7">
+            <ItemTitle>七</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">故意无视红灯或者与之具有相当意义的信号，且以可能发生重大交通危险的速度驾驶机动车的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="8">
+            <ItemTitle>八</ItemTitle>
+            <ItemSentence>
+              <Sentence Num="1" WritingMode="vertical">在禁止通行的道路（根据道路标识、指示牌或者依照其他法令规定，禁止机动车通行的道路，或是政令规定的人员或车辆通行时可能发生交通危险的部分路段）上通行，且以可能发生重大交通危险的速度驾驶机动车的行为</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">因酒精或者药物的影响，在可能产生妨碍正常驾驶的障碍的状态下驾驶机动车，因而因该酒精或药物的影响导致陷入难以正常驾驶的状态，致人负伤的，处十二年以下的拘禁刑；致人死亡的，处十五年以下的拘禁刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">患有政令规定的可能妨碍驾驶机动车的疾病，在可能产生妨碍正常驾驶的障碍的状态下驾驶机动车，因该疾病的影响导致陷入难以正常驾驶的状态，因而致人死伤的，同前项规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleCaption>（过失驾驶致死伤逃避酒精等影响的检测）</ArticleCaption>
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">因酒精或药物的影响，在可能产生妨碍正常驾驶的障碍的状态下驾驶机动车的人，疏忽在驾驶上必要的注意，因而致人死伤的，以逃避对驾驶当时有无酒精或药物的影响或者影响程度进行检查为目的，再次饮酒或摄取药物、离开现场后使体内酒精或药物的浓度降低，或者进行其他规避检测酒精或药物有无影响或者影响程度的行为的，处十二年以下的拘禁刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleCaption>（过失驾驶致死伤）</ArticleCaption>
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Function="main" Num="1" WritingMode="vertical">在机动车的驾驶上缺乏必要的注意，因而致人死伤的，处七年以下的拘禁刑或一百万日元以下的罚金。</Sentence>
+            <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，伤害较轻时，根据情况，可以免除刑罚。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleCaption>（因无证驾驶的加重）</ArticleCaption>
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯第二条（第三号除外）之罪的人（限于致人负伤），在犯罪当时无证驾驶时，处六个月以上的有期拘禁刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2">
+          <ParagraphNum>２</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯第三条之罪的人，在犯罪当时无证驾驶，致人负伤时，处十五年以下的拘禁刑；致人死亡的，处六个月以上的有期拘禁刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3">
+          <ParagraphNum>３</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯第四条之罪的人，在犯罪当时无证驾驶时，处十五年以下的拘禁刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4">
+          <ParagraphNum>４</ParagraphNum>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">犯前条之罪的人，在犯罪当时无证驾驶时，处十年以下的拘禁刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法自公布之日起算不超过六个月的范围内由政令确定的日期起施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="14">
+        <ArticleCaption>（有关罚则的适用等的过渡措施）</ArticleCaption>
+        <ArticleTitle>第十四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">对于本法施行前的行为的罚则的适用，适用修改前的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和二年六月十二日法律第四十七号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">本法自公布之日起算经过二十日后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和四年六月十七日法律第六十八号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">本法自部分修改刑法等的法律的施行日起施行。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，下列各号中的规定在对应各号规定的日期起施行。</Sentence>
+        </ParagraphSentence>
+        <Item Num="1">
+          <ItemTitle>一</ItemTitle>
+          <ItemSentence>
+            <Column Num="1">
+              <Sentence Num="1" WritingMode="vertical">第五百零九条的规定</Sentence>
+            </Column>
+            <Column Num="2">
+              <Sentence Num="1" WritingMode="vertical">公布之日</Sentence>
+            </Column>
+          </ItemSentence>
+        </Item>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="令和五年六月十六日法律第五十六号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+        <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" WritingMode="vertical">本法自公布之日起算不超过一年的范围内由政令确定的日期起施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>
