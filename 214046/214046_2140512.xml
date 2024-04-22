@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Law Era="Taisho" Lang="ja" LawType="Act" Num="046" Year="14" PromulgateMonth="04" PromulgateDay="22"><LawNum>大正十四年法律第四十六号</LawNum><LawBody><LawTitle Kana="ちあんいじほう" Abbrev="" AbbrevKana="">治安维持法</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>以变革国体或否认私有财产制度为目的结社或知情加入该社团的，处十年以下的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>处罚前项的未遂罪。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>以前条第一项的目的，就该目的事项的实行进行协议的，处七年以下的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>以第一条第一项的目的煽动该目的事项的实行的，处七年以下的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>以第一条第一项的目的煽动骚扰、暴行等对生命、身体或财产施加危害的犯罪的，处十年以下的惩役或禁锢。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">以使他人犯第一条第一项及前三条的犯罪为目的，供给金钱或其他财产上的利益，或是作出请求或约定的，处五年以下的惩役或禁锢。</Sentence>
+            <Sentence Num="2">知情并接受供给或作出要求或约定的，亦同。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>犯前五条之罪的，自首时，减轻或免除其刑罚。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="7">
+        <ArticleTitle>第七条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>本法不问何人，也适用于本法施行区域外犯罪的人。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>废止大正十二年敕令第四百零三号。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
