@@ -646,7 +646,7 @@
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">本法所称“公众”，包括特定多数人。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">本法所称的“公众”，包括特定多数人。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
@@ -1385,10 +1385,10 @@
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">その著作物でまだ公表されていないものを地方公共団体又は地方独立行政法人に提供した場合（開示する旨の決定の時までに別段の意思表示をした場合を除く。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">将其尚未发表的作品向地方公共团体或地方独立行政法人提供的情况（在公开提供的决定前作出不同的意思表示的情况除外）</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">情報公開条例（地方公共団体又は地方独立行政法人の保有する情報の公開を請求する住民等の権利について定める当該地方公共団体の条例をいう。以下同じ。）の規定により当該地方公共団体の機関又は地方独立行政法人が当該著作物を公衆に提供し、又は提示すること（当該著作物に係る歴史公文書等が当該地方公共団体又は地方独立行政法人から公文書管理条例（地方公共団体又は地方独立行政法人の保有する歴史公文書等の適切な保存及び利用について定める当該地方公共団体の条例をいう。以下同じ。）に基づき地方公文書館等（歴史公文書等の適切な保存及び利用を図る施設として公文書管理条例が定める施設をいう。以下同じ。）に移管された場合（公文書管理条例の規定（公文書管理法第十六条第一項の規定に相当する規定に限る。以下この条において同じ。）による利用をさせる旨の決定の時までに当該著作物の著作者が別段の意思表示をした場合を除く。）にあつては、公文書管理条例の規定により地方公文書館等の長（地方公文書館等が地方公共団体の施設である場合にあつてはその属する地方公共団体の長をいい、地方公文書館等が地方独立行政法人の施設である場合にあつてはその施設を設置した地方独立行政法人をいう。以下同じ。）が当該著作物を公衆に提供し、又は提示することを含む。）。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">依信息公开条例（指规定住民等请求公开地方公共团体或地方独立行政法人保有的信息的权利的该地方公共团体的条例。下同）的规定，由该地方公共团体的机关或地方独立行政法人将该作品向公众提供或展示（该地方公共团体或地方独立行政法人基于公文书管理条例（指规定适当保存及使用地方公共团体或地方独立行政法人保有的历史公文书等的该地方公共团体的条例。下同）将与该作品相关的历史公文书等移交地方公文书馆等（指公文书管理条例规定的谋求适当保存及使用历史公文书等的设施。下同）保管的情况（依公文书管理条例的规定（限于与公文书管理法第十六条第一项的规定相当的规定。以下本条同）在同意使用决定前该作品的作者作出不同的意思表示的情况除外）下，包括依公文书管理条例由地方公文书馆等的长官（地方公文书馆等为地方公共团体的设施时，指所属地方公共团体的长官；地方公文书馆等为地方独立行政法人的设施时，指设置该设施的地方独立行政法人。下同）将该作品向公众提供或展示）。</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -1396,10 +1396,10 @@
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">その著作物でまだ公表されていないものを国立公文書館等に提供した場合（公文書管理法第十六条第一項の規定による利用をさせる旨の決定の時までに別段の意思表示をした場合を除く。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">将其尚未发表的作品向国立公文书馆等提供的情况（依公文书管理法第十六条第一项的规定在同意使用决定前作出不同的意思表示的情况除外）</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">同項の規定により国立公文書館等の長が当該著作物を公衆に提供し、又は提示すること。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">依同项的规定由国立公文书馆等的长官将该作品向公众提供或展示。</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -1407,10 +1407,10 @@
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
                     <Column Num="1">
-                      <Sentence Num="1" WritingMode="vertical">その著作物でまだ公表されていないものを地方公文書館等に提供した場合（公文書管理条例の規定による利用をさせる旨の決定の時までに別段の意思表示をした場合を除く。）</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">将其尚未发表的作品向地方公文书馆等提供的情况（依公文书管理条例的规定在同意使用决定前作出不同的意思表示的情况除外）</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">公文書管理条例の規定により地方公文書館等の長が当該著作物を公衆に提供し、又は提示すること。</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">依公文书管理条例的规定由地方公文书馆等的长官将该作品向公众提供或展示。</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -1418,141 +1418,142 @@
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第一項の規定は、次の各号のいずれかに該当するときは、適用しない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第一项的规定不适用于符合下列各号的任一情形。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">行政機関情報公開法第五条の規定により行政機関の長が同条第一号ロ若しくはハ若しくは同条第二号ただし書に規定する情報が記録されている著作物でまだ公表されていないものを公衆に提供し、若しくは提示するとき、又は行政機関情報公開法第七条の規定により行政機関の長が著作物でまだ公表されていないものを公衆に提供し、若しくは提示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依行政机关信息公开法第五条的规定由行政机关的长官将尚未发表的、记录同条第一号ロ、ハ或同条第二号但书规定的信息的作品向公众提供或展示时，或是依行政机关信息公开法第七条的规定由行政机关的长官将尚未发表的作品向公众提供或展示时。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">独立行政法人等情報公開法第五条の規定により独立行政法人等が同条第一号ロ若しくはハ若しくは同条第二号ただし書に規定する情報が記録されている著作物でまだ公表されていないものを公衆に提供し、若しくは提示するとき、又は独立行政法人等情報公開法第七条の規定により独立行政法人等が著作物でまだ公表されていないものを公衆に提供し、若しくは提示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依独立行政法人等信息公开法第五条的规定由独立行政法人等将尚未发表的、记录同条第一号ロ、ハ或同条第二号但书规定的信息的作品向公众提供或展示时，或是依独立行政法人等信息公开法第七条的规定由独立行政法人等将尚未发表的作品向公众提供或展示时。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">情報公開条例（行政機関情報公開法第十三条第二項及び第三項の規定に相当する規定を設けているものに限る。第五号において同じ。）の規定により地方公共団体の機関又は地方独立行政法人が著作物でまだ公表されていないもの（行政機関情報公開法第五条第一号ロ又は同条第二号ただし書に規定する情報に相当する情報が記録されているものに限る。）を公衆に提供し、又は提示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依信息公开条例（限于设置了与行政机关信息公开法第十三条第二项及第三项的规定相当的规定的条例。第五号同）的规定由地方公共团体的机关或地方独立行政法人将尚未发表的作品（限于记录与行政机关信息公开法第五条第一号ロ或同条第二号但书规定的信息相当的信息的作品）向公众提供或展示时。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">情報公開条例の規定により地方公共団体の機関又は地方独立行政法人が著作物でまだ公表されていないもの（行政機関情報公開法第五条第一号ハに規定する情報に相当する情報が記録されているものに限る。）を公衆に提供し、又は提示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依信息公开条例的规定由地方公共团体的机关或地方独立行政法人将尚未发表的作品（限于记录与行政机关信息公开法第五条第一号ハ规定的信息相当的信息的作品）向公众提供或展示时。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">情報公開条例の規定で行政機関情報公開法第七条の規定に相当するものにより地方公共団体の機関又は地方独立行政法人が著作物でまだ公表されていないものを公衆に提供し、又は提示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依信息公开条例中与行政机关信息公开法第七条的规定相当的规定由地方公共团体的机关或地方独立行政法人将尚未发表的作品向公众提供或展示时。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">公文書管理法第十六条第一項の規定により国立公文書館等の長が行政機関情報公開法第五条第一号ロ若しくはハ若しくは同条第二号ただし書に規定する情報又は独立行政法人等情報公開法第五条第一号ロ若しくはハ若しくは同条第二号ただし書に規定する情報が記録されている著作物でまだ公表されていないものを公衆に提供し、又は提示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依公文书管理法第十六条第一项的规定由国立公文书馆等的长官将尚未发表的、记录行政机关信息公开法第五条第一号ロ、ハ或同条第二号但书规定的信息或是独立行政法人等信息公开法第五条第一号ロ、ハ或同条第二号但书规定的信息的作品向公众提供或展示时。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="7">
                   <ItemTitle>七</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">公文書管理条例（公文書管理法第十八条第二項及び第四項の規定に相当する規定を設けているものに限る。）の規定により地方公文書館等の長が著作物でまだ公表されていないもの（行政機関情報公開法第五条第一号ロ又は同条第二号ただし書に規定する情報に相当する情報が記録されているものに限る。）を公衆に提供し、又は提示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依公文书管理条例（限于设置了与公文书管理法第十八条第二项及第四项的规定相当的规定的条例）的规定由地方公文书馆等的长官将尚未发表的作品（限于记录与行政机关信息公开法第五条第一号ロ或同条第二号但书规定的信息相当的信息的作品）向公众提供或展示时。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="8">
                   <ItemTitle>八</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">公文書管理条例の規定により地方公文書館等の長が著作物でまだ公表されていないもの（行政機関情報公開法第五条第一号ハに規定する情報に相当する情報が記録されているものに限る。）を公衆に提供し、又は提示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依公文书管理条例的规定由地方公文书馆等的长官将尚未发表的作品（限于记录与行政机关信息公开法第五条第一号ハ规定的信息相当的信息的作品）向公众提供或展示时。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
             </Article>
             <Article Num="19">
-              <ArticleCaption>（氏名表示権）</ArticleCaption>
+              <ArticleCaption>（姓名表示权）</ArticleCaption>
               <ArticleTitle>第十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">著作者は、その著作物の原作品に、又はその著作物の公衆への提供若しくは提示に際し、その実名若しくは変名を著作者名として表示し、又は著作者名を表示しないこととする権利を有する。</Sentence>
-                  <Sentence Num="2" WritingMode="vertical">その著作物を原著作物とする二次的著作物の公衆への提供又は提示に際しての原著作物の著作者名の表示についても、同様とする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">
+                    作者有在其作品的原作品中，或是在其作品向公众提供或展示时，将其真实姓名或假名作为作者姓名表示或不表示的权利。</Sentence>
+                  <Sentence Num="2" WritingMode="vertical">将以该作品为原作品的演绎作品向公众提供或展示时，对于原作品的作者名的表示，亦同。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">著作物を利用する者は、その著作者の別段の意思表示がない限り、その著作物につきすでに著作者が表示しているところに従つて著作者名を表示することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">使用作品的人在该作者没有与之不同的意思表示时，可以就该作品根据作者已表示的内容来表示作者名。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">著作者名の表示は、著作物の利用の目的及び態様に照らし著作者が創作者であることを主張する利益を害するおそれがないと認められるときは、公正な慣行に反しない限り、省略することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">比照作品使用目的和样态，没有损害作者主张其为创作者的利益之虞时，仅在不违反公正的惯例的前提下，作者姓名的表示可以省略。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="4">
                 <ParagraphNum>４</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">第一項の規定は、次の各号のいずれかに該当するときは、適用しない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">第一项的规定不适用于符合下列各号的任一情形。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">行政機関情報公開法、独立行政法人等情報公開法又は情報公開条例の規定により行政機関の長、独立行政法人等又は地方公共団体の機関若しくは地方独立行政法人が著作物を公衆に提供し、又は提示する場合において、当該著作物につき既にその著作者が表示しているところに従つて著作者名を表示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">根据行政机关信息公开法、独立行政法人等信息公开法或信息公开条例的规定，在由行政机关的长官、独立行政法人等或地方公共团体的机关、地方独立行政法人将作品向公众提供或展示的情况下，就该作品根据作者已表示的内容来表示作者名时。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">行政機関情報公開法第六条第二項の規定、独立行政法人等情報公開法第六条第二項の規定又は情報公開条例の規定で行政機関情報公開法第六条第二項の規定に相当するものにより行政機関の長、独立行政法人等又は地方公共団体の機関若しくは地方独立行政法人が著作物を公衆に提供し、又は提示する場合において、当該著作物の著作者名の表示を省略することとなるとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">根据行政机关信息公开法第六条第二项的规定、独立行政法人等信息公开法第六条第二项的规定或信息公开条例的规定中与行政机关信息公开法第六条第二项的规定相当的规定，由行政机关的长官、独立行政法人等或地方公共团体的机关、地方独立行政法人将作品向公众提供或展示的情况下，省略该作品的作者名的表示时。</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">公文書管理法第十六条第一項の規定又は公文書管理条例の規定（同項の規定に相当する規定に限る。）により国立公文書館等の長又は地方公文書館等の長が著作物を公衆に提供し、又は提示する場合において、当該著作物につき既にその著作者が表示しているところに従つて著作者名を表示するとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">根据公文书管理法第十六条第一项的规定或公文书管理条例的规定（限于与同项的规定相当的规定）由国立公文书馆等的长官或地方公文书馆的长官将作品向公众提供或展示的情况下，就该作品根据作者已表示的内容来表示作者名时。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
             </Article>
             <Article Num="20">
-              <ArticleCaption>（同一性保持権）</ArticleCaption>
+              <ArticleCaption>（同一性保持权）</ArticleCaption>
               <ArticleTitle>第二十条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">著作者は、その著作物及びその題号の同一性を保持する権利を有し、その意に反してこれらの変更、切除その他の改変を受けないものとする。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">作者有保持其作品及其标题同一性的权利，不受违反其意志的变更、删除或其他改变。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の規定は、次の各号のいずれかに該当する改変については、適用しない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前项的规定不适用于符合下列各号的任意一类改变。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十三条第一項（同条第四項において準用する場合を含む。）、第三十三条の二第一項、第三十三条の三第一項又は第三十四条第一項の規定により著作物を利用する場合における用字又は用語の変更その他の改変で、学校教育の目的上やむを得ないと認められるもの</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">在根据第三十三条第一项（包括于同条第四项中准用的情形）、第三十三条之二第一项、第三十三条之三第一项或第三十四条第一项的规定使用作品的情况下，于学校教育的目的上不得不作出的用字或用语的变更等改变</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">建築物の増築、改築、修繕又は模様替えによる改変</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">建筑物的增建、改建、修缮或设计修改导致的改变</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">特定の電子計算機においては実行し得ないプログラムの著作物を当該電子計算機において実行し得るようにするため、又はプログラムの著作物を電子計算機においてより効果的に実行し得るようにするために必要な改変</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">为了使在特定的电子计算机上不能运行的计算机程序作品在该电子计算机上能够运行，或是使计算机程序作品在电子计算机上能够更有效率地运行所作出的必要的改变</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">前三号に掲げるもののほか、著作物の性質並びにその利用の目的及び態様に照らしやむを得ないと認められる改変</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">除前三号所列的外，比照作品的性质以及其使用的目的、样态而不得不作出的改变</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -1726,54 +1727,54 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">映画の著作物（第十五条第一項、次項又は第三項の規定の適用を受けるものを除く。）の著作権は、その著作者が映画製作者に対し当該映画の著作物の製作に参加することを約束しているときは、当該映画製作者に帰属する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">电影作品（适用第十五条第一项、次项或第三项的规定的除外）的著作权在其作者对电影制作者约定了参加该电影作品的制作时，归属于该电影制作者。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">専ら放送事業者が放送又は放送同時配信等のための技術的手段として製作する映画の著作物（第十五条第一項の規定の適用を受けるものを除く。）の著作権のうち次に掲げる権利は、映画製作者としての当該放送事業者に帰属する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">广播业者专门为广播或广播同时传送等的技术手段制作的电影作品（适用第十五条第一项的规定的除外）的著作权中的下列权利，归属于作为电影制作者的该广播业者。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その著作物を放送する権利及び放送されるその著作物について、有線放送し、特定入力型自動公衆送信を行い、又は受信装置を用いて公に伝達する権利</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">将该作品进行广播的权利及就被广播的该作品，进行有线广播、特定输入型自动公众传播，或是使用接受信号装置公开传达的权利</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その著作物を放送同時配信等する権利及び放送同時配信等されるその著作物を受信装置を用いて公に伝達する権利</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">将该作品进行广播同时传送等的权利及将广播同时传送等的该作品使用接受信号装置公开传达的权利</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その著作物を複製し、又はその複製物により放送事業者に頒布する権利</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">复制该作品，或是通过该复制物向广播业者分发的权利</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">専ら有線放送事業者が有線放送又は放送同時配信等のための技術的手段として製作する映画の著作物（第十五条第一項の規定の適用を受けるものを除く。）の著作権のうち次に掲げる権利は、映画製作者としての当該有線放送事業者に帰属する。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">有线广播业者专门为有线广播或广播同时传送等的技术手段制作的电影作品（适用第十五条第一项的规定的除外）的著作权中的下列权利，归属于作为电影制作者的该有线广播业者。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その著作物を有線放送する権利及び有線放送されるその著作物を受信装置を用いて公に伝達する権利</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">将该作品进行有线广播的权利及就被有线广播的该作品使用接受信号装置公开传达的权利</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その著作物を放送同時配信等する権利及び放送同時配信等されるその著作物を受信装置を用いて公に伝達する権利</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">将该作品进行广播同时传送等的权利及将广播同时传送等的该作品使用接受信号装置公开传达的权利</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">その著作物を複製し、又はその複製物により有線放送事業者に頒布する権利</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">复制该作品，或是通过该复制物向有线广播业者分发的权利</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -1782,23 +1783,24 @@
           <Subsection Num="5">
             <SubsectionTitle>第五款　著作权的限制</SubsectionTitle>
             <Article Num="30">
-              <ArticleCaption>（私的使用のための複製）</ArticleCaption>
+              <ArticleCaption>（为个人使用的复制）</ArticleCaption>
               <ArticleTitle>第三十条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">著作権の目的となつている著作物（以下この款において単に「著作物」という。）は、個人的に又は家庭内その他これに準ずる限られた範囲内において使用すること（以下「私的使用」という。）を目的とするときは、次に掲げる場合を除き、その使用する者が複製することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在以个人或家庭内其他与之相似的有限范围内使用（下称“个人使用”）为目的时，除下列情况外，该使用人可以复制作为著作权对象的作品（以下本款简称“作品”）。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">公衆の使用に供することを目的として設置されている自動複製機器（複製の機能を有し、これに関する装置の全部又は主要な部分が自動化されている機器をいう。）を用いて複製する場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">使用以供公众使用为目的设置的自动复制机器（指具有复制的功能，且与之相关的装置的全部或主要部分为自动化的机器）复制的情况</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">技術的保護手段の回避（第二条第一項第二十号に規定する信号の除去若しくは改変その他の当該信号の効果を妨げる行為（記録又は送信の方式の変換に伴う技術的な制約によるものを除く。）を行うこと又は同号に規定する特定の変換を必要とするよう変換された著作物、実演、レコード若しくは放送若しくは有線放送に係る音若しくは影像の復元を行うことにより、当該技術的保護手段によつて防止される行為を可能とし、又は当該技術的保護手段によつて抑止される行為の結果に障害を生じないようにすること（著作権等を有する者の意思に基づいて行われるものを除く。）をいう。第百十三条第七項並びに第百二十条の二第一号及び第二号において同じ。）により可能となり、又はその結果に障害が生じないようになつた複製を、その事実を知りながら行う場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">
+                      技術的保護手段の回避（第二条第一項第二十号に規定する信号の除去若しくは改変その他の当該信号の効果を妨げる行為（記録又は送信の方式の変換に伴う技術的な制約によるものを除く。）を行うこと又は同号に規定する特定の変換を必要とするよう変換された著作物、実演、レコード若しくは放送若しくは有線放送に係る音若しくは影像の復元を行うことにより、当該技術的保護手段によつて防止される行為を可能とし、又は当該技術的保護手段によつて抑止される行為の結果に障害を生じないようにすること（著作権等を有する者の意思に基づいて行われるものを除く。）をいう。第百十三条第七項並びに第百二十条の二第一号及び第二号において同じ。）により可能となり、又はその結果に障害が生じないようになつた複製を、その事実を知りながら行う場合</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
@@ -1851,7 +1853,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">欲得到著作权人许可或是欲获得根据第六十七条第一项、第六十八条第一项或第六十九条的规定的裁定使用作品的人，在以供就前述使用的研讨过程（包括获得该许可或该裁定的过程）使用为目的的情况下，在必要的限度内，不论是以何方法，可以使用该作品。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">欲得到著作权人许可或是欲获得根据第六十七条第一项、第六十八条第一项或第六十九条的规定的裁定使用作品的人，在以供就前述使用的研讨过程（包括获得该许可或该裁定的过程）使用为目的的情况下，在必要的限度内，不问是以何方法，可以使用该作品。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，比照该作品的种类、用途及使用的样态，对著作权人利益造成不当损害的情况下，不在此限。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
@@ -1862,7 +1864,7 @@
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">在下列情况下或其他不以自己或给他人享受该作品中表达的思想或感情为目的的情况下，在必要的限度内，不论是以何方法，可以使用作品。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">在下列情况下或其他不以自己或给他人享受该作品中表达的思想或感情为目的的情况下，在必要的限度内，不问是以何方法，可以使用作品。</Sentence>
                   <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，比照该作品的种类、用途及使用的样态，对著作权人利益造成不当损害的情况下，不在此限。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
@@ -1880,7 +1882,7 @@
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">除前二号规定外，不伴随人通过知觉方式识读，将作品的表达通过将该作品供电子计算机信息处理的过程的使用等使用方式（就计算机软件作品，将该作品在电子计算机上运行除外）的情况</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">除前二号规定外，不伴随人通过知觉方式识读，将作品的表达通过将该作品供电子计算机信息处理的过程的使用等使用方式（就计算机程序作品，将该作品在电子计算机上运行除外）的情况</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -2286,7 +2288,7 @@
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">在不以营利为目的且不向听众或观众收取费用的情况下，可以将广播的作品有限广播或进行地域限定特定输入型自动公众传播。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在不以营利为目的且不向听众或观众收取费用的情况下，可以将广播的作品有线广播或进行地域限定特定输入型自动公众传播。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
@@ -2311,51 +2313,51 @@
               </Paragraph>
             </Article>
             <Article Num="39">
-              <ArticleCaption>（時事問題に関する論説の転載等）</ArticleCaption>
+              <ArticleCaption>（有关时事问题的论述的转载等）</ArticleCaption>
               <ArticleTitle>第三十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">新聞紙又は雑誌に掲載して発行された政治上、経済上又は社会上の時事問題に関する論説（学術的な性質を有するものを除く。）は、他の新聞紙若しくは雑誌に転載し、又は放送し、有線放送し、地域限定特定入力型自動公衆送信を行い、若しくは放送同時配信等を行うことができる。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの利用を禁止する旨の表示がある場合は、この限りでない。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">对于报纸或杂志上刊载并发行的政治上、经济上或社会上有关时事问题的论述（具有学术性质的除外），可以将其转载到其他报纸或杂志上，或是进行广播、有线广播、地域限定特定输入型自动公众传播或广播同时传送等。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，声明禁止前述使用的情况下，不在此限。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の規定により放送され、有線放送され、地域限定特定入力型自動公衆送信が行われ、又は放送同時配信等が行われる論説は、受信装置を用いて公に伝達することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">依前项的规定被广播、有线广播、地域限定特定输入型自动公众传播或广播同时传送等的论述，可以使用接收信号装置公开传达。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Num="40">
-              <ArticleCaption>（公開の演説等の利用）</ArticleCaption>
+              <ArticleCaption>（公开的演讲等的使用）</ArticleCaption>
               <ArticleTitle>第四十条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">公開して行われた政治上の演説又は陳述並びに裁判手続及び行政審判手続（行政庁の行う審判その他裁判に準ずる手続をいう。第四十一条の二において同じ。）における公開の陳述は、同一の著作者のものを編集して利用する場合を除き、いずれの方法によるかを問わず、利用することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">除通过汇编同一作者的演讲或陈述来使用的情况外，不问以何方法，可以使用公开进行的政治上的演讲或陈述，以及裁判手续及行政审判手续（指行政厅进行的审判或其他准按裁判进行的手续。第四十一条之二同）中的公开陈述。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">国若しくは地方公共団体の機関、独立行政法人又は地方独立行政法人において行われた公開の演説又は陳述は、前項の規定によるものを除き、報道の目的上正当と認められる場合には、新聞紙若しくは雑誌に掲載し、又は放送し、有線放送し、地域限定特定入力型自動公衆送信を行い、若しくは放送同時配信等を行うことができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">对于国家、地方公共团体的机关、独立行政法人或地方独立行政法人进行的公开的演讲或陈述，除前项规定的以外，在正当的报道目的的情况下，可以将其刊载到报纸或杂志上，或是进行广播、有线广播、地域限定特定输入型自动公众传播或广播同时传送等。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の規定により放送され、有線放送され、地域限定特定入力型自動公衆送信が行われ、又は放送同時配信等が行われる演説又は陳述は、受信装置を用いて公に伝達することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">依前项的规定被广播、有线广播、地域限定特定输入型自动公众传播或广播同时传送等的演讲或陈述，可以使用接收信号装置公开传达。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Num="41">
-              <ArticleCaption>（時事の事件の報道のための利用）</ArticleCaption>
+              <ArticleCaption>（为报道时事事件的使用）</ArticleCaption>
               <ArticleTitle>第四十一条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">写真、映画、放送その他の方法によつて時事の事件を報道する場合には、当該事件を構成し、又は当該事件の過程において見られ、若しくは聞かれる著作物は、報道の目的上正当な範囲内において、複製し、及び当該事件の報道に伴つて利用することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在以照片、电影、广播等方法报道时事事件的情况下，在正当的报道目的的范围内，对于构成该事件或该事件过程中被看到或听到的作品，可以复制及伴随该事件的报道使用。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
@@ -2530,51 +2532,51 @@
               </Paragraph>
             </Article>
             <Article Num="45">
-              <ArticleCaption>（美術の著作物等の原作品の所有者による展示）</ArticleCaption>
+              <ArticleCaption>（美术作品等的原件所有人的展示）</ArticleCaption>
               <ArticleTitle>第四十五条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">美術の著作物若しくは写真の著作物の原作品の所有者又はその同意を得た者は、これらの著作物をその原作品により公に展示することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">美术作品或照片作品的原件所有人或是得到其同意的人，可以公开展示前述作品的原件。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の規定は、美術の著作物の原作品を街路、公園その他一般公衆に開放されている屋外の場所又は建造物の外壁その他一般公衆の見やすい屋外の場所に恒常的に設置する場合には、適用しない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">前项的规定不适用于将美术作品的原件恒常设置在街道、公园及其他向一般公众开放的室外场所，或是建筑物的外墙及其他一般公众容易看到的室外场所的情况。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Num="46">
-              <ArticleCaption>（公開の美術の著作物等の利用）</ArticleCaption>
+              <ArticleCaption>（公开的美术作品等的使用）</ArticleCaption>
               <ArticleTitle>第四十六条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">美術の著作物でその原作品が前条第二項に規定する屋外の場所に恒常的に設置されているもの又は建築の著作物は、次に掲げる場合を除き、いずれの方法によるかを問わず、利用することができる。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">除下列情况外，不问以何方法，可以使用其原件在前条第二项规定的室外场所恒常设置的美术作品或是建筑作品。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">彫刻を増製し、又はその増製物の譲渡により公衆に提供する場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">增制雕塑，或将该增制物通过让渡向公众提供的情况</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">建築の著作物を建築により複製し、又はその複製物の譲渡により公衆に提供する場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">以建筑的形式复制建筑作品，或是将该复制物通过让渡向公众提供的情况</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">前条第二項に規定する屋外の場所に恒常的に設置するために複製する場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">为恒常设置在前条第二项规定的室外场所而复制的情况</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">専ら美術の著作物の複製物の販売を目的として複製し、又はその複製物を販売する場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">专门以贩卖美术作品的复制物为目的复制，或是贩卖其复制物的情况</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -2808,7 +2810,7 @@
                       <Sentence Num="1" WritingMode="vertical">第四十七条第一項の規定により同条第二項の規定による展示著作物の上映又は自動公衆送信を行うために当該展示著作物を複製することができる場合に、前項の規定により創作された二次的著作物</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">同条第二項</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">同条第二项</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
@@ -2819,165 +2821,165 @@
                       <Sentence Num="1" WritingMode="vertical">前条第二項の規定により公衆提供等著作物について複製、公衆送信又はその複製物による頒布を行うことができる場合に、前項の規定により創作された二次的著作物</Sentence>
                     </Column>
                     <Column Num="2">
-                      <Sentence Num="1" WritingMode="vertical">同条第一項</Sentence>
+                      <Sentence Num="1" WritingMode="vertical">同条第一项</Sentence>
                     </Column>
                   </ItemSentence>
                 </Item>
               </Paragraph>
             </Article>
             <Article Num="47_7">
-              <ArticleCaption>（複製権の制限により作成された複製物の譲渡）</ArticleCaption>
-              <ArticleTitle>第四十七条の七</ArticleTitle>
+              <ArticleCaption>（依复制权的限制而制作的复制物的让渡）</ArticleCaption>
+              <ArticleTitle>第四十七条之七</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">第三十条の二第二項、第三十条の三、第三十条の四、第三十一条第一項（第一号に係る部分に限る。以下この条において同じ。）若しくは第七項（第一号に係る部分に限る。以下この条において同じ。）、第三十二条、第三十三条第一項（同条第四項において準用する場合を含む。）、第三十三条の二第一項、第三十三条の三第一項若しくは第四項、第三十四条第一項、第三十五条第一項、第三十六条第一項、第三十七条、第三十七条の二（第二号を除く。以下この条において同じ。）、第三十九条第一項、第四十条第一項若しくは第二項、第四十一条、第四十一条の二第一項、第四十二条、第四十二条の二第一項、第四十二条の三、第四十二条の四第二項、第四十六条、第四十七条第一項若しくは第三項、第四十七条の二、第四十七条の四又は第四十七条の五の規定により複製することができる著作物は、これらの規定の適用を受けて作成された複製物（第三十一条第一項若しくは第七項、第三十六条第一項、第四十一条の二第一項、第四十二条又は第四十二条の二第一項の規定に係る場合にあつては、映画の著作物の複製物（映画の著作物において複製されている著作物にあつては、当該映画の著作物の複製物を含む。以下この条において同じ。）を除く。）の譲渡により公衆に提供することができる。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、第三十条の三、第三十一条第一項若しくは第七項、第三十三条の二第一項、第三十三条の三第一項若しくは第四項、第三十五条第一項、第三十七条第三項、第三十七条の二、第四十一条、第四十一条の二第一項、第四十二条、第四十二条の二第一項、第四十二条の三、第四十二条の四第二項、第四十七条第一項若しくは第三項、第四十七条の二、第四十七条の四若しくは第四十七条の五の規定の適用を受けて作成された著作物の複製物（第三十一条第一項若しくは第七項、第四十一条の二第一項、第四十二条又は第四十二条の二第一項の規定に係る場合にあつては、映画の著作物の複製物を除く。）を第三十条の三、第三十一条第一項若しくは第七項、第三十三条の二第一項、第三十三条の三第一項若しくは第四項、第三十五条第一項、第三十七条第三項、第三十七条の二、第四十一条、第四十一条の二第一項、第四十二条、第四十二条の二第一項、第四十二条の三、第四十二条の四第二項、第四十七条第一項若しくは第三項、第四十七条の二、第四十七条の四若しくは第四十七条の五に定める目的以外の目的のために公衆に譲渡する場合又は第三十条の四の規定の適用を受けて作成された著作物の複製物を当該著作物に表現された思想若しくは感情を自ら享受し若しくは他人に享受させる目的のために公衆に譲渡する場合は、この限りでない。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">对于依第三十条之二第二项、第三十条之三、第三十条之四、第三十一条第一项（限于涉及第一号的部分。以下本条同）或第七项（限于涉及第一号的部分。以下本条同）、第三十二条、第三十三条第一项（包同条第四项中准用的情况）、第三十三条之二第一项、第三十三条之三第一项或第四项、第三十四条第一项、第三十五条第一项、第三十六条第一项、第三十七条、第三十七条之二（第二号除外。以下本条同）、第三十九条第一项、第四十条第一项或第二项、第四十一条、第四十一条之二第一项、第四十二条、第四十二条之二第一项、第四十二条之三、第四十二条之四第二项、第四十六条、第四十七条第一项或第三项、第四十七条之二、第四十七条之四或是第四十七条之五的规定可以复制的作品，可以通过让渡向公众提供适用前述规定而制作的复制物（涉及第三十一条第一项或第七项、第三十六条第一项、第四十一条之二第一项、第四十二条或是第四十二条之二第一项的规定的情况下，电影作品的复制物（对于在电影作品中被复制的作品，包括该电影作品的复制物。以下本条同）除外）。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，将适用第三十条之三、第三十一条第一项或第七项、第三十三条之二第一项、第三十三条之三第一项或第四项、第三十五条第一项、第三十七条第三项、第三十七条之二、第四十一条、第四十一条之二第一项、第四十二条、第四十二条之二第一项、第四十二条之三、第四十二条之四第二项、第四十七条第一项或第三项、第四十七条之二、第四十七条之四或第四十七条之五的规定而制作的作品的复制物（涉及第三十一条第一项或第七项、第四十一条之二第一项、第四十二条或是第四十二条之二第一项的规定的规定的情况下，电影作品的复制物除外）以第三十条之三、第三十一条第一项或第七项、第三十三条之二第一项、第三十三条之三第一项或第四项、第三十五条第一项、第三十七条第三项、第三十七条之二、第四十一条、第四十一条之二第一项、第四十二条、第四十二条之二第一项、第四十二条之三、第四十二条之四第二项、第四十七条第一项或第三项、第四十七条之二、第四十七条之四或第四十七条之五规定的目的以外的目的向公众让渡的情况或是将适用第三十条之四的规定而制作的作品的复制物以该作品中表现的思想或感情以自己或给他人享受为目的向公众让渡的情况，不在此限。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
             <Article Num="48">
-              <ArticleCaption>（出所の明示）</ArticleCaption>
+              <ArticleCaption>（明示出处）</ArticleCaption>
               <ArticleTitle>第四十八条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">次の各号に掲げる場合には、当該各号に規定する著作物の出所を、その複製又は利用の態様に応じ合理的と認められる方法及び程度により、明示しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在下列各号情况下，对照其复制或使用的样态，应当依照合理的方法及程度，明示各该号规定的作品的出处。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十二条、第三十三条第一項（同条第四項において準用する場合を含む。）、第三十三条の二第一項、第三十三条の三第一項、第三十七条第一項、第四十一条の二第一項、第四十二条、第四十二条の二第一項又は第四十七条第一項の規定により著作物を複製する場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依第三十二条、第三十三条第一项（包括同条第四项中准用的情况）、第三十三条之二第一项、第三十三条之三第一项、第三十七条第一项、第四十一条之二第一项、第四十二条、第四十二条之二第一项或是第四十七条第一项的规定复制作品的情况</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十四条第一項、第三十七条第三項、第三十七条の二、第三十九条第一項、第四十条第一項若しくは第二項、第四十七条第二項若しくは第三項又は第四十七条の二の規定により著作物を利用する場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依第三十四条第一项、第三十七条第三项、第三十七条之二、第三十九条第一项、第四十条第一项或第二项、第四十七条第二项或第三项或是第四十七条之二的规定使用作品的情况</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十二条若しくは第四十二条の規定により著作物を複製以外の方法により利用する場合又は第三十五条第一項、第三十六条第一項、第三十八条第一項、第四十一条、第四十一条の二第二項、第四十二条の二第二項、第四十六条若しくは第四十七条の五第一項の規定により著作物を利用する場合において、その出所を明示する慣行があるとき。</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">依第三十二条或第四十二条的规定以复制以外的方法使用作品的情况或是依第三十五条第一项、第三十六条第一项、第三十八条第一项、第四十一条、第四十一条之二第二项、第四十二条之二第二项、第四十六条或第四十七条之五第一项的规定使用作品的情况下，有明示其出处的惯例时。</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の出所の明示に当たつては、これに伴い著作者名が明らかになる場合及び当該著作物が無名のものである場合を除き、当該著作物につき表示されている著作者名を示さなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在明示前项出处时，除伴随明示出处作者名显然可以得知的情况及该作品为无名作品的情况，应当表示该作品上表示的作者名。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="3">
                 <ParagraphNum>３</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">次の各号に掲げる場合には、前二項の規定の例により、当該各号に規定する二次的著作物の原著作物の出所を明示しなければならない。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在下列各号情况下，应当依照前二项规定的方式，明示各该号规定的演绎作品的原作品的出处。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十条第一項、第四十六条又は第四十七条の五第一項の規定により創作された二次的著作物をこれらの規定により利用する場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">将依第四十条第一项、第四十六条或第四十七条之五第一项的规定创作的演绎作品依前述规定使用的情况</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十七条の六第一項の規定により創作された二次的著作物を同条第二項の規定の適用を受けて同条第一項各号に掲げる規定により利用する場合</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">将依第四十七条之六第一项的规定创作的演绎作品适用同条第二项的规定而依同条第一项各号所列规定使用的情况</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
             </Article>
             <Article Num="49">
-              <ArticleCaption>（複製物の目的外使用等）</ArticleCaption>
+              <ArticleCaption>（复制物的目的外使用等）</ArticleCaption>
               <ArticleTitle>第四十九条</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">次に掲げる者は、第二十一条の複製を行つたものとみなす。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">下列人视为进行了第二十一条的复制。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十条第一項、第三十条の三、第三十一条第一項第一号、第二項第一号、第四項、第七項第一号若しくは第九項第一号、第三十三条の二第一項、第三十三条の三第一項若しくは第四項、第三十五条第一項、第三十七条第三項、第三十七条の二本文（同条第二号に係る場合にあつては、同号。次項第一号において同じ。）、第四十一条、第四十一条の二第一項、第四十二条、第四十二条の二第一項、第四十二条の三、第四十二条の四、第四十三条第二項、第四十四条第一項から第三項まで、第四十七条第一項若しくは第三項、第四十七条の二又は第四十七条の五第一項に定める目的以外の目的のために、これらの規定の適用を受けて作成された著作物の複製物（次項第一号又は第二号の複製物に該当するものを除く。）を頒布し、又は当該複製物によつて当該著作物の公衆への提示（送信可能化を含む。以下同じ。）を行つた者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">为第三十条第一项、第三十条之三、第三十一条第一项第一号、第二项第一号、第四项、第七项第一号或第九项第一号、第三十三条之二第一项、第三十三条之三第一项或第四项、第三十五条第一项、第三十七条第三项、第三十七条之二本文（涉及同条第二号的情况下，同号。次项第一号同）、第四十一条、第四十一条之二第一项、第四十二条、第四十二条之二第一项、第四十二条之三、第四十二条之四、第四十三条第二项、第四十四条第一项至第三项、第四十七条第一项或第三项、第四十七条之二或是第四十七条之五第一项规定的目的以外的目的，分发适用前述规定制作的作品的复制物（属于次项第一号或第二号的复制物的除外），或以该复制物将该作品向公众展示（包括传播可能化。下同）的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十条の四の規定の適用を受けて作成された著作物の複製物（次項第三号の複製物に該当するものを除く。）を用いて、当該著作物に表現された思想又は感情を自ら享受し又は他人に享受させる目的のために、いずれの方法によるかを問わず、当該著作物を利用した者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">利用适用第三十条之四的规定而制作的作品的复制物（属于次项第三号的复制物的除外），将该作品中表现的思想或感情以自己或给他人享受为目的，不问是以何方法，使用该作品的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十四条第四項の規定に違反して同項の録音物又は録画物を保存した放送事業者、有線放送事業者又は放送同時配信等事業者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">违反第四十四条第四项的规定保存同项录音制品或录像制品的广播业者、有线广播业者或广播同时传送等业者</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十七条の三第一項の規定の適用を受けて作成された著作物の複製物（次項第四号の複製物に該当するものを除く。）を頒布し、又は当該複製物によつて当該著作物の公衆への提示を行つた者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">分发适用第四十七条之三第一项的规定而制作的作品的复制物（属于次项第四号的复制物的除外），或以该复制物将该作品向公众展示的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十七条の三第二項の規定に違反して同項の複製物（次項第四号の複製物に該当するものを除く。）を保存した者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">违反第四十七条之三第二项的规定保存同项的复制物（属于次项第四号的复制物的除外）的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十七条の四又は第四十七条の五第二項に定める目的以外の目的のために、これらの規定の適用を受けて作成された著作物の複製物（次項第六号又は第七号の複製物に該当するものを除く。）を用いて、いずれの方法によるかを問わず、当該著作物を利用した者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">为第四十七条之四或第四十七条之五第二项规定的目的以外的目的，利用适用前述规定制作的作品的复制物（属于次项第六号或第七号的复制物的除外），不问是以何方法，使用该作品的人</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Num="1" WritingMode="vertical">次に掲げる者は、当該二次的著作物の原著作物につき第二十七条の翻訳、編曲、変形又は翻案を、当該二次的著作物につき第二十一条の複製を、それぞれ行つたものとみなす。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">下列人视为分别进行了对该演绎作品的原作品的第二十七条的翻译、编曲、变形或改编；对该演绎作品的第二十一条的复制的人。</Sentence>
                 </ParagraphSentence>
                 <Item Num="1">
                   <ItemTitle>一</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十条第一項、第三十一条第一項第一号、第二項第一号、第四項、第七項第一号若しくは第九項第一号、第三十三条の二第一項、第三十三条の三第一項、第三十五条第一項、第三十七条第三項、第三十七条の二本文、第四十一条、第四十一条の二第一項、第四十二条、第四十二条の二第一項又は第四十七条第一項若しくは第三項に定める目的以外の目的のために、第四十七条の六第二項の規定の適用を受けて同条第一項各号に掲げるこれらの規定により作成された二次的著作物の複製物を頒布し、又は当該複製物によつて当該二次的著作物の公衆への提示を行つた者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">为第三十条第一项、第三十一条第一项第一号、第二项第一号、第四项、第七项第一号或第九项第一号、第三十三条之二第一项、第三十三条之三第一项、第三十五条第一项、第三十七条第三项、第三十七条之二本文、第四十一条、第四十一条之二第一项、第四十二条、第四十二条之二第一项或是第四十七条第一项或第三项规定的目的以外的目的，分发适用第四十七条之六第二项的规定而依同条第一项各号所列各规定制作的演绎作品的复制物，或以该复制物将该演绎作品向公众展示的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="2">
                   <ItemTitle>二</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十条の三又は第四十七条の五第一項に定める目的以外の目的のために、これらの規定の適用を受けて作成された二次的著作物の複製物を頒布し、又は当該複製物によつて当該二次的著作物の公衆への提示を行つた者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">为第三十条之三或第四十七条之五第一项规定的目的以外的目的，分发适用前述规定而制作的演绎作品的复制物，或以该复制物将该演绎作品向公众展示的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="3">
                   <ItemTitle>三</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第三十条の四の規定の適用を受けて作成された二次的著作物の複製物を用いて、当該二次的著作物に表現された思想又は感情を自ら享受し又は他人に享受させる目的のために、いずれの方法によるかを問わず、当該二次的著作物を利用した者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">利用适用第三十条之四的规定而制作的演绎作品的复制物，将该演绎作品中表现的思想或感情以自己或给他人享受为目的，不问是以何方法，使用该演绎作品的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="4">
                   <ItemTitle>四</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十七条の六第二項の規定の適用を受けて第四十七条の三第一項の規定により作成された二次的著作物の複製物を頒布し、又は当該複製物によつて当該二次的著作物の公衆への提示を行つた者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">分发适用第四十七条之六第二项的规定而依第四十七条之三第一项的规定制作的演绎作品的复制物，或以该复制物将该演绎作品向公众展示的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="5">
                   <ItemTitle>五</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十七条の三第二項の規定に違反して前号の複製物を保存した者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">违反第四十七条之三第二项的规定保存前号的复制物的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="6">
                   <ItemTitle>六</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十七条の四に定める目的以外の目的のために、同条の規定の適用を受けて作成された二次的著作物の複製物を用いて、いずれの方法によるかを問わず、当該二次的著作物を利用した者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">为第四十七条之四规定的目的以外的目的，利用适用同条的规定而制作的演绎作品的复制物，不问是以何方法，使用该演绎作品的人</Sentence>
                   </ItemSentence>
                 </Item>
                 <Item Num="7">
                   <ItemTitle>七</ItemTitle>
                   <ItemSentence>
-                    <Sentence Num="1" WritingMode="vertical">第四十七条の五第二項に定める目的以外の目的のために、第四十七条の六第二項の規定の適用を受けて第四十七条の五第二項の規定により作成された二次的著作物の複製物を用いて、いずれの方法によるかを問わず、当該二次的著作物を利用した者</Sentence>
+                    <Sentence Num="1" WritingMode="vertical">为第四十七条之五第二项规定的目的以外的目的，利用适用第四十七条之六第二项的规定而依第四十七条之五第二项的规定制作的演绎作品的复制物，不问是以何方法，使用该演绎作品的人</Sentence>
                   </ItemSentence>
                 </Item>
               </Paragraph>
@@ -3013,81 +3015,81 @@
             </Paragraph>
           </Article>
           <Article Num="52">
-            <ArticleCaption>（無名又は変名の著作物の保護期間）</ArticleCaption>
+            <ArticleCaption>（无名或假名作品的保护期间）</ArticleCaption>
             <ArticleTitle>第五十二条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">無名又は変名の著作物の著作権は、その著作物の公表後七十年を経過するまでの間、存続する。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、その存続期間の満了前にその著作者の死後七十年を経過していると認められる無名又は変名の著作物の著作権は、その著作者の死後七十年を経過したと認められる時において、消滅したものとする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">无名或假名作品的著作权存续至该作品发表后七十年。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，该存续期间届满前，其作者被认为死后已经过七十年的无名或假名作品的著作权在其作者被认为死后已经过七十年之时消灭。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定は、次の各号のいずれかに該当するときは、適用しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前项的规定在符合下列各号任一情况时不适用。</Sentence>
               </ParagraphSentence>
               <Item Num="1">
                 <ItemTitle>一</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">変名の著作物における著作者の変名がその者のものとして周知のものであるとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">假名作品的作者的假名指代他的这一事实被广为人知时。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="2">
                 <ItemTitle>二</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">前項の期間内に第七十五条第一項の実名の登録があつたとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">在前项的期间内进行了第七十五条第一项的实名注册时。</Sentence>
                 </ItemSentence>
               </Item>
               <Item Num="3">
                 <ItemTitle>三</ItemTitle>
                 <ItemSentence>
-                  <Sentence Num="1" WritingMode="vertical">著作者が前項の期間内にその実名又は周知の変名を著作者名として表示してその著作物を公表したとき。</Sentence>
+                  <Sentence Num="1" WritingMode="vertical">作者在前项的期间内将其真名或广为人知的假名作为作者名表示来发表其作品时。</Sentence>
                 </ItemSentence>
               </Item>
             </Paragraph>
           </Article>
           <Article Num="53">
-            <ArticleCaption>（団体名義の著作物の保護期間）</ArticleCaption>
+            <ArticleCaption>（团体名义作品的保护期间）</ArticleCaption>
             <ArticleTitle>第五十三条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">法人その他の団体が著作の名義を有する著作物の著作権は、その著作物の公表後七十年（その著作物がその創作後七十年以内に公表されなかつたときは、その創作後七十年）を経過するまでの間、存続する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法人等团体作品名义的作品的著作权存续至该作品发表后七十年（该作品在其创作后七十年以内没有发表时，为其创作后七十年）。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の規定は、法人その他の団体が著作の名義を有する著作物の著作者である個人が同項の期間内にその実名又は周知の変名を著作者名として表示してその著作物を公表したときは、適用しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">法人等团体名义的作品的作者的个人在同项的期间内以其真名或广为人知的假名作为作者名来发表其作品时，前项的规定不适用。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第十五条第二項の規定により法人その他の団体が著作者である著作物の著作権の存続期間に関しては、第一項の著作物に該当する著作物以外の著作物についても、当該団体が著作の名義を有するものとみなして同項の規定を適用する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">有关依第十五条第二项的规定法人等团体为作者的作品的著作权的存续期间，即使是第一项的作品以外的作品，亦视为该团体作品名义的作品，适用同项的规定。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="54">
-            <ArticleCaption>（映画の著作物の保護期間）</ArticleCaption>
+            <ArticleCaption>（电影作品的保护期间）</ArticleCaption>
             <ArticleTitle>第五十四条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">映画の著作物の著作権は、その著作物の公表後七十年（その著作物がその創作後七十年以内に公表されなかつたときは、その創作後七十年）を経過するまでの間、存続する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">电影作品的著作权存续至该作品发表后七十年（该作品在其创作后七十年以内没有发表时，为其创作后七十年）。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">映画の著作物の著作権がその存続期間の満了により消滅したときは、当該映画の著作物の利用に関するその原著作物の著作権は、当該映画の著作物の著作権とともに消滅したものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">电影作品的著作权因其存续期间届满而消灭时，该电影作品使用时涉及的原作品的著作权视为与该电影作品的著作权一同消灭。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前二条の規定は、映画の著作物の著作権については、適用しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">前二条的规定不适用于电影作品的著作权。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3101,38 +3103,38 @@
             </Paragraph>
           </Article>
           <Article Num="56">
-            <ArticleCaption>（継続的刊行物等の公表の時）</ArticleCaption>
+            <ArticleCaption>（持续性刊行物等的发表之时）</ArticleCaption>
             <ArticleTitle>第五十六条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十二条第一項、第五十三条第一項及び第五十四条第一項の公表の時は、冊、号又は回を追つて公表する著作物については、毎冊、毎号又は毎回の公表の時によるものとし、一部分ずつを逐次公表して完成する著作物については、最終部分の公表の時によるものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">第五十二条第一项、第五十三条第一项及第五十四条第一项的发表之时，对于按册、号或回顺次发表的作品，以每册、每号、每回发表之时确定；对于逐次发表部分直至完结的作品，以最终部分发表之时确定。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">一部分ずつを逐次公表して完成する著作物については、継続すべき部分が直近の公表の時から三年を経過しても公表されないときは、すでに公表されたもののうちの最終の部分をもつて前項の最終部分とみなす。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">对于逐次发表部分直至完结的作品，如下一部分在最近发表之时起经过三年还未发表时，在已经发表的部分中，将最后的部分视为前项的最终部分。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="57">
-            <ArticleCaption>（保護期間の計算方法）</ArticleCaption>
+            <ArticleCaption>（保护期间的计算方法）</ArticleCaption>
             <ArticleTitle>第五十七条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">第五十一条第二項、第五十二条第一項、第五十三条第一項又は第五十四条第一項の場合において、著作者の死後七十年又は著作物の公表後七十年若しくは創作後七十年の期間の終期を計算するときは、著作者が死亡した日又は著作物が公表され若しくは創作された日のそれぞれ属する年の翌年から起算する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">在第五十一条第二项、第五十二条第一项、第五十三条第一项或第五十四条第一项的情况下计算作者死后七十年或是作品发表或创作后七十年的期间的终期时，分别自作者死亡之日或是作品发表或创作之日所在年份的第二年起算。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
           <Article Num="58">
-            <ArticleCaption>（保護期間の特例）</ArticleCaption>
+            <ArticleCaption>（保护期间的特例）</ArticleCaption>
             <ArticleTitle>第五十八条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">文学的及び美術的著作物の保護に関するベルヌ条約により創設された国際同盟の加盟国、著作権に関する世界知的所有権機関条約の締約国又は世界貿易機関の加盟国である外国をそれぞれ文学的及び美術的著作物の保護に関するベルヌ条約、著作権に関する世界知的所有権機関条約又は世界貿易機関を設立するマラケシュ協定の規定に基づいて本国とする著作物（第六条第一号に該当するものを除く。）で、その本国において定められる著作権の存続期間が第五十一条から第五十四条までに定める著作権の存続期間より短いものについては、その本国において定められる著作権の存続期間による。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">将伯尔尼保护文学和艺术作品公约创设的国际同盟的加盟国、世界知识产权组织版权条约的缔约国或世界贸易组织的加盟国的外国分别作为伯尔尼保护文学和艺术作品公约、世界知识产权组织版权条约或马拉喀什建立世界贸易组织协定的规定中的本国的作品（属于第六条第一号的除外）在其本国规定的著作权的存续期间比第五十一条至第五十四条规定的著作权的存续期间更短的，依该本国规定的著作权的存续期间。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3211,42 +3213,42 @@
         <Section Num="7">
           <SectionTitle>第七节　权利的行使</SectionTitle>
           <Article Num="63">
-            <ArticleCaption>（著作物の利用の許諾）</ArticleCaption>
+            <ArticleCaption>（作品使用的许可）</ArticleCaption>
             <ArticleTitle>第六十三条</ArticleTitle>
             <Paragraph Num="1">
               <ParagraphNum/>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">著作権者は、他人に対し、その著作物の利用を許諾することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">著作权人可以向他人许可使用其作品。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">前項の許諾を得た者は、その許諾に係る利用方法及び条件の範囲内において、その許諾に係る著作物を利用することができる。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">获得前项许可的人可以在该许可的使用方法及条件的范围内使用该许可的作品。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="3">
               <ParagraphNum>３</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">利用権（第一項の許諾に係る著作物を前項の規定により利用することができる権利をいう。次条において同じ。）は、著作権者の承諾を得ない限り、譲渡することができない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">除非获得著作权人同意，使用权（指依前项的规定使用第一项被许可作品的权利。次条同）不得让渡。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="4">
               <ParagraphNum>４</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">著作物の放送又は有線放送についての第一項の許諾は、契約に別段の定めがない限り、当該著作物の録音又は録画の許諾を含まないものとする。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">除非契约中有特别约定，关于作品的广播或有线广播的第一项的许可不含对该作品录音或录像的许可。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="5">
               <ParagraphNum>５</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">著作物の放送又は有線放送及び放送同時配信等について許諾（第一項の許諾をいう。以下この項において同じ。）を行うことができる者が、特定放送事業者等（放送事業者又は有線放送事業者のうち、放送同時配信等を業として行い、又はその者と密接な関係を有する放送同時配信等事業者が業として行う放送同時配信等のために放送番組若しくは有線放送番組を供給しており、かつ、その事実を周知するための措置として、文化庁長官が定める方法により、放送同時配信等が行われている放送番組又は有線放送番組の名称、その放送又は有線放送の時間帯その他の放送同時配信等の実施状況に関する情報として文化庁長官が定める情報を公表しているものをいう。以下この項において同じ。）に対し、当該特定放送事業者等の放送番組又は有線放送番組における著作物の利用の許諾を行つた場合には、当該許諾に際して別段の意思表示をした場合を除き、当該許諾には当該著作物の放送同時配信等（当該特定放送事業者等と密接な関係を有する放送同時配信等事業者が当該放送番組又は有線放送番組の供給を受けて行うものを含む。）の許諾を含むものと推定する。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">就作品的广播或有线广播及广播同时传送等可以进行许可（指第一项的许可。以下本项同）的人对特定广播业者等（指广播业者或有线广播业者中，为以广播同时传送等为业进行的；或是与其有密接的关系的广播同时传送等业者以其为业进行的广播同时传送等供给广播节目或有线广播节目，且作为将该事实使人周知的措施，依文化厅长官确定的方法，将进行广播同时传送等的广播节目或有线广播节目的名称、该广播或有线广播的时间带等文化厅长官确定的有关广播同时传送等的实施状况的信息发表的人。以下本项同）就该特定广播业者等的广播节目或有线广播节目的作品使用进行许可的情况下，除在该许可时有不同的意思表示的情况外，该许可推定为包括该作品的广播同时传送等（包括由与该特定广播业者等有密接的关系的广播同时传送等业者接受该广播节目或有线广播节目的供给进行的广播同时传送等）的许可。</Sentence>
               </ParagraphSentence>
             </Paragraph>
             <Paragraph Num="6">
               <ParagraphNum>６</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Num="1" WritingMode="vertical">著作物の送信可能化について第一項の許諾を得た者が、その許諾に係る利用方法及び条件（送信可能化の回数又は送信可能化に用いる自動公衆送信装置に係るものを除く。）の範囲内において反復して又は他の自動公衆送信装置を用いて行う当該著作物の送信可能化については、第二十三条第一項の規定は、適用しない。</Sentence>
+                <Sentence Num="1" WritingMode="vertical">就作品的传播可能化获得第一项的许可的人，对在其许可的使用方法及条件（涉及传播可能化的次数或传播可能化使用的自动公众传播装置的使用方法及条件除外）的范围内反复地或是使用其他自动公众传播装置进行的该作品的传播可能化，不适用第二十三条第一项的规定。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
@@ -3328,8 +3330,8 @@
             <Paragraph Num="2">
               <ParagraphNum>２</ParagraphNum>
               <ParagraphSentence>
-                <Sentence Function="main" Num="1" WritingMode="vertical">著作権を目的とする質権は、当該著作権の譲渡又は当該著作権に係る著作物の利用につき著作権者が受けるべき金銭その他の物（出版権の設定の対価を含む。）に対しても、行なうことができる。</Sentence>
-                <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、これらの支払又は引渡し前に、これらを受ける権利を差し押えることを必要とする。</Sentence>
+                <Sentence Function="main" Num="1" WritingMode="vertical">以著作权为标的的质权可以对该著作权的让渡或该著作权的作品的使用时著作权人应得的金钱等物（包括设定出版权的对价）行使。</Sentence>
+                <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，前述金钱等物的支付或交付前须扣押接受前述金钱等物的权利。</Sentence>
               </ParagraphSentence>
             </Paragraph>
           </Article>
