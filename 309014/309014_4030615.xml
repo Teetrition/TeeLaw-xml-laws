@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Law Era="Showa" Lang="ja" LawType="Act" Num="014" Year="09" PromulgateMonth="03" PromulgateDay="27"><LawNum>昭和九年法律第十四号</LawNum><LawBody><LawTitle Kana="ふせいきょうそうぼうしほう" Abbrev="" AbbrevKana="">不正当竞争防止法</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>有进行符合左列各号之一的行为的人时，因此有损害营业上的利益之虞的，可以请求停止其行为。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>在本法施行的地域内，使用与被广泛认识的他人的姓名，商号，商标，商品的容器、包装及其他表示他人商品的标识相同或类似的标识，或是贩卖、散布或出口使用前述标识的商品，与他人的商品产生混同的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>在本法施行的地域内，使用与被广泛认识的他人的姓名、商号、标志及其他表示他人营业的标识相同或类似的标识，与他人的营业上的设施或活动产生混同的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>在商品或其广告或以公众可以知悉的方法在交易文书或通信上作出虚伪的原产地标识，或是贩卖、散布或出口有前述标识的商品，使人产生原产地的误认的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>在商品或其广告上或以公众可以知悉的方法在交易文书或通信上作出其商品在生产、制造或加工的地区以外的地区生产、制造或加工的、使人产生误认的标识，或是贩卖、散布或出口有前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>在商品或其广告上作出对其商品的品质、内容、制造方法、用途或数量产生误认的标识，或是贩卖、散布或出口有前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>陈述或扩散损害有竞争关系的他人的营业上信用的虚伪事实的行为</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" Function="main">在一九〇〇年十二月十四日于布鲁塞尔，一九一一年六月二日于华盛顿，一九二五年十一月六日于海牙，一九三四年六月二日于伦敦，一九五八年十月三十一日于里斯本及一九六七年七月十四日于斯德哥尔摩修订的有关保护工业产权的一八八三年三月二十日巴黎公约的同盟国（以下简称同盟国）拥有有关商标的权利（限于与商标权相当的权利，下同）的人，可以请求其代理人、代表人或曾经是其代理人、代表人的人在没有正当理由和拥有该有关商标的权利的人的同意的情况下，停止在相同或类似商品上使用与该权利的商标相同或类似的商标或是贩卖、散布或出口使用前述标识的相同或类似商品的行为。</Sentence>
+            <Sentence Num="2" Function="proviso">但是，对曾经是其代理人、代表人的人，其行为开始之日前一年以内不是代理人或代表人的，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" Function="main">保有不被公然知悉的、作为秘密管理的生产方法、贩卖方法等事业活动中有用的技术上或营业上的信息（下称商业秘密）的事业者（下称保有者）在有或将有进行符合左列各号之一的行为（下称商业秘密不正当行为）的人时，因该商业秘密不正当行为有损害营业上的利益之虞的，可以请求停止或预防该商业秘密不正当行为。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>以窃取、欺诈、强迫等不正当的手段取得商业秘密的行为（下称商业秘密的不正当取得行为）或使用、公开该取得的商业秘密的行为（包括保持秘密状态但向特定人展示。下同）</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>知道或因重大过失不知道其商业秘密存在商业秘密的不正当取得行为而取得商业秘密的行为，或是使用、公开该取得的商业秘密的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>取得商业秘密后，知道或因重大过失不知道其商业秘密存在商业秘密的不正当取得行为而使用或公开该商业秘密的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>有将保有者展示的商业秘密用于不正当的竞业等谋取不正当利益的行为，或以对保有者施加损害为目的使用的行为，或是以该目的公开的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>知道或因重大过失不知道其商业秘密系由商业秘密的不正当公开行为（指前号规定的公开行为及违反法律上保守秘密的义务而公开商业秘密的行为。下同）得来或存在商业秘密的不正当公开行为而取得商业秘密的行为，或是使用、公开该取得的商业秘密的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>取得商业秘密后，知道或因重大过失不知道其商业秘密系由商业秘密的不正当公开行为得来或存在商业秘密的不正当公开行为而使用或公开该商业秘密的行为</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="4" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" Function="main">保有者依前项规定作出请求时，可以请求销毁组成商业秘密不正当行为的物（包括包含商业秘密的介质）、因商业秘密不正当行为产生的物或供商业秘密不正当行为使用的设备，或是请求其他停止或预防商业秘密不正当行为所必要的措施。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="1_2">
+        <ArticleTitle>第一条之二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>因故意或过失有符合前条第一项各号之一的行为的，负对因此营业上的利益受害的人的损害赔偿责任。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>因故意或过失有前条第二项的行为的代理人或代表人或是该行为开始之日前一年以内曾经是其代理人、代表人的，负对因此营业上的利益受害的同项拥有有关商标的权利的人的损害赔偿责任。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" Function="main">因故意或过失以商业秘密不正当行为对他人营业上的利益造成损害的，负该损害的赔偿责任。</Sentence>
+            <Sentence Num="2" Function="proviso">但是，依第三条之二的规定前条第三项各号规定的请求停止或预防使用商业秘密的行为的权利消灭后，因使用该商业秘密的行为造成的损害，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>对因前条第一项第一号或第二号或同条第二项或商业秘密不正当行为的行为损害他人营业上的信用的人，或是有同条第一项第六号的行为的人，裁判所可以应被害者的请求，替代损害赔偿，或是与损害赔偿一同，命令其为恢复营业上信用采取必要措施。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条及第五条的规定不适用于符合左列各号之一的行为。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>以一般使用的方法使用商品的普通名称（以葡萄生产的物的原产地的地名的普通名称除外）、交易上同种商品一般惯用的标识的行为，或是贩卖、散布或出口使用前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>以一般使用的方法使用交易上同种营业一般惯用的名称等标识的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>善意使用自己姓名的行为或是贩卖、散布或出口使用前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>第一条第一项第一号、第二号所列标识在本法施行的地域内被广泛认识以前，善意使用与之相同或类似的标识的人或从其处与营业一同继承其标识的使用的人使用该标识的行为，或是贩卖、散布或出口使用前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>因交易取得商业秘密的人（限于取得时不知道该商业秘密系由商业秘密的不正当公开行为得来或是存在商业秘密的不正当取得行为或商业秘密的不正当公开行为且对不知道不存在重大过失的情况下取得该商业秘密的人）在其交易上得到的权限范围内使用或公开该商业秘密的行为</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" Function="main">对有前项第三号或第四号所列行为的人，因此营业上的利益有受害之虞的人为了防止商品或是营业上的设施或活动的混同，可以请求附加适当的标识。</Sentence>
+            <Sentence Num="2" Function="proviso">但是，对仅贩卖、散布或出口商品的人，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>除条约或与之类似的规定有特别规定的情况外，在本法施行的地域内没有住所或营业所的属于同盟国国家以外的外国人不得作出第一条、第一条之二及前条第二项的请求。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3_2">
+        <ArticleTitle>第三条之二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1">基于第一条第三项的规定，对于同项各号规定的请求停止或预防使用商业秘密的行为的权利，在有该行为的人的行为持续的情况下，因此有损害营业上的利益之虞的保有者在知道其事实及其行为人时起三年内不行使时，因时效而消灭。</Sentence>
+            <Sentence Num="2">同项各号规定的有使用商业秘密的行为的人在其行为持续的情况下，其行为开始时起经过十年时，亦同。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>未经该国对应官厅许可，不得使用与主务大臣指定的外国国家的纹章、旗帜等徽章相同或类似的徽章作为商标，或是贩卖或散布将其作为商标使用的商品。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>未经该国对应官厅许可，不得将前项的纹章以使人产生商品原产地误认的方式在交易上使用，或是贩卖或散布使用前述纹章的商品。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>未经该国对应官厅许可，不得将与主务大臣指定的外国官方监督用或证明用的印章或记号相同或类似的标识作为商标使用在相同或类似商品上，或是贩卖或散布使用前述商标的商品。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>使用日本国的纹章、旗帜等徽章或是官方监督用、证明用的印章或记号经过对应官厅许可时，即使前述标识与外国国家的纹章、旗帜等徽章或是官方监督用、证明用的印章或记号相同或类似，不适用前三项的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4_2">
+        <ArticleTitle>第四条之二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>未经该国际组织许可，不得以使人产生与该国际组织存在关系的误认的方式，将与主务大臣指定的同盟国加入的政府间国际组织的纹章、旗帜等徽章，略称或名称相同或类似的标识作为商标使用，或是贩卖或散布将其作为商标使用的商品。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>符合左列各号之一的，处三年以下的惩役或五十万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>在商品或其广告上作出对其商品的原产地、品质、内容、制造方法、用途或数量产生误认的虚伪的标识的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>以不正当竞争为目的，有符合第一条第一项第一号或第二号的行为的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>以不正当竞争为目的，有符合第一条第一项第三号至第五号之一的行为的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>违反前二条规定的</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5_2">
+        <ArticleTitle>第五条之二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法人的代表人或是法人、人的代理人、雇员等其他从业者就其法人或人的业务有前条的违反行为时，除处罚行为人外，对其法人或人科以同条的罚金刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>依特许法、实用新案法、意匠法或商标法的规定被认为是行使权利的行为的，不适用第一条第一项第一号及第二号以及第二项，第一条之二第一项、第二项及第四项，第四条第一项至第三项、第四条之二以及第五条第二号的规定。
+            </Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法施行的期日以敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和十三年三月八日法律第二号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法施行的期日以敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二十五年四月一日法律第九十号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法自公布之日起算经过一个月后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二十八年三月二十六日法律第二十六号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法自加入一九一一年六月二日于华盛顿，一九二五年十一月六日于海牙及一九三四年六月二日于伦敦修订的有关制止商品来源虚假或欺骗性标记的一八九一年四月十四日马德里协定的生效之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和四十年五月二十四日法律第八十一号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence Num="1" Function="main">本法自加入一九〇〇年十二月十四日于布鲁塞尔，一九一一年六月二日于华盛顿，一九二五年十一月六日于海牙，一九三四年六月二日于伦敦及一九五八年十月三十一日于里斯本修订的有关保护工业产权的一八八三年三月二十日巴黎公约的生效之日起施行。</Sentence>
+          <Sentence Num="2" Function="proviso">但是，第四条中不正当竞争防止法第一条第四号的修改规定，自加入一九一一年六月二日于华盛顿，一九二五年十一月六日于海牙，一九三四年六月二日于伦敦及一九五八年十月三十一日于里斯本修订的有关制止商品来源虚假或欺骗性标记的一八九一年四月十四日马德里协定的生效之日起施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和五十年六月二十五日法律第四十六号" Extract="true">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" Function="main">本法自昭和五十一年一月一日起施行。</Sentence>
+            <Sentence Num="2" Function="proviso">但是，下列各号中的规定在各号对应的期日起施行。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>略</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Column Num="1">
+                <Sentence Num="1" WritingMode="vertical">第一条的规定中特许法第十七条第一项但书的修改规定（将“及第六十四条”修改为“、第十七条之三及第六十四条”的部分除外）、第二条的规定中实用新案法第十三条之二第一项的修改规定、第四条的规定中商标法第四条第一项第二号及第九条第一项的修改规定以及第五条的规定</Sentence>
+              </Column>
+              <Column Num="2">
+                <Sentence Num="1" WritingMode="vertical">依一九〇〇年十二月十四日于布鲁塞尔，一九一一年六月二日于华盛顿，一九二五年十一月六日于海牙，一九三四年六月二日于伦敦，一九五八年十月三十一日于里斯本及一九六七年七月十四日于斯德哥尔摩修订的有关保护工业产权的一八八三年三月二十日巴黎公约第二十条(2)(c)的规定，同条约第一条至第十二条的规定生效之日</Sentence>
+              </Column>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="平成二年六月二十九日法律第六十六号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Article Num="1">
+        <ArticleCaption>（施行期日）</ArticleCaption>
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>本法自政令于公布之日起算不超过一年的范围内指定的期日起施行。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleCaption>（过渡措施）</ArticleCaption>
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>依本法修改后的不正当竞争防止法（下称“新法”）第一条第三项及第四项以及第一条之二第三项的规定，不适用于本法施行前进行的涉及新法第一条第三项第一号规定的商业秘密的不正当取得行为或同项第五号规定的商业秘密的不正当公开行为之本法施行后进行的同项规定的商业秘密不正当行为（符合下列各号所列行为的除外）及继续进行本法施行前开始的同项第四号规定的使用商业秘密的行为的行为。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>新法第一条第三项第一号至第三号、第五号及第六号规定的公开商业秘密的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>新法第一条第三项第二号及第五号规定的取得商业秘密的行为以及使用以前述行为取得的商业秘密的行为</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+    </SupplProvision>
+  </LawBody>
+</Law>

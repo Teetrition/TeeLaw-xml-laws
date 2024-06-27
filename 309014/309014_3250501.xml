@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Law Era="Showa" Lang="ja" LawType="Act" Num="014" Year="09" PromulgateMonth="03" PromulgateDay="27"><LawNum>昭和九年法律第十四号</LawNum><LawBody><LawTitle Kana="ふせいきょうそうぼうしほう" Abbrev="" AbbrevKana="">不正当竞争防止法</LawTitle>
+    <MainProvision>
+      <Article Num="1">
+        <ArticleTitle>第一条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>有进行符合左列各号之一的行为的人时，因此有损害营业上的利益之虞的，可以请求停止其行为。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>在本法施行的地域内，使用与被广泛认识的他人的姓名，商号，商标，商品的容器、包装及其他表示他人商品的标识相同或类似的标识，或是贩卖、散布或出口使用前述标识的商品，与他人的商品产生混同的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>在本法施行的地域内，使用与被广泛认识的他人的姓名、商号、标志及其他表示他人营业的标识相同或类似的标识，与他人的营业上的设施或活动产生混同的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>在商品或其广告上作出虚伪的原产地标识，或是贩卖、散布或出口有前述标识的商品，使人产生原产地的误认的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>在商品或其广告上作出其商品在生产、制造或加工的国家以外的地区生产、制造或加工的、使人产生误认的标识，或是贩卖、散布或出口有前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="5">
+            <ItemTitle>五</ItemTitle>
+            <ItemSentence>
+              <Sentence>在商品或其广告上作出对其商品的品质、内容或数量产生误认的标识，或是贩卖、散布或出口有前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="6">
+            <ItemTitle>六</ItemTitle>
+            <ItemSentence>
+              <Sentence>陈述或扩散损害有竞争关系的他人的营业上信用的虚伪事实的行为</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="1_2">
+        <ArticleTitle>第一条之二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>因故意或过失有符合前条各号之一的行为的，负对因此营业上的利益受害的人的损害赔偿责任。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>对因前条第一号或第二号的行为损害他人营业上的信用的人，或是有同条第六号的行为的人，裁判所可以应被害者的请求，替代损害赔偿，或是与损害赔偿一同，命令其为恢复营业上信用采取必要措施。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="2">
+        <ArticleTitle>第二条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>前二条及第五条的规定不适用于符合左列各号之一的行为。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>以一般使用的方法使用商品的普通名称、交易上同种商品一般惯用的标识的行为，或是贩卖、散布或出口使用前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>以一般使用的方法使用交易上同种营业一般惯用的名称等标识的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>善意使用自己姓名的行为或是贩卖、散布或出口使用前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>第一条第一号、第二号所列标识在本法施行的地域内被广泛认识以前，善意使用与之相同或类似的标识的人或从其处与营业一同继承其标识的使用的人使用该标识的行为，或是贩卖、散布或出口使用前述标识的商品的行为</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence Num="1" Function="main">对有前项第三号或第四号所列行为的人，因此营业上的利益有受害之虞的人为了防止商品或是营业上的设施或活动的混同，可以请求附加适当的标识。</Sentence>
+            <Sentence Num="2" Function="proviso">但是，对仅贩卖、散布或出口商品的人，不在此限。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="3">
+        <ArticleTitle>第三条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>除条约或与之类似的规定有特别规定的情况外，在本法施行的地域内没有住所或营业所的属于保护工业产权公约同盟国国家以外的外国人不得作出第一条、第一条之二及前条第二项的请求。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="4">
+        <ArticleTitle>第四条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>未经该国对应官厅许可，不得使用与主务大臣指定的外国国家的纹章、旗帜等徽章相同或类似的徽章作为商标，或是贩卖或散布将其作为商标使用的商品。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="2" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>未经该国对应官厅许可，不得将前项的纹章以使人产生商品原产地误认的方式在交易上使用，或是贩卖或散布使用前述纹章的商品。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="3" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>未经该国对应官厅许可，不得将与主务大臣指定的外国官方监督用或证明用的印章或记号相同或类似的标识作为商标使用在相同或类似商品上，或是贩卖或散布使用前述商标的商品。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+        <Paragraph Num="4" OldNum="true" OldStyle="false">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>使用日本国的纹章、旗帜等徽章或是官方监督用、证明用的印章或记号经过对应官厅许可时，即使前述标识与外国国家的纹章、旗帜等徽章或是官方监督用、证明用的印章或记号相同或类似，不适用前三项的规定。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="5">
+        <ArticleTitle>第五条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>符合左列各号之一的，处三年以下的惩役或二十万日元以下的罚金。</Sentence>
+          </ParagraphSentence>
+          <Item Num="1">
+            <ItemTitle>一</ItemTitle>
+            <ItemSentence>
+              <Sentence>在商品或其广告上作出对其商品的原产地、品质、内容或数量产生误认的虚伪的标识的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="2">
+            <ItemTitle>二</ItemTitle>
+            <ItemSentence>
+              <Sentence>以不正当竞争为目的，有符合第一条第一号或第二号的行为的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="3">
+            <ItemTitle>三</ItemTitle>
+            <ItemSentence>
+              <Sentence>以不正当竞争为目的，有符合第一条第三号至第五号之一的行为的</Sentence>
+            </ItemSentence>
+          </Item>
+          <Item Num="4">
+            <ItemTitle>四</ItemTitle>
+            <ItemSentence>
+              <Sentence>违反前条规定的</Sentence>
+            </ItemSentence>
+          </Item>
+        </Paragraph>
+      </Article>
+      <Article Num="5_2">
+        <ArticleTitle>第五条之二</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>法人的代表人或是法人、人的代理人、雇员等其他从业者就其法人或人的业务有前条的违反行为时，除处罚行为人外，对其法人或人科以同条的罚金刑。</Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+      <Article Num="6">
+        <ArticleTitle>第六条</ArticleTitle>
+        <Paragraph Num="1">
+          <ParagraphNum/>
+          <ParagraphSentence>
+            <Sentence>依特许法、实用新案法、意匠法或商标法的规定被认为是行使权利的行为的，不适用第一条第一号、第二号，第一条之二，第四条第一项至第三项及第五条第二号的规定。
+            </Sentence>
+          </ParagraphSentence>
+        </Paragraph>
+      </Article>
+    </MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法施行的期日以敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和十三年三月八日法律第二号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法施行的期日以敕令规定。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+    <SupplProvision AmendLawNum="昭和二十五年四月一日法律第九十号">
+      <SupplProvisionLabel>附　则</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphNum/>
+        <ParagraphSentence>
+          <Sentence>本法自公布之日起算经过一个月后施行。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>

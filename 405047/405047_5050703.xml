@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Law Era="Heisei" Lang="ja" LawType="Act" Num="047" Year="05" PromulgateMonth="05" PromulgateDay="19"><LawNum>平成五年法律第四十七号</LawNum><LawBody><LawTitle Kana="ふせいきょうそうぼうしほう" Abbrev="不競法" AbbrevKana="ふ">不正当竞争防止法（节选）</LawTitle>
-    <EnactStatement>改正不正当竞争防止法（昭和九年法律第十四号）的全部。</EnactStatement>
+<Law Era="Heisei" Lang="ja" LawType="Act" Num="047" Year="05" PromulgateMonth="05" PromulgateDay="19"><LawNum>平成五年法律第四十七号</LawNum><LawBody><LawTitle Kana="ふせいきょうそうぼうしほう" Abbrev="不競法" AbbrevKana="ふ">不正当竞争防止法</LawTitle>
+    <EnactStatement>修改不正当竞争防止法（昭和九年法律第十四号）的全部。</EnactStatement>
     <TOC>
       <TOCLabel>目录</TOCLabel>
       <TOCChapter Num="1">
         <ChapterTitle>第一章　总则</ChapterTitle>
-        <ArticleRange>（第一条・第二条）</ArticleRange>
+        <ArticleRange>（第一条、第二条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="2">
         <ChapterTitle>第二章　停止侵害请求、损害赔偿等</ChapterTitle>
@@ -21,7 +21,7 @@
       </TOCChapter>
       <TOCChapter Num="5">
         <ChapterTitle>第五章　罚则</ChapterTitle>
-        <ArticleRange>（第二十一条・第二十二条）</ArticleRange>
+        <ArticleRange>（第二十一条、第二十二条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="6">
         <ChapterTitle>第六章　刑事诉讼手续的特例</ChapterTitle>
@@ -33,7 +33,7 @@
       </TOCChapter>
       <TOCChapter Num="8">
         <ChapterTitle>第八章　保全手续</ChapterTitle>
-        <ArticleRange>（第三十五条・第三十六条）</ArticleRange>
+        <ArticleRange>（第三十五条、第三十六条）</ArticleRange>
       </TOCChapter>
       <TOCChapter Num="9">
         <ChapterTitle>第九章　没收及追征的裁判的执行及有关保全的国际互助手续等</ChapterTitle>
@@ -224,19 +224,19 @@
           <Paragraph Num="6">
             <ParagraphNum>６</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">本法所称的“商业秘密”，是指作为秘密管理的生产方法、贩卖方法等其他事业活动中有用的技术上或营业上的情报，且不被公然知悉。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">本法所称的“商业秘密”，是指作为秘密管理的生产方法、贩卖方法等事业活动中有用的技术上或营业上的信息，且不被公然知悉。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="7">
             <ParagraphNum>７</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">本法所称的“限定提供数据”，是指以向特定人提供情报为业，通过电磁方法（指电子方法、磁气方法或他人知觉无法认识到的方法。次项同）储备及管理了相当数量的技术上或营业上的情报（作为秘密管理的除外）。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">本法所称的“限定提供数据”，是指以向特定人提供信息为业，通过电磁方法（指电子方法、磁气方法或他人知觉无法认识到的方法。次项同）储备及管理了相当数量的技术上或营业上的信息（作为秘密管理的除外）。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="8">
             <ParagraphNum>８</ParagraphNum>
             <ParagraphSentence>
-              <Sentence Num="1" WritingMode="vertical">本法所称的“技术限制措施”，是指通过电磁方法限制影像或声音的视听、计算机程序的运行或情报的处理，或是影像、声音、计算机程序或其他情报的记录的手段，且通过视听等机器（指用于影像或声音的视听、计算机程序的运行或情报的处理，或是影像、声音、计算机程序或其他情报的记录的机器。以下本项同）将特定的响应信号记录在记录媒介上或发送的方式；或是视听等机器为作特定变换，将影像、声音、计算机程序或其他情报变换后记录在记录媒介上或发送的方式进行。</Sentence>
+              <Sentence Num="1" WritingMode="vertical">本法所称的“技术限制措施”，是指通过电磁方法限制影像或声音的视听、计算机程序的运行或信息的处理，或是影像、声音、计算机程序或其他信息的记录的手段，且通过视听等机器（指用于影像或声音的视听、计算机程序的运行或信息的处理，或是影像、声音、计算机程序或其他信息的记录的机器。以下本项同）将特定的响应信号记录在记录媒介上或发送的方式；或是视听等机器为作特定变换，将影像、声音、计算机程序或其他信息变换后记录在记录媒介上或发送的方式进行。</Sentence>
             </ParagraphSentence>
           </Paragraph>
           <Paragraph Num="9">
