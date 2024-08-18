@@ -1830,20 +1830,20 @@
               </Paragraph>
             </Article>
             <Article Num="30_2">
-              <ArticleCaption>（付随対象著作物の利用）</ArticleCaption>
-              <ArticleTitle>第三十条の二</ArticleTitle>
+              <ArticleCaption>（附随对象作品的利用）</ArticleCaption>
+              <ArticleTitle>第三十条之二</ArticleTitle>
               <Paragraph Num="1">
                 <ParagraphNum/>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">写真の撮影、録音、録画、放送その他これらと同様に事物の影像又は音を複製し、又は複製を伴うことなく伝達する行為（以下この項において「複製伝達行為」という。）を行うに当たつて、その対象とする事物又は音（以下この項において「複製伝達対象事物等」という。）に付随して対象となる事物又は音（複製伝達対象事物等の一部を構成するものとして対象となる事物又は音を含む。以下この項において「付随対象事物等」という。）に係る著作物（当該複製伝達行為により作成され、又は伝達されるもの（以下この条において「作成伝達物」という。）のうち当該著作物の占める割合、当該作成伝達物における当該著作物の再製の精度その他の要素に照らし当該作成伝達物において当該著作物が軽微な構成部分となる場合における当該著作物に限る。以下この条において「付随対象著作物」という。）は、当該付随対象著作物の利用により利益を得る目的の有無、当該付随対象事物等の当該複製伝達対象事物等からの分離の困難性の程度、当該作成伝達物において当該付随対象著作物が果たす役割その他の要素に照らし正当な範囲内において、当該複製伝達行為に伴つて、いずれの方法によるかを問わず、利用することができる。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該付随対象著作物の種類及び用途並びに当該利用の態様に照らし著作権者の利益を不当に害することとなる場合は、この限りでない。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">在进行照片的摄影、录音、录像、广播或与之相似地进行事物的影像或声音的复制或不伴随复制的传达行为（以下本项称“复制传达行为”）时，对于附随于作为其对象的事物或声音（以下本项称“复制传达对象事物等”）而作为对象的事物或声音（包括构成复制传达对象事物等的一部分而作为对象的事物或声音。以下本项称“附随对象事物等”）的作品（限于比照在该复制传达行为中制作或传达的物（以下本条称“制作的传达物”）中该作品所占比例、该制作的传达物中该作品再制的精度等要素后，该制作的传达物中该作品属于微小的构成部分的情况下的该作品。以下本条称“附随对象作品”），比照该附随对象作品使用是否有获得利益的目的、该附随对象事物等从该复制传达对象事物等分离的困难程度、该制作的传达物中该附随对象作品所起的作用等要素，在正当的范围内，不问以何方法，可以伴随该复制传达行为使用。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，比照该附随对象作品的种类、用途及使用的样态，对著作权人利益造成不当损害的情况下，不在此限。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
               <Paragraph Num="2">
                 <ParagraphNum>２</ParagraphNum>
                 <ParagraphSentence>
-                  <Sentence Function="main" Num="1" WritingMode="vertical">前項の規定により利用された付随対象著作物は、当該付随対象著作物に係る作成伝達物の利用に伴つて、いずれの方法によるかを問わず、利用することができる。</Sentence>
-                  <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、当該付随対象著作物の種類及び用途並びに当該利用の態様に照らし著作権者の利益を不当に害することとなる場合は、この限りでない。</Sentence>
+                  <Sentence Function="main" Num="1" WritingMode="vertical">不问以何方法，根据前项规定使用的附随对象作品可以伴随该附随对象作品的制作的传达物的使用而使用。</Sentence>
+                  <Sentence Function="proviso" Num="2" WritingMode="vertical">但是，比照该附随对象作品的种类、用途及使用的样态，对著作权人利益造成不当损害的情况下，不在此限。</Sentence>
                 </ParagraphSentence>
               </Paragraph>
             </Article>
